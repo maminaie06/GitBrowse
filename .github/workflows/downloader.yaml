@@ -233,46 +233,19 @@ jobs:
               FOLDER_NAME=$(get_unique_folder "downloads" "$ARCHIVE_NAME")
               mkdir -p "downloads/$FOLDER_NAME"
               echo "Creating zip archive in folder: downloads/$FOLDER_NAME"
+              # Standard multi-part zip (.z01, .z02, ... .zip) under GitHub's 100 MB limit per file.
               if [ -n "$ZIP_PASSWORD" ]; then
-                zip -j -P "$ZIP_PASSWORD" "downloads/$FOLDER_NAME/${ARCHIVE_NAME}.zip" tmp_downloads/*
+                zip -j -0 -s "${SPLIT_THRESHOLD_MB}m" -P "$ZIP_PASSWORD" "downloads/$FOLDER_NAME/${ARCHIVE_NAME}.zip" tmp_downloads/*
               else
-                zip -j "downloads/$FOLDER_NAME/${ARCHIVE_NAME}.zip" tmp_downloads/*
+                zip -j -0 -s "${SPLIT_THRESHOLD_MB}m" "downloads/$FOLDER_NAME/${ARCHIVE_NAME}.zip" tmp_downloads/*
               fi
 
-              # Create README.md for zip mode
-              ZIP_SIZE=$(stat -c%s "downloads/$FOLDER_NAME/${ARCHIVE_NAME}.zip")
-              ZIP_SIZE_MB=$(echo "scale=2; $ZIP_SIZE / 1024 / 1024" | bc)
-              FOLDER_ENCODED=$(echo "${FOLDER_NAME}" | sed 's/ /%20/g')
-              FILE_ENCODED=$(echo "${ARCHIVE_NAME}.zip" | sed 's/ /%20/g')
-              RAW_LINK="https://github.com/${REPO_OWNER}/${REPO_NAME}/raw/${BRANCH}/downloads/${FOLDER_ENCODED}/${FILE_ENCODED}"
+              python3 "${GITHUB_WORKSPACE}/scripts/write_download_bundle_readmes.py" \
+                --dest-dir "downloads/${FOLDER_NAME}" \
+                --archive-base "${ARCHIVE_NAME}"
 
-              {
-                echo "# ${ARCHIVE_NAME} Archive"
-                echo ""
-                echo "---"
-                echo ""
-                echo "## Download Information"
-                echo ""
-                echo "| Property | Value |"
-                echo "|----------|-------|"
-                echo "| **Archive Name** | \`${ARCHIVE_NAME}.zip\` |"
-                echo "| **Size** | ${ZIP_SIZE_MB} MB |"
-                echo "| **Status** | **Complete (100%)** |"
-                if [ -n "$ZIP_PASSWORD" ]; then
-                  echo "| **Password Protected** | **YES** |"
-                else
-                  echo "| **Password Protected** | **NO** |"
-                fi
-                echo ""
-                echo "---"
-                echo ""
-                echo "## Download Link"
-                echo ""
-                echo "| File | Link |"
-                echo "|------|------|"
-                echo "| \`${ARCHIVE_NAME}.zip\` | [Download](${RAW_LINK}) |"
-                echo ""
-              } > "downloads/$FOLDER_NAME/README.md"
+              echo "Split zip bundle (parts ≤ ${SPLIT_THRESHOLD_MB} MB each): downloads/${FOLDER_NAME}"
+              ls -lah "downloads/${FOLDER_NAME}"
             fi
             rm -rf tmp_downloads
           else
