@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://www.google.com/search?sa=X&sca_esv=fbcbad65759593ad&sxsrf=ANbL-n6iBngN6bxSrj5GDveqoYrizQwzZQ:1778557573496&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTX5ijYCyJdSZFM4mewRGuivYYa3mYl0ctDuDplBAp7RpJmIduY5q-cYztoXefrakRV7RrTrL5A6ry4ykJaWkTsnlaGtzWbCsnM39ipim424zYMxUMvIccvSIv0ESKANRTFRaJutg9J8m3S7D2nVlI9D0OOTzm&q=hazel+moore&ved=2ahUKEwiZ2YWj67KUAxXqgv0HHTVIJM8QtKgLegQIEBAB&biw=1912&bih=994&dpr=1#sv=CAMSVhoyKhBlLW1NS0I0ckVpQXdHcUFNMg5tTUtCNHJFaUF3R3FBTToOeXQzNllqNlM2VHptRU0gBCocCgZtb3NhaWMSEGUtbU1LQjRyRWlBd0dxQU0YADABGAcgrZvtG0oIEAEYASABKAE",
+  "captured_at_utc": "2026-05-12T03:49:25.705595+00:00",
+  "domain": "google.com",
+  "slug": "www.google.com_search_sa_X_sca_esv_fbcbad65759593ad_sxsrf_ANbL-n6iBngN6bxSrj5GDveqoYrizQwzZQ_1778557573496_udm",
+  "timestamp": "20260512_034925",
+  "session_key": "google_com",
+  "persist_session": true,
+  "used_existing_session": false,
+  "save_response_bodies": true,
+  "max_response_body_mb": 2.0,
+  "max_asset_size_mb": 25.0,
+  "auto_scroll": true,
+  "include_videos": false,
+  "proxy": {
+    "enabled": false,
+    "mode": "none"
+  },
+  "final_url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fsa%3DX%26sca_esv%3Dfbcbad65759593ad%26sxsrf%3DANbL-n6iBngN6bxSrj5GDveqoYrizQwzZQ:1778557573496%26udm%3D2%26fbs%3DADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTX5ijYCyJdSZFM4mewRGuivYYa3mYl0ctDuDplBAp7RpJmIduY5q-cYztoXefrakRV7RrTrL5A6ry4ykJaWkTsnlaGtzWbCsnM39ipim424zYMxUMvIccvSIv0ESKANRTFRaJutg9J8m3S7D2nVlI9D0OOTzm%26q%3Dhazel%2Bmoore%26ved%3D2ahUKEwiZ2YWj67KUAxXqgv0HHTVIJM8QtKgLegQIEBAB%26biw%3D1912%26bih%3D994%26dpr%3D1%26sei%3DRqMCavL8M5uHp84P0pmgmAM&q=EgQ04R0DGMfGitAGIjA-C1l7A-qcowzsKMBISUjiNJQrO7rb64YCS3nyB2DDXaK_HsgqE-l7f9OrBQXhcXYyAVJaAUM#sv=CAMSVhoyKhBlLW1NS0I0ckVpQXdHcUFNMg5tTUtCNHJFaUF3R3FBTToOeXQzNllqNlM2VHptRU0gBCocCgZtb3NhaWMSEGUtbU1LQjRyRWlBd0dxQU0YADABGAcgrZvtG0oIEAEYASABKAE",
+  "offline_assets_saved": 4,
+  "offline_assets_skipped": 0,
+  "offline_assets_failed": 0,
+  "dom_link_count": 8,
+  "media_link_count": 0,
+  "session_path": "sessions/google_com.json",
+  "network_request_count": 16
+}

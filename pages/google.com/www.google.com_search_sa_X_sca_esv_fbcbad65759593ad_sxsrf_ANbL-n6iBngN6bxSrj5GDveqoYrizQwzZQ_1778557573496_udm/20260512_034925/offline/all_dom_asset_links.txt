@@ -1,0 +1,4 @@
+https://www.google.com/recaptcha/enterprise.js
+https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdLLIMbAAAAAIl-KLj9p1ePhM-4LCCDbjtJLqRO&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=normal&s=Dh8aJpdAedkdeAxov6NFOZOQCi2X5OayR5jYIvsVpdre-00qUupoDct1twi0VmVyKhP1NaHCS9h0WcuoF7SlOb88fNn19Iwew_7SdEER2ZzQB8lTaIDQT4ww6TqZxTcjZ8h_-Qy3BbAioJ3-HWnMGINpjaw1SGFIXuvgvAoLZ64fRL-RAdeHdD6IJGXyOy0pUv7Ymm0IUFpjAlsx18QcB201daZtJzwBe2ReFHYhTbxs6EjzIDilc7F0elwThzP9bxy4UGK2DCw3VDWsHzZ_SGrWeZxMZ_I&anchor-ms=20000&execute-ms=30000&cb=l2pbzis032zm
+https://www.google.com/recaptcha/enterprise/bframe?hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&k=6LdLLIMbAAAAAIl-KLj9p1ePhM-4LCCDbjtJLqRO&bft=0dAFcWeA7P_ryed6zgn0IeDS1klke3rlj22C5YFLCDbMzkMWAgLs80bE64hfFcTs8szC4SbEFzvP8bAGnB-13xo-ozk27s9S1l6g
+https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js

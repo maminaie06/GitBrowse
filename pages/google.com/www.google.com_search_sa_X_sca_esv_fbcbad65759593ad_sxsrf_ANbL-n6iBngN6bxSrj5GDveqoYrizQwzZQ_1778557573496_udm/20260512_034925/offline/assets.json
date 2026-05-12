@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+    "final_url": "https://www.gstatic.com/recaptcha/releases/U5VsmTDhJM1iOJUyw4DEUTYv/recaptcha__en.js",
+    "status": "saved",
+    "path": "assets/221026a964a815d5_recaptcha__en.js",
+    "content_type": "text/javascript",
+    "size": 876536,
+    "sha256": "4b224b78790868ef23317bf73a537a4a8c3df8f014ff9d2e5a42dcc8b1279c5d"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise.js",
+    "final_url": "https://www.google.com/recaptcha/enterprise.js",
+    "status": "saved",
+    "path": "assets/05579c0b00102e68_enterprise.js",
+    "content_type": "text/javascript",
+    "size": 1638,
+    "sha256": "020206b48c86181518d6b870adb926d5d979cf69799bc5d115d50efcf3918b0d"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdLLIMbAAAAAIl-KLj9p1ePhM-4LCCDbjtJLqRO&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=normal&s=Dh8aJpdAedkdeAxov6NFOZOQCi2X5OayR5jYIvsVpdre-00qUupoDct1twi0VmVyKhP1NaHCS9h0WcuoF7SlOb88fNn19Iwew_7SdEER2ZzQB8lTaIDQT4ww6TqZxTcjZ8h_-Qy3BbAioJ3-HWnMGINpjaw1SGFIXuvgvAoLZ64fRL-RAdeHdD6IJGXyOy0pUv7Ymm0IUFpjAlsx18QcB201daZtJzwBe2ReFHYhTbxs6EjzIDilc7F0elwThzP9bxy4UGK2DCw3VDWsHzZ_SGrWeZxMZ_I&anchor-ms=20000&execute-ms=30000&cb=l2pbzis032zm",
+    "final_url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdLLIMbAAAAAIl-KLj9p1ePhM-4LCCDbjtJLqRO&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&size=normal&s=Dh8aJpdAedkdeAxov6NFOZOQCi2X5OayR5jYIvsVpdre-00qUupoDct1twi0VmVyKhP1NaHCS9h0WcuoF7SlOb88fNn19Iwew_7SdEER2ZzQB8lTaIDQT4ww6TqZxTcjZ8h_-Qy3BbAioJ3-HWnMGINpjaw1SGFIXuvgvAoLZ64fRL-RAdeHdD6IJGXyOy0pUv7Ymm0IUFpjAlsx18QcB201daZtJzwBe2ReFHYhTbxs6EjzIDilc7F0elwThzP9bxy4UGK2DCw3VDWsHzZ_SGrWeZxMZ_I&anchor-ms=20000&execute-ms=30000&cb=l2pbzis032zm",
+    "status": "saved",
+    "path": "assets/fada06fabca7dd03_anchor.html",
+    "content_type": "text/html",
+    "size": 55168,
+    "sha256": "87630e8ddab1691cf4300280655466f9cd434eafe2cbc095606aaa6f7bf6a0cf"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise/bframe?hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&k=6LdLLIMbAAAAAIl-KLj9p1ePhM-4LCCDbjtJLqRO&bft=0dAFcWeA7P_ryed6zgn0IeDS1klke3rlj22C5YFLCDbMzkMWAgLs80bE64hfFcTs8szC4SbEFzvP8bAGnB-13xo-ozk27s9S1l6g",
+    "final_url": "https://www.google.com/recaptcha/enterprise/bframe?hl=en&v=U5VsmTDhJM1iOJUyw4DEUTYv&k=6LdLLIMbAAAAAIl-KLj9p1ePhM-4LCCDbjtJLqRO&bft=0dAFcWeA7P_ryed6zgn0IeDS1klke3rlj22C5YFLCDbMzkMWAgLs80bE64hfFcTs8szC4SbEFzvP8bAGnB-13xo-ozk27s9S1l6g",
+    "status": "saved",
+    "path": "assets/5a699c9f0368c691_bframe.html",
+    "content_type": "text/html",
+    "size": 17041,
+    "sha256": "98c9263138221d99f458f6a64d0640a83e4b77a8da4e80002f02843823aac776"
+  }
+]
