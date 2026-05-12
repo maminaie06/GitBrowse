@@ -1,0 +1,439 @@
+Browse
+BROWSE ALL (120)
+Minecraft
+The Sims 4
+World of Warcraft
+Minecraft Bedrock
+Ark Survival Ascended
+Hytale
+inZOI
+StarCraft II
+Kerbal Space Program
+Stardew Valley
+American Truck Simulator
+Hogwarts Legacy
+Terraria
+WildStar
+World of Tanks
+Palworld
+Runes of Magic
+Rift
+Create
+MOD AUTHORS
+Become an Author
+Start a Project
+Project Submission Guide
+MODDING TOOL DEVELOPERS
+Apply for an API Key
+Documentation
+Terms & Conditions
+SOCIAL
+Join Our Discord!
+Authors Discord
+Studios
+GAME DEVELOPERS
+Unlock Modding for Your Game
+Documentation
+Go Premium
+Get CurseForge App
+Sign In
+Discover
+Browse All
+Minecraft Bedrock
+Texture Packs
+Vanilla RTX
+By
+Cubeir
+Texture Packs
+The default ray-traced Minecraft graphics, everything is covered! — Vanilla Resources Made Available for Minecraft with RTX.
+Vanilla RTX
+Download
+Details
+Downloads
+1,045,974
+Created
+4 years ago
+Updated
+2 days ago
+Project ID
+567844
+License
+Custom License
+Game Versions
+26.10
+26.3
+26.0.02
+26.0
+1.21.130
++ 20 Versions
+Categories
+Miscellaneous
+Themed
+X128
+X16
+Links
+Wiki
+Source
+Main File
+26.10
+Vanilla-RTX-1.26.13.mcpack
+R
+May 9, 2026
+Recent Files
+View all
+Game
+Vanilla-RTX-1.26.13.mcpack
+R
+May 9, 2026
+Report
+Description
+Comments (60)
+Files
+Gallery (41)
+Relations
+Issues
+
+Vanilla Resources Made Available for Minecraft with RTX 
+
+Vanilla RTX is the go-to ray tracing resource pack for Minecraft RTX, bringing together a cohesive art direction for default ray-traced Minecraft graphics since 2020—Enabling players to use Minecraft's ray tracing features in any world or servers by adding thoughtfully-crafted materials and configurations to the base game without altering the vanilla experience, delivering complete ray tracing support for Minecraft in a manner that integrates seamlessly and maintains a native look and feel.
+
+Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)
+All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
+Every material has been carefully designed to give each block the character it deserves while preserving its original style and functionality—without diverging from the artist's intent inherent in the texture.
+Everything has been fine-tuned for Minecraft's ray tracing.
+Compatibility errors of vanilla resources with ray tracing are resolved through Enhancements
+
+Main Resource Packs:
+
+Vanilla RTX uses 16x heightmaps which define depth on blocks.
+Vanilla RTX Normals features handcrafted 16x normal maps instead, which simulate curvature by defining the direction each pixel in the texture is facing.
+Vanilla RTX Opus is the composition of both Vanilla RTX & Vanilla RTX Normals, featuring 192x normal maps with an unprecedented level of detail.
+
+Related Projects:
+
+Vanilla RTX App is an installable tool that lets you launch Minecraft RTX without issues in one click, customize fog, lighting or materials in Vanilla RTX, recieve updates automatically, upgrade DLSS, and more...
+Vanilla RTX Add-Ons are a series of smaller packages that give certain blocks interesting properties!
+Chemistry RTX packs are optional extensions to extend support to Minecraft: Education Edition Chemistry content.
+Creative RTX HD Material Pack features a collection of exotic high definition materials for creative builds with ray tracing.
+
+With Vanilla RTX all blocks receives their own custom RTX flavor, elevating their character.
+Every texture is meticulously taken care of for the highest level of detail and internal consistency while making sure they preserve or complement their core vanilla style and functionlity.
+
+Vanilla RTX is is the most up-to-date ray tracing resource pack for Minecraft, regular updates add support for newer Minecraft features while improving the appearance of existing ones and adapting to the latest versions of the game.
+
+A wide range of technical and compatibility issues of vanilla resources with ray tracing have also been addressed in this pack, giving all players the ability to continue to enjoy the latest Minecraft updates with ray tracing at its best.
+
+Most of fog colors with ray tracing have been made to match vanilla game colors and to complement each biome's intended concept, but if you want to control the intensity of fog effects, you can easily achieve that (and much more!) through the Vanilla RTX App.
+
+
+
+
+
+Support for the Copper Age game drop has been added.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minecraft RTX Bug Fixes & Enhancements
+
+These features enhance visuals and provide workarounds for many of Minecraft's issues, this page contains all of the latest information about everything included in the latest version. The spoiler section below contains a summary.
+
+Glowing Entity Enhancements: Mobs that have glowing parts in vanilla Minecraft now display the same glow with ray tracing. This is taken a step further with some entities such as the creaking with a unique bloom effect!
+
+Copper Golem Eyes Texture Fix: Copper Golem's eyes are no longer missing their texture with ray tracing, they've also been enhanced to glow with ray tracing, with a unique bloom effect that fades, matching the colors of their respective copper bulb's oxidization stage (MCPE-227676) 
+
+Entity Invisibility Issues Fix: Invisibility effect now properly hides models of the following entities when ray tracing is enabled: Spider, Cave Spider, Phantom and Enderman, Alerted Creaking.
+
+Enhanced Candles: Candles lack a point light, candles' appearance have been improved, now with an strong emissive wick! (1.21.80+ Only)
+
+Universal workaround for rendering errors of cross-shaped blocks, foliage and crops with ray tracing (MCPE-189266)
+- This issue persists for the following blocks: Glowberry vines, Pitcher plant, Kelp, Pointed dripstone, Weeping vines, Twisting vines, Seagrass, Sweet berry bush
+
+Decorated Pot Issue Workaround: By default decorated pots texture display incorrectly with ray tracing. (MCPE-167161)
+
+
+Spyglass Texture Fix: Cleared dark spots on spyglass texture, so that the issue of the texture being overly zoomed-in no longer interferes with functionality of spyglass (MCPE-125925)
+
+Missing Point Lights Workaround: Light sources that previously had point lights will once again be functional (MCPE-227624)
+
+Black Entities, Animation and Texture Fixes: 
+- Some entities such as Breeze and Warden no longer display black textures, the wither, breeze wind and projectile have been improved for ray tracing with restored texture animations (MCPE-157438)  (MCPE-141530 ) (MCPE-183631)
+- Iron Golem's crack stage textures have been restored for ray tracing.
+- Villager and Zombie Villager texture issues have been resolved, villager models have been enhanced with more detail (MCPE-111414)
+Known issues with villagers and zombie villagers:
+- Performance impact may be larger when too many villagers are present.
+- Texture Z-fighting may occur without ray tracing.
+- Still villager heads may occasionally flicker with ray tracing.
+
+Snow Golem Fix: Snow Golem's head is no longer rendered similar to particles.
+Known issue: Invisible Snow Golem head still renders as a particle.
+
+Fixed Missing Mooshroom Mushrooms: Mushrooms on Mooshroom that were missing by default are now remodeled to display with ray tracing. (Issue#28)
+
+Fixed Missing Tropical Fish Fins: Fixed tropical fish patterns not being composited properly if the fish's base layer is transparent. (i.e. causing parts of fish fins to go invisible with ray tracing)
+
+Enhanced Particles: Every rasterized particle has been adjusted where needed in order to blend-in with the ray-traced world.
+
+Color-Corrected Doors: Doors usually appear a lot darker with ray tracing (MCPE-121412) this workaround attempts to correct colors of doors to a certain degree where possible. (Not all colors are fully correctable, specifically doors that already come with bright colors)
+
+Fixed Command Block and TNT Minecart issues: Blocks in Minecarts are no longer unaffected by ray tracing.
+
+Chiseled Bookshelf Fix: Chiseled Bookshelves are now functional with ray tracing, see v1.21.50 changelogs for workaround details (MCPE-166159)
+
+Fixed Tamed Cats Missing Shadows: Tamed cats now cast a shadow with their entire body.
+Known Issue: Tamed cat collars appear discolored without ray tracing.
+ 
+Better Jack O'Lantern: Now emits light from all sides to more closely match its vanilla appearance and functionality.
+
+Fixed Black Enchanted Trident and Fireworks Rocket: In-world models of enchanted tridents and fireworks rocket no longer appear black.
+
+Fixed Water in Cauldron using the improper texture resulting in a rough appearance unlike water.
+
+Keep an eye out on the changelogs and this section of the post for more experimental changes and updates!
+
+Github: Cubeir/Vanilla-RTX
+License: Vanilla-RTX/License
+Discord: Discord.gg/A4wv4wwYud
+
+FAQ:
+
+
+Frequently Asked Questions
+
+Q: I've downloaded and activated Vanilla RTX, but ray tracing is still greyed out and I can't select it.
+Problem: Vanilla RTX isn't loading in correctly (textures aren't showing the right properties)
+
+Answer / Solution: The easiest and most reliable solution to these problems (which happens because of MCPE-191513 and MCPE-152158) is to use the Vanilla RTX App's Launch Minecraft RTX functionality which prevents both of these issues and more.
+
+Problem: Poor performance while using ray tracing.
+Solution: This is an old Minecraft issue (MCPE-121850), the workaround is to simply disable Minecraft's VSync, if you still want VSync enabled, you can use your graphics card's control panel VSync.
+Vanilla RTX App also automatically detects and disables Minecraft's VSync when Minecraft RTX is launched via the app.
+
+Q: What is the difference between Vanilla RTX and Vanilla RTX Normals?
+
+A: Vanilla RTX uses 16x heightmaps, which are later converted to a higher resolution (192x) normal map to create an impression of depth on otherwise flat surfaces.
+Vanilla RTX Normals uses 16x normal maps instead, which define curvature on surfaces and the direction that light will bounce off each individual pixel, also creating a perception of depth and shape—in a different way!
+Only one can be used at a time, each will provide a distinct appearance for all blocks.
+
+In fewer words, Vanilla RTX Normals provides alternative lighting for surfaces.
+
+Q: Can I use Vanilla RTX in my own projects? 
+Absolutely! Vanilla RTX is already the foundation for numerous other RTX and Vibrant Visuals resource packs. You're free to use it in your projects of any kind (e.g. videos, renders, your own resource packs, even Minecraft servers/maps etc...), but in case you redistribute any files by me, give credit!
+You are not allowed to sell Vanilla RTX however—this project and its files must remain freely accessible.
+For more details, view the full license here.
+
+Contact info for more question:
+Discord ID: cubeir
+Twitter / X: @cubeOhm
+
+Q: Where do I find a zip?
+A: You can always obtain a full package of relevant files from the original Vanilla RTX GitHub repository.
+Here's the direct zipball permalink:
+https://github.com/Cubeir/Vanilla-RTX/archive/refs/heads/master.zip
+
+P.S. You can use the Vanilla RTX App to reinstall and update Vanilla RTX to the latest version automatically, which uses the same zipball, but properly packages it with Enhancements.
+
+Problem: I am experiencing low frame rate, game keeps crashing etc...
+Solution: If you're experiencing low FPS, disable Minecraft's VSync through settings menu or options.txt file, as for crashes and similar issues, they are Minecraft-sided, waiting for future game patches might be your only option.
+However, It is worth noting there are several issues tied to resizing the game's window, tabbing in or out of game's window or turning ray tracing on/off frequently, all of which can easily be avoided.
+
+Q: I want to adjust the pack to my preferences, where do I start?
+A: You can use the Vanilla RTX App to tune several key features such as fog, strength of emissive textures, normal map intensity, and more.
+
+However, if you wish to have more control, here are some helpful resources to to edit Vanilla RTX according to your personal preferences or even to create your own ray tracing capable resource pack:
+Minecraft RTX related documentations: Minecraft.net / Nvidia / Microsoft Docs 
+Use Texture Set Manager for a quicker start: Cubeir/Texture-Set-Manager
+
+Problem: I've encountered a visual glitch, such as: some light sources not emitting enough light, textures not loading in, terrain flickering, block breaking animation appearing glitchy, etc...
+Solution: Visual glitches or similar issues you might encounter during gameplay are all game-related. You can visit bugs.mojang.com and report/search for bugs related to Minecraft with RTX and vote for them if they are already reported.
+This pack tries to address as many of these issues as possible, however there are limits.
+
+Here's a list of some of the most critical issues Minecraft with RTX is facing right now:
+MCPE-194207: When ray tracing is enabled, placing or breaking blocks causes surrounding blocks to flicker
+MCPE-227510: Block destruction animated texture overlay appears glitchy with RTX
+MCPE-227624: Point lights have been unintentionally removed from ray tracing graphics mode
+MCPE-191513: Ray tracing can no longer be enabled while in the main menu.
+MCPE-152158: PBR textures don't load properly upon enabling ray tracing after the game is freshly launched.
+MCPE-121850: Ray Tracing performance starvation when VSync is enabled.
+MCPE-218920: Player and entity name tags no longer display once ray tracing is enabled.
+
+Unfortunately Mojang is far quicker at adding new bugs than fixing them, this creates an endless blackhole of regression that swallows entire features and decreases playability with each game update.
+You can vote for ray tracing related issues such as the ones linked above to get Mojang's attention.
+
+Q: Can I pair Vanilla RTX with other resource packs and add-ons? such as the ones from the Minecraft marketplace?
+A: This is probably not a good idea, because as the name if the pack suggests 'Vanilla RTX' adds ray tracing support for the vanilla game itself, and any other resource packs or behavior packs that don't belong to the vanilla game are not guranteed to work alongside it, as their creators have to account for ray tracing themselves. That said, you can try different combinations and see what works best for you.
+
+If you have other questions or need help, try joining Vanilla RTX Discord server and ask away, or leave a comment here explaining the issue, you can also report issues through GitHub.
+
+ 
+
+Installation
+
+Vanilla RTX is not intended for Android, iOS or gaming consoles such as Xbox Series X|S, PS5, etc...
+Windows 10 and Windows 11 Devices Only with NVIDIA GeForce® RTX 20 Series and higher, along with the AMD Radeon™ RX 6000 Series and higher & Intel® Arc™ A380 or better.
+
+If your device can't use ray tracing, Vanilla RTX has a dedicated version to Vibrant Visuals, check it out here!
+
+Guide:
+
+Ensure your system meets the hardware requirements on a supported platform, install the latest drivers for your graphics card.
+Download and import the pack by right-clicking the .mcpack file and opening with Minecraft (or Minecraft Preview).
+Use the Vanilla RTX App to launch Minecraft RTX.
+
+In your Minecraft's settings, find Global Resources and activate the pack.
+Join any world, server or realm with ray tracing now enabled correctly.
+
+
+Tips:
+
+There is an issue that will keep Vanilla RTX files from loading in properly causing the world to appear glossy. To avoid this, always make sure ray tracing is enabled before you attempt joining a world. In other words, do not enable ray tracing while inside a world! The simplest, most reliable solution to enabling ray tracing in Minecraft is by using the Vanilla RTX App to launch the game, which circumvents all of the launch-related bugs.
+
+If you're experiencing low and inconsistent frame rate, disable Minecraft's VSync, you can keep VSync on in your graphics card's control panel without drawbacks. This also greatly reduces input latency when compared to Minecraft's VSync.
+If textures appears broken or fail to load, make sure other resource packs from server/realm or world aren't overriding Vanilla RTX's files.
+If you're using a dual-GPU setup (commonly a Laptop with an Integrated GPU) make sure Minecraft is set to use the High Performance GPU preference in Windows' graphics settings.
+If the game window appears black, exit full-screen (press F11), close the game, relaunch the game and continue to play without entering full-screen mode.
+If textures are getting randomly swapped, make sure your driver's VSync is enabled for Minecraft (e.g. through Nvidia Control Panel App or AMD Radeon Software)
+For RTX 50-series users, upscaling (DLSS) cannot be enabled because the game ships with an outdated DLSS file, you can easily upgrade DLSS through the Vanilla RTX App to solve this issue.
+Thank You!
+
+nattyhob, EchoQuasar, Miriel, Big Plonk, Giuseppe DiMarca, Jordan, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Willström, Bastha, Plugin, Jayssizle, Drackae, PotatoHour, Kittygamer123, Lanaismymommy, James Kelly, Aaerox, jessehall(Maneating-Zebras), Joseph, Byrn, OmarVillegas, Isttret, Nash Knowlden, Superluminal, Travis Bishop, Dylan, Kyo Don, Commander Grub, The_Asa_Games, Charles D Powell, jamesyoung, Nogi Keita, Koiboi, DomoTurbulence, Rory, James Beaulieu, Nick Da Fox, Healor, Richard Anderson (Rich), Jacob, Luxalios, Oxbow117, Mono234_Glitch, Austin Mullings, mIbU, DrawVid, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, PrepareForBeans, Leo Montenero
+
+The Vanilla RTX Team
+Cubeir
+Owner
+150
+Followers
+17
+Projects
+2.5M
+Downloads
+Donate
+Follow
+More from Cubeir
+View all
+Vanilla RTX Opus
+By
+Cubeir
+39.3K
+Texture Packs
+
+The ultimate ray-traced Minecraft graphics, featuring unprecedented level of detail with 192x normal maps! — Vanilla Resources Made Available for Minecraft with RTX.
+
+39.3K
+May 9, 2026
+Texture Packs
++4
+View
+Download
+Vanilla RTX Normals
+By
+Cubeir
+358.2K
+Texture Packs
+
+The default ray-traced Minecraft graphics, featuring handcrafted 16x normal maps! — Vanilla Resources Made Available for Minecraft with RTX.
+
+358.2K
+May 9, 2026
+Texture Packs
++3
+View
+Download
+Vibrant Normals
+By
+Cubeir
+898
+Texture Packs
+
+The official conversion of Vanilla RTX Normals for the new Vibrant Visuals graphics mode!
+
+898
+May 3, 2026
+Texture Packs
++3
+View
+Download
+Vanilla Vibrant Visuals (Graphics Pack)
+By
+Cubeir
+118.8K
+Texture Packs
+
+The default, done right! Vanilla Vibrant Visuals enhances Minecraft Bedrock Edition with refined assets and configurations, correcting the artistic misfires of the default Vibrant Visuals graphics mode.
+
+118.8K
+May 3, 2026
+Texture Packs
++4
+View
+Download
+CurseForge - a world of endless gaming possibilities for modders and gamers alike.
+Download the best mods and addons!
+Games
+All games
+Minecraft
+World of Warcraft
+The Sims 4
+Starcraft II
+Kerbal Space Program
+Minecraft Dungeons
+World of Tanks
+Create
+Start a project
+Project submission guide
+Author Rewards Program
+Apply for an API Key
+3rd Party API T&C
+Community
+Join Our Discord!
+Ideas Portal
+CF blog
+Newsletter
+Roadmap
+Bukkit forums
+CurseForge Servers
+Support
+Knowledge base
+Troubleshooting
+Contact us
+Companions
+Overwolf
+CurseForge for Studios
+Tebex
+Nitro
+Terms of Service
+Privacy Policy
+Licenses
+Mod Author Terms
+© 2026 Overwolf. All rights reserved.

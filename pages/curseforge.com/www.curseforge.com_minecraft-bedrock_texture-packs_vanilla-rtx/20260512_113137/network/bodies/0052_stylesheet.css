@@ -1,0 +1,1 @@
+.by-author-link{grid-area:author;align-items:center;gap:6px;min-width:0;display:flex}.by-author-link .by-text{flex-shrink:0}.by-author-link>.author-name{align-items:center;gap:4px;min-width:0;text-decoration:none;display:flex}.by-author-link>.author-name .pro-tag{margin-left:0}.by-author-link>.author-name .is-link:hover{color:#e5e5e5}

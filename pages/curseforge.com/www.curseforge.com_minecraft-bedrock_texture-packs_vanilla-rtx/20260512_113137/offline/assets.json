@@ -1,0 +1,1951 @@
+[
+  {
+    "url": "https://cdn.hadronid.net/hadron.js?partner_id=720&sync=1&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx",
+    "final_url": "https://a.ad.gt/api/v1/u/matches/720?_it=nitro",
+    "status": "saved",
+    "path": "assets/6924e0f725b9416b_720",
+    "content_type": "application/javascript",
+    "size": 9348,
+    "sha256": "f59bd9d44a1afe56a3ae66c1f2f2f475ea6d4a9d0f914d47482d1ca198bd24e7"
+  },
+  {
+    "url": "https://cdn.hadronid.net/hadron.js?url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx&ref=&_it=amazon&partner_id=720",
+    "final_url": "https://a.ad.gt/api/v1/u/matches/720?_it=nitro",
+    "status": "saved",
+    "path": "assets/6924e0f725b9416b_720",
+    "content_type": "application/javascript",
+    "size": 9348,
+    "sha256": "f59bd9d44a1afe56a3ae66c1f2f2f475ea6d4a9d0f914d47482d1ca198bd24e7"
+  },
+  {
+    "url": "https://location.p7cloud.net/locdot",
+    "final_url": "https://location.p7cloud.net/locdot",
+    "status": "saved",
+    "path": "assets/1e1f5527be02621f_locdot",
+    "content_type": "application/javascript",
+    "size": 320,
+    "sha256": "467f22cb1e06fc79efcd2830dd59a96bcc19fe5cc823c5710131b1d0f02810fa"
+  },
+  {
+    "url": "https://d3j8vl19c1131u.cloudfront.net/13333?uri=8955fe71-8fb8-47a4-87f9-afbef33d4351&region=us",
+    "final_url": "https://d3j8vl19c1131u.cloudfront.net/13333?uri=8955fe71-8fb8-47a4-87f9-afbef33d4351&region=us",
+    "status": "saved",
+    "path": "assets/44ef554778bda487_13333",
+    "content_type": "application/javascript",
+    "size": 32,
+    "sha256": "2bccfb366956ee29de43fa743b6dea028338b3a2e0104fc0aa9dd6eadffbf318"
+  },
+  {
+    "url": "https://vi.ml314.com/get?eid=70139&tk=4kEzWAtLy3ROjiGWVaT5oYPHFkZ9s5teXcFusAo2hRo3d&fp=",
+    "final_url": "https://vi.ml314.com/get?eid=70139&tk=4kEzWAtLy3ROjiGWVaT5oYPHFkZ9s5teXcFusAo2hRo3d&fp=",
+    "status": "saved",
+    "path": "assets/f866683d562f0ba3_get",
+    "content_type": "application/javascript",
+    "size": 264,
+    "sha256": "9dffbd45ce48bf5e8eeb90b3d8567f8270f217c174de81fe3693d6dcdbaa1588"
+  },
+  {
+    "url": "https://ib.adnxs.com/getuidp?callback=aspan.setXandr",
+    "final_url": "https://ib.adnxs.com/getuidp?callback=aspan.setXandr",
+    "status": "saved",
+    "path": "assets/6f705aa2be86997b_getuidp",
+    "content_type": "application/javascript",
+    "size": 45,
+    "sha256": "33cc241909205e958879b50650839880de78b52acfe90e5f5520339025ed2b68"
+  },
+  {
+    "url": "https://ua.p7cloud.net/asp?aspan=YXJjc3Bhbi11c2VyOmFyY3NwYW4tZHJvd3NzYXA",
+    "final_url": "https://ua.p7cloud.net/asp?aspan=YXJjc3Bhbi11c2VyOmFyY3NwYW4tZHJvd3NzYXA",
+    "status": "saved",
+    "path": "assets/e57347156a923e1e_asp",
+    "content_type": "application/javascript",
+    "size": 75,
+    "sha256": "2d8c677a5883430dbde41086473c186aa9a1fe269987f1a68505527f90296fa6"
+  },
+  {
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_5cff1caf.js",
+    "final_url": "https://analytics.tiktok.com/i18n/pixel/static/identify_5cff1caf.js",
+    "status": "saved",
+    "path": "assets/33ada7d3e5197323_identify_5cff1caf.js",
+    "content_type": "application/javascript",
+    "size": 155651,
+    "sha256": "c222a1fcf344eb3ba3ad51666992a44f004a5f7e8531e05e5eb253312134fc79"
+  },
+  {
+    "url": "https://wave.outbrain.com/mtWavesBundler/handler/000ae06d296913970295d04b5e0630c8e5",
+    "final_url": "https://wave.outbrain.com/mtWavesBundler/handler/000ae06d296913970295d04b5e0630c8e5",
+    "status": "saved",
+    "path": "assets/72dc41cf3a7a8ee8_000ae06d296913970295d04b5e0630c8e5.html",
+    "content_type": "text/html",
+    "size": 2,
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  {
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWJkOTJmOWRkMA.js",
+    "final_url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWJkOTJmOWRkMA.js",
+    "status": "saved",
+    "path": "assets/cbbfad7bd8f4852b_main.MWJkOTJmOWRkMA.js",
+    "content_type": "application/javascript",
+    "size": 475081,
+    "sha256": "9fb5c4dc3a0580d58190047c4f68f4513c4ae9b260e27898b2528297ec2a27d6"
+  },
+  {
+    "url": "https://scripts.clarity.ms/0.8.64/clarity.js",
+    "final_url": "https://scripts.clarity.ms/0.8.64/clarity.js",
+    "status": "saved",
+    "path": "assets/43fa43ad5ee524a2_clarity.js",
+    "content_type": "application/javascript",
+    "size": 74196,
+    "sha256": "56a487760f83291068b227d7e0d3448338de11c645cb19a9cac1bc6bddfcb37f"
+  },
+  {
+    "url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+    "final_url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+    "status": "saved",
+    "path": "assets/6a1da9d24dd559b5_id5PrebidModule.js",
+    "content_type": "text/javascript",
+    "size": 102362,
+    "sha256": "5adfa8fdf36805dec0395a90e3347559da75fe8fc8830c48e22c94b18f8d9753"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/images/cf_legacy.png",
+    "final_url": "https://static-beta.curseforge.com/images/cf_legacy.png",
+    "status": "saved",
+    "path": "assets/457558e24782f9bd_cf_legacy.png",
+    "content_type": "image/png",
+    "size": 758,
+    "sha256": "b400bf07101eacff75563a94576380261f12481ad439351276782869532064f2"
+  },
+  {
+    "url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cec7bc6-6b13-4334-9456-a83f5f389205-profile_image-150x150.png",
+    "final_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cec7bc6-6b13-4334-9456-a83f5f389205-profile_image-150x150.png",
+    "status": "saved",
+    "path": "assets/cd9fa87804410bc2_5cec7bc6-6b13-4334-9456-a83f5f389205-profile_image.png",
+    "content_type": "image/png",
+    "size": 29792,
+    "sha256": "a18bb660e5e8e3114907bc8568b7de1803c7996ffd38a2f11c0bfacfafcb3ab1"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0j35ksqrrj-ur.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0j35ksqrrj-ur.css",
+    "status": "saved",
+    "path": "assets/2109c8e4a136ff52_0j35ksqrrj-ur.css",
+    "content_type": "text/css",
+    "size": 36490,
+    "sha256": "2355c3fed43aec5549668a60ed160edea57b5e73df29ccd38d6ca056a5521ee9"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0j.xezgkoz6kf.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0j.xezgkoz6kf.css",
+    "status": "saved",
+    "path": "assets/7659f34d5003a3d7_0j.xezgkoz6kf.css",
+    "content_type": "text/css",
+    "size": 411,
+    "sha256": "1d590e9c3cb186e612a8fa52ec60f7de43762fc4d5673dd6d3550c39800aef60"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0n8ny0tzyrd7v.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0n8ny0tzyrd7v.css",
+    "status": "saved",
+    "path": "assets/0b6584a3535b4d93_0n8ny0tzyrd7v.css",
+    "content_type": "text/css",
+    "size": 3692,
+    "sha256": "fff846a6919a5f50e5408ab221851ffe00c0b5888029fd6209afdd251ea50cbb"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0-wgovhmgdlww.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0-wgovhmgdlww.css",
+    "status": "saved",
+    "path": "assets/27d0b6c03e2fc5e2_0-wgovhmgdlww.css",
+    "content_type": "text/css",
+    "size": 76,
+    "sha256": "a7826251db1dc941c7c724f1c5eb7cdf7596fe4689265221f9b367f46cbaab7c"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/media/LatoLatin_Regular-s.p.0p8ik1cuj0y7k.woff2",
+    "final_url": "https://static-beta.curseforge.com/_next/static/media/LatoLatin_Regular-s.p.0p8ik1cuj0y7k.woff2",
+    "status": "saved",
+    "path": "assets/f99a8d1a263047c4_LatoLatin_Regular-s.p.0p8ik1cuj0y7k.woff2",
+    "content_type": "font/woff2",
+    "size": 43760,
+    "sha256": "ddd4ef7f97f4361b60841d59753218a57134b0f99f5b46a9612234f1c2733ab0"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/media/LatoLatin_Bold-s.p.0o04cpdvqhoe1.woff2",
+    "final_url": "https://static-beta.curseforge.com/_next/static/media/LatoLatin_Bold-s.p.0o04cpdvqhoe1.woff2",
+    "status": "saved",
+    "path": "assets/9b11c3057f0114f0_LatoLatin_Bold-s.p.0o04cpdvqhoe1.woff2",
+    "content_type": "font/woff2",
+    "size": 44380,
+    "sha256": "276401632a998400be8a5895038f4f72d3760d3c3d6aaf3cf445d109cb9d1540"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/media/LatoLatin_Italic-s.p.0w74a.h0tprz8.woff2",
+    "final_url": "https://static-beta.curseforge.com/_next/static/media/LatoLatin_Italic-s.p.0w74a.h0tprz8.woff2",
+    "status": "saved",
+    "path": "assets/6c3ff7576729b0c8_LatoLatin_Italic-s.p.0w74a.h0tprz8.woff2",
+    "content_type": "font/woff2",
+    "size": 30320,
+    "sha256": "170c647be15f71a24fc4ff5b174b486d878f3d236decf10de01c1e6e482ae521"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/media/Montserrat_Regular-s.p.0r3tb09k43yu_.woff2",
+    "final_url": "https://static-beta.curseforge.com/_next/static/media/Montserrat_Regular-s.p.0r3tb09k43yu_.woff2",
+    "status": "saved",
+    "path": "assets/b5f677ea96e52bdc_Montserrat_Regular-s.p.0r3tb09k43yu_.woff2",
+    "content_type": "font/woff2",
+    "size": 86900,
+    "sha256": "c2b2cb00987bfe82494d234b5de4a36d217d20536e37e1b98423cc64efefca43"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/media/Montserrat_Medium-s.p.01tpi7oz5yrfl.woff2",
+    "final_url": "https://static-beta.curseforge.com/_next/static/media/Montserrat_Medium-s.p.01tpi7oz5yrfl.woff2",
+    "status": "saved",
+    "path": "assets/8b9435231a51bcfe_Montserrat_Medium-s.p.01tpi7oz5yrfl.woff2",
+    "content_type": "font/woff2",
+    "size": 127352,
+    "sha256": "c9597cca58384db11de3f7149779ec9e07d9057db184f16eb2d6848f99d97059"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/media/Montserrat_Bold-s.p.03i853l9t~vmp.woff2",
+    "final_url": "https://static-beta.curseforge.com/_next/static/media/Montserrat_Bold-s.p.03i853l9t~vmp.woff2",
+    "status": "saved",
+    "path": "assets/37d39f7a5f1897ee_Montserrat_Bold-s.p.03i853l9t_vmp.woff2",
+    "content_type": "font/woff2",
+    "size": 30928,
+    "sha256": "ae919a7c9f25f0fd97fc18e398ae8e453fcaae487e4a4cb4f896e7fecde4a780"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/09_j_zmze99un.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/09_j_zmze99un.css",
+    "status": "saved",
+    "path": "assets/40ad44c256bfe0d2_09_j_zmze99un.css",
+    "content_type": "text/css",
+    "size": 5174,
+    "sha256": "749a3b80a5bd933de508be519747a2b0afe78ade20c4a1ca71709a06e60d6508"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/10ziyj528fp8w.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/10ziyj528fp8w.css",
+    "status": "saved",
+    "path": "assets/be3e1b1ff6660291_10ziyj528fp8w.css",
+    "content_type": "text/css",
+    "size": 1948,
+    "sha256": "1d00c12c43c8cd2a85ad78a14b107fdd0499e88dcd3d94bd78d0964a0b0fb231"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0.-wbzj1wqv~q.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0.-wbzj1wqv~q.css",
+    "status": "saved",
+    "path": "assets/fa4b010961d4a538_0.-wbzj1wqv_q.css",
+    "content_type": "text/css",
+    "size": 7284,
+    "sha256": "f9df5a3ebef83c7b41c482184a032845f04fd53f21dff83abdd33992d59c7426"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0fo1~e8lp9g~_.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0fo1~e8lp9g~_.css",
+    "status": "saved",
+    "path": "assets/2b35523df0af5447_0fo1_e8lp9g__.css",
+    "content_type": "text/css",
+    "size": 507,
+    "sha256": "df5b3f5b1d9a35546f2f7df91f7423a061da956d36ad27597e088ec882f487df"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/080jm6pw5d5-8.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/080jm6pw5d5-8.css",
+    "status": "saved",
+    "path": "assets/957e4ae6a7a7f5fe_080jm6pw5d5-8.css",
+    "content_type": "text/css",
+    "size": 1388,
+    "sha256": "2dadac44c10ad0d2deb79849215b50a7bc84bb3cea5fd07a4a755c70041aea61"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/13s8yp-uhfhm7.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/13s8yp-uhfhm7.css",
+    "status": "saved",
+    "path": "assets/35c4bd27802e68a9_13s8yp-uhfhm7.css",
+    "content_type": "text/css",
+    "size": 1378,
+    "sha256": "1104dc2eea3d81a61c3b9134fceecc54c79d5ff5c5e97ab7d75aabbb75112e80"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0_oft34py4gz9.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0_oft34py4gz9.css",
+    "status": "saved",
+    "path": "assets/97d59b2f2759d030_0_oft34py4gz9.css",
+    "content_type": "text/css",
+    "size": 1831,
+    "sha256": "bb043ccf3fbb0557fa9655cdefba30b81f6f67042dfd5013bc3e38c27416bab6"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0q-qk~2g.gsxm.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0q-qk~2g.gsxm.css",
+    "status": "saved",
+    "path": "assets/f25f28d9a0689405_0q-qk_2g.gsxm.css",
+    "content_type": "text/css",
+    "size": 5394,
+    "sha256": "31fe5eed9b10144983584ab0422618d2e607a23d4ecde084118469259519cc98"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0q3unyp_fow74.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0q3unyp_fow74.css",
+    "status": "saved",
+    "path": "assets/e642b7ac87791dda_0q3unyp_fow74.css",
+    "content_type": "text/css",
+    "size": 994,
+    "sha256": "ba5f619eda4067bd1efc6d22315583512fc54f1e3b78299c1a564cc3db9353bc"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0.n7j86d618.s.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0.n7j86d618.s.css",
+    "status": "saved",
+    "path": "assets/5dbf51f800ab517c_0.n7j86d618.s.css",
+    "content_type": "text/css",
+    "size": 539,
+    "sha256": "22e0892ac9237e801333df8615aea1cd67670066fee000f58526b751d73b5fda"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0.k96qi4uaw6r.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0.k96qi4uaw6r.css",
+    "status": "saved",
+    "path": "assets/91e8fe3760970c34_0.k96qi4uaw6r.css",
+    "content_type": "text/css",
+    "size": 652,
+    "sha256": "8c069e0f5eb6dea84ae80b50124b8b576ac3b1dfba6d2214acafeb3afaa407af"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0vno7-q9~e9jc.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0vno7-q9~e9jc.css",
+    "status": "saved",
+    "path": "assets/bdec48d28ef56c53_0vno7-q9_e9jc.css",
+    "content_type": "text/css",
+    "size": 3956,
+    "sha256": "2993f525dbf901e357d15db2cc83231aa137f60b2b0d5ec2e4155c47a0482d16"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0.e985hss9n2q.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0.e985hss9n2q.css",
+    "status": "saved",
+    "path": "assets/fa91a069d027aa8a_0.e985hss9n2q.css",
+    "content_type": "text/css",
+    "size": 3031,
+    "sha256": "a09ec7afcde29c305492868175ab070a7cb9b03ea8e3cd8c929ceee1cd1ce1af"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/07bxupa~g7.o3.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/07bxupa~g7.o3.css",
+    "status": "saved",
+    "path": "assets/5c17f544b7ef4980_07bxupa_g7.o3.css",
+    "content_type": "text/css",
+    "size": 6707,
+    "sha256": "663372a6a1df2557224a7b6faf1fb64de0c99678ed7d0789fdb63b8d3d822372"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0nozp8.cbezxf.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0nozp8.cbezxf.css",
+    "status": "saved",
+    "path": "assets/e2090f80aa692301_0nozp8.cbezxf.css",
+    "content_type": "text/css",
+    "size": 815,
+    "sha256": "aa1f4af94d968fc0824ab3b480a56e0672fd24c4aab640304050b2f7983490ed"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0fu4t5ceqiuxo.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0fu4t5ceqiuxo.css",
+    "status": "saved",
+    "path": "assets/7197b3e9cab59475_0fu4t5ceqiuxo.css",
+    "content_type": "text/css",
+    "size": 4047,
+    "sha256": "eb1c687dc70bc743a8a729800ee2e8a2041af9b71bc49bd96b720f074245d21f"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0b_k2l5p89f4s.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0b_k2l5p89f4s.css",
+    "status": "saved",
+    "path": "assets/77d47c6f37bf1d24_0b_k2l5p89f4s.css",
+    "content_type": "text/css",
+    "size": 2638,
+    "sha256": "3d63d3ef2c9dc5747086ed6d927e04fdf37e7a181c90a3a0d54af6877dcdd262"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0qv2pcgcrcuik.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0qv2pcgcrcuik.css",
+    "status": "saved",
+    "path": "assets/c8fb996cfabb9afa_0qv2pcgcrcuik.css",
+    "content_type": "text/css",
+    "size": 5288,
+    "sha256": "7c5b04799def23aa1d025654e60b5ed269436d1950d8a8253c52bc7d3a45c75c"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0ejalb8apj0~u.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0ejalb8apj0~u.css",
+    "status": "saved",
+    "path": "assets/ba43b8a0c96b13a0_0ejalb8apj0_u.css",
+    "content_type": "text/css",
+    "size": 197,
+    "sha256": "92a12e89e367092956ec329b1bc06a70116ec842f346d4f53e945ffc62477562"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0.nq9bcq~6ld8.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0.nq9bcq~6ld8.css",
+    "status": "saved",
+    "path": "assets/84a187616a082aa6_0.nq9bcq_6ld8.css",
+    "content_type": "text/css",
+    "size": 1927,
+    "sha256": "ae47e5e0066c0843b3a9dd63865ffddbbd27c7d178030460154333040ac46b09"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0sqtv8s2u7zrj.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0sqtv8s2u7zrj.css",
+    "status": "saved",
+    "path": "assets/fec9e748d6965ba7_0sqtv8s2u7zrj.css",
+    "content_type": "text/css",
+    "size": 2254,
+    "sha256": "a878c023016deaa248e856d71cf4225e75951030526221b39df31fe42e0bce3b"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0rr3-ume.t935.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0rr3-ume.t935.css",
+    "status": "saved",
+    "path": "assets/ccf79e85c450aeac_0rr3-ume.t935.css",
+    "content_type": "text/css",
+    "size": 363,
+    "sha256": "09be7871363de78ea992af978143cf8904d804502137c2eb70a3f52a6f0c422c"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0iw6nh83kg95h.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0iw6nh83kg95h.css",
+    "status": "saved",
+    "path": "assets/f162affb0ad5c882_0iw6nh83kg95h.css",
+    "content_type": "text/css",
+    "size": 400,
+    "sha256": "830b9e87a3704a18cf77333c23fc6b312256ce7d23a65a03ce407afe32930679"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0_w0t05yl9bso.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0_w0t05yl9bso.css",
+    "status": "saved",
+    "path": "assets/f23c1f6bee0bd0c4_0_w0t05yl9bso.css",
+    "content_type": "text/css",
+    "size": 12713,
+    "sha256": "3a8ddb4ecb2bf2afb9d9414e8c3e229232dea93fbaf43923db04d64f40c11c80"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0osfr_5xsopli.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0osfr_5xsopli.css",
+    "status": "saved",
+    "path": "assets/391d7ddcd47b12f3_0osfr_5xsopli.css",
+    "content_type": "text/css",
+    "size": 3509,
+    "sha256": "263da6299d198064b207a2c5b8db65b4aa7bc1c855365ab97ee0f8660bc4654d"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/15dxdfk3--qiz.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/15dxdfk3--qiz.css",
+    "status": "saved",
+    "path": "assets/4afc5d28670ec8b9_15dxdfk3--qiz.css",
+    "content_type": "text/css",
+    "size": 1172,
+    "sha256": "4ee69fe98dbd527b642c72ac1d4f39d89c6939d5f6e1b3cfec06adc3bb917ee0"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0fd9ivujc1g6r.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0fd9ivujc1g6r.css",
+    "status": "saved",
+    "path": "assets/9e9f3bb3c1ca55f6_0fd9ivujc1g6r.css",
+    "content_type": "text/css",
+    "size": 6573,
+    "sha256": "cf76e163c817eeb9a82d9579ae6159bfed5558f2e47210ac5cd833dcc3b3cadb"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/14_klk~.u~4yx.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/14_klk~.u~4yx.css",
+    "status": "saved",
+    "path": "assets/e5abf5df0e6a0b26_14_klk_.u_4yx.css",
+    "content_type": "text/css",
+    "size": 17559,
+    "sha256": "56a4948df4afb9b6d77b26fd3097179a3b4813fd3fc5cfb4e13ad748f98d2182"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0nv.dw4a04~gp.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0nv.dw4a04~gp.css",
+    "status": "saved",
+    "path": "assets/e37e45a96514e13f_0nv.dw4a04_gp.css",
+    "content_type": "text/css",
+    "size": 1576,
+    "sha256": "392cccd1ad708bb655e2a397e50199e480cafe878b821c805337d6219bec76fc"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/1845w1_b.725l.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/1845w1_b.725l.css",
+    "status": "saved",
+    "path": "assets/74ebafe57f521852_1845w1_b.725l.css",
+    "content_type": "text/css",
+    "size": 1050,
+    "sha256": "271ac121f4947a4d182ec49df1c7846109e71c1d750f0342c2943be3b454cc33"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0tjezxkqrv~pq.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0tjezxkqrv~pq.css",
+    "status": "saved",
+    "path": "assets/0eaa3b0c0fd684d8_0tjezxkqrv_pq.css",
+    "content_type": "text/css",
+    "size": 7008,
+    "sha256": "2b356517aaa0e90083e24b9f75eac9b95872fe7b37f01e7769ffd5efc9f7a7e6"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0ew4aa~5~3ma9.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0ew4aa~5~3ma9.css",
+    "status": "saved",
+    "path": "assets/ae43ec21546409f4_0ew4aa_5_3ma9.css",
+    "content_type": "text/css",
+    "size": 2091,
+    "sha256": "44afc7a7c45fcb371ec4f95ada392a82d0ec687c9ef875c283ffe5d54a65c7b7"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0rhqfdmw8vddq.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0rhqfdmw8vddq.css",
+    "status": "saved",
+    "path": "assets/afc6ed89df991bf1_0rhqfdmw8vddq.css",
+    "content_type": "text/css",
+    "size": 612,
+    "sha256": "84575117f0203afc16deea7e07ed0b227ab1d9a0460a0f1987b048aadafa375f"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/12a6rt~-qhx~a.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/12a6rt~-qhx~a.css",
+    "status": "saved",
+    "path": "assets/1f2fc0b29abefa52_12a6rt_-qhx_a.css",
+    "content_type": "text/css",
+    "size": 9254,
+    "sha256": "8c8ccfe1b78eb1d670a429e93637461202167400a8b6bad9363b53e379f71ec5"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0p3qoldnu_d.~.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0p3qoldnu_d.~.css",
+    "status": "saved",
+    "path": "assets/f77675df46d9e275_0p3qoldnu_d._.css",
+    "content_type": "text/css",
+    "size": 1080,
+    "sha256": "f446704423b64e1cd223dd8786adfb59f18faf4eb6b0a84fb3d2db850f7b0e50"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0sqb3s3led9xi.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0sqb3s3led9xi.css",
+    "status": "saved",
+    "path": "assets/65dda71666e277fc_0sqb3s3led9xi.css",
+    "content_type": "text/css",
+    "size": 3922,
+    "sha256": "39c39e1cfc50aff51604aab002b72bae7506290f378e08ee74a9189ed14cd785"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/1074yrtcx72q0.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/1074yrtcx72q0.css",
+    "status": "saved",
+    "path": "assets/7915cc9123f100ad_1074yrtcx72q0.css",
+    "content_type": "text/css",
+    "size": 7352,
+    "sha256": "70b07a9d01218cdb8eebbee04219e3bdbd90ba220482a033adf645c3ef1b1ed7"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0iu6ds533usvq.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0iu6ds533usvq.css",
+    "status": "saved",
+    "path": "assets/a0d95966c818ff39_0iu6ds533usvq.css",
+    "content_type": "text/css",
+    "size": 336,
+    "sha256": "96b797eb30428564307dc2669012c14a854455a2425df910011f7febff86cc57"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/05_ax~_9h4gj1.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/05_ax~_9h4gj1.css",
+    "status": "saved",
+    "path": "assets/d8615349464e9a7e_05_ax__9h4gj1.css",
+    "content_type": "text/css",
+    "size": 231,
+    "sha256": "2bdd347f35ddc6f4cd4068ad0c37c038cd8e8cfbc026ecb86f8fbe11866a516f"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/174psxb207lad.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/174psxb207lad.js",
+    "status": "saved",
+    "path": "assets/aad7a409221dda10_174psxb207lad.js",
+    "content_type": "application/javascript",
+    "size": 1673,
+    "sha256": "e8bdc2b62fef09fbac3edaf63c4ea2866495e3fc0460d26fb8913cf8554f276a"
+  },
+  {
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CT820AJC77UANHJ2ROI0&lib=ttq",
+    "final_url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CT820AJC77UANHJ2ROI0&lib=ttq",
+    "status": "saved",
+    "path": "assets/33a02488b6af24ef_events.js",
+    "content_type": "application/javascript",
+    "size": 8171,
+    "sha256": "4b8fc95e59ec2edfd49428c0e93036325425d1a5c4af673b014490da16424eb8"
+  },
+  {
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D408G93C77U53GC02S7G&lib=ttq",
+    "final_url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D408G93C77U53GC02S7G&lib=ttq",
+    "status": "saved",
+    "path": "assets/fa73faf80645f9c3_events.js",
+    "content_type": "application/javascript",
+    "size": 8606,
+    "sha256": "311a1ac32e3bb456f7f06884f9ae5c2fe0d75fae6a3df4fcc5678b900abddd9e"
+  },
+  {
+    "url": "https://amplify.outbrain.com/cp/obtp.js",
+    "final_url": "https://amplify.outbrain.com/cp/obtp.js",
+    "status": "saved",
+    "path": "assets/d8bf8fc769fb8ae3_obtp.js",
+    "content_type": "application/javascript",
+    "size": 59258,
+    "sha256": "7dd072b2ac02e822b1e50efd7965500f4a036301cb81159859767e6abf832225"
+  },
+  {
+    "url": "https://bat.bing.com/bat.js",
+    "final_url": "https://bat.bing.com/bat.js",
+    "status": "saved",
+    "path": "assets/a242e438e0cee80d_bat.js",
+    "content_type": "application/javascript",
+    "size": 55262,
+    "sha256": "855230e1321917153b6859521e1ccfab0dce7497f88645e73d7e6db9c4bbe3b1"
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/1444191539742058?v=2.9.319&r=stable&domain=www.curseforge.com&hme=7441a59ee5070e08bd0157a62d39bd95bf3afdcc83dafbad800e78b5416300a9&ex_m=104%2C207%2C155%2C22%2C72%2C73%2C146%2C68%2C67%2C11%2C164%2C90%2C16%2C138%2C48%2C147%2C77%2C112%2C47%2C127%2C39%2C75%2C78%2C134%2C160%2C166%2C8%2C4%2C5%2C7%2C6%2C3%2C91%2C101%2C167%2C172%2C221%2C62%2C188%2C189%2C55%2C278%2C30%2C74%2C233%2C232%2C231%2C23%2C33%2C103%2C61%2C10%2C63%2C97%2C98%2C99%2C105%2C130%2C31%2C29%2C132%2C133%2C129%2C128%2C156%2C76%2C159%2C157%2C158%2C50%2C60%2C123%2C15%2C163%2C45%2C265%2C266%2C264%2C26%2C27%2C28%2C18%2C20%2C44%2C40%2C42%2C41%2C83%2C92%2C96%2C110%2C145%2C148%2C46%2C111%2C24%2C21%2C119%2C69%2C36%2C150%2C149%2C151%2C142%2C140%2C25%2C35%2C59%2C109%2C162%2C70%2C17%2C153%2C114%2C81%2C66%2C19%2C85%2C86%2C116%2C84%2C136%2C135%2C139%2C161%2C34%2C280%2C296%2C214%2C203%2C204%2C202%2C299%2C290%2C52%2C215%2C107%2C131%2C80%2C121%2C54%2C49%2C113%2C120%2C126%2C58%2C64%2C152%2C115%2C37%2C32%2C53%2C56%2C100%2C165%2C1%2C124%2C14%2C122%2C12%2C2%2C57%2C93%2C65%2C118%2C89%2C88%2C168%2C169%2C94%2C95%2C9%2C125%2C102%2C51%2C143%2C87%2C79%2C71%2C117%2C106%2C43%2C144%2C0%2C82%2C137%2C141%2C154%2C38%2C108%2C13%2C170",
+    "final_url": "https://connect.facebook.net/signals/config/1444191539742058?v=2.9.319&r=stable&domain=www.curseforge.com&hme=7441a59ee5070e08bd0157a62d39bd95bf3afdcc83dafbad800e78b5416300a9&ex_m=104%2C207%2C155%2C22%2C72%2C73%2C146%2C68%2C67%2C11%2C164%2C90%2C16%2C138%2C48%2C147%2C77%2C112%2C47%2C127%2C39%2C75%2C78%2C134%2C160%2C166%2C8%2C4%2C5%2C7%2C6%2C3%2C91%2C101%2C167%2C172%2C221%2C62%2C188%2C189%2C55%2C278%2C30%2C74%2C233%2C232%2C231%2C23%2C33%2C103%2C61%2C10%2C63%2C97%2C98%2C99%2C105%2C130%2C31%2C29%2C132%2C133%2C129%2C128%2C156%2C76%2C159%2C157%2C158%2C50%2C60%2C123%2C15%2C163%2C45%2C265%2C266%2C264%2C26%2C27%2C28%2C18%2C20%2C44%2C40%2C42%2C41%2C83%2C92%2C96%2C110%2C145%2C148%2C46%2C111%2C24%2C21%2C119%2C69%2C36%2C150%2C149%2C151%2C142%2C140%2C25%2C35%2C59%2C109%2C162%2C70%2C17%2C153%2C114%2C81%2C66%2C19%2C85%2C86%2C116%2C84%2C136%2C135%2C139%2C161%2C34%2C280%2C296%2C214%2C203%2C204%2C202%2C299%2C290%2C52%2C215%2C107%2C131%2C80%2C121%2C54%2C49%2C113%2C120%2C126%2C58%2C64%2C152%2C115%2C37%2C32%2C53%2C56%2C100%2C165%2C1%2C124%2C14%2C122%2C12%2C2%2C57%2C93%2C65%2C118%2C89%2C88%2C168%2C169%2C94%2C95%2C9%2C125%2C102%2C51%2C143%2C87%2C79%2C71%2C117%2C106%2C43%2C144%2C0%2C82%2C137%2C141%2C154%2C38%2C108%2C13%2C170",
+    "status": "saved",
+    "path": "assets/73fdbd3a8665567d_1444191539742058",
+    "content_type": "application/x-javascript",
+    "size": 194621,
+    "sha256": "96918360b4a97304718cf75f1740ed4fa03b8fd9a98815be208a725c768b577f"
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/398669782393158?v=2.9.319&r=stable&domain=www.curseforge.com&hme=7441a59ee5070e08bd0157a62d39bd95bf3afdcc83dafbad800e78b5416300a9&ex_m=104%2C207%2C155%2C22%2C72%2C73%2C146%2C68%2C67%2C11%2C164%2C90%2C16%2C138%2C48%2C147%2C77%2C112%2C47%2C127%2C39%2C75%2C78%2C134%2C160%2C166%2C8%2C4%2C5%2C7%2C6%2C3%2C91%2C101%2C167%2C172%2C221%2C62%2C188%2C189%2C55%2C278%2C30%2C74%2C233%2C232%2C231%2C23%2C33%2C103%2C61%2C10%2C63%2C97%2C98%2C99%2C105%2C130%2C31%2C29%2C132%2C133%2C129%2C128%2C156%2C76%2C159%2C157%2C158%2C50%2C60%2C123%2C15%2C163%2C45%2C265%2C266%2C264%2C26%2C27%2C28%2C18%2C20%2C44%2C40%2C42%2C41%2C83%2C92%2C96%2C110%2C145%2C148%2C46%2C111%2C24%2C21%2C119%2C69%2C36%2C150%2C149%2C151%2C142%2C140%2C25%2C35%2C59%2C109%2C162%2C70%2C17%2C153%2C114%2C81%2C66%2C19%2C85%2C86%2C116%2C84%2C136%2C135%2C139%2C161%2C34%2C280%2C296%2C214%2C203%2C204%2C202%2C299%2C290%2C52%2C215%2C107%2C131%2C80%2C121%2C54%2C49%2C113%2C120%2C126%2C58%2C64%2C152%2C115%2C37%2C32%2C53%2C56%2C100%2C165%2C1%2C124%2C14%2C122%2C12%2C2%2C57%2C93%2C65%2C118%2C89%2C88%2C168%2C169%2C94%2C95%2C9%2C125%2C102%2C51%2C143%2C87%2C79%2C71%2C117%2C106%2C43%2C144%2C0%2C82%2C137%2C141%2C154%2C38%2C108%2C13%2C170",
+    "final_url": "https://connect.facebook.net/signals/config/398669782393158?v=2.9.319&r=stable&domain=www.curseforge.com&hme=7441a59ee5070e08bd0157a62d39bd95bf3afdcc83dafbad800e78b5416300a9&ex_m=104%2C207%2C155%2C22%2C72%2C73%2C146%2C68%2C67%2C11%2C164%2C90%2C16%2C138%2C48%2C147%2C77%2C112%2C47%2C127%2C39%2C75%2C78%2C134%2C160%2C166%2C8%2C4%2C5%2C7%2C6%2C3%2C91%2C101%2C167%2C172%2C221%2C62%2C188%2C189%2C55%2C278%2C30%2C74%2C233%2C232%2C231%2C23%2C33%2C103%2C61%2C10%2C63%2C97%2C98%2C99%2C105%2C130%2C31%2C29%2C132%2C133%2C129%2C128%2C156%2C76%2C159%2C157%2C158%2C50%2C60%2C123%2C15%2C163%2C45%2C265%2C266%2C264%2C26%2C27%2C28%2C18%2C20%2C44%2C40%2C42%2C41%2C83%2C92%2C96%2C110%2C145%2C148%2C46%2C111%2C24%2C21%2C119%2C69%2C36%2C150%2C149%2C151%2C142%2C140%2C25%2C35%2C59%2C109%2C162%2C70%2C17%2C153%2C114%2C81%2C66%2C19%2C85%2C86%2C116%2C84%2C136%2C135%2C139%2C161%2C34%2C280%2C296%2C214%2C203%2C204%2C202%2C299%2C290%2C52%2C215%2C107%2C131%2C80%2C121%2C54%2C49%2C113%2C120%2C126%2C58%2C64%2C152%2C115%2C37%2C32%2C53%2C56%2C100%2C165%2C1%2C124%2C14%2C122%2C12%2C2%2C57%2C93%2C65%2C118%2C89%2C88%2C168%2C169%2C94%2C95%2C9%2C125%2C102%2C51%2C143%2C87%2C79%2C71%2C117%2C106%2C43%2C144%2C0%2C82%2C137%2C141%2C154%2C38%2C108%2C13%2C170",
+    "status": "saved",
+    "path": "assets/8c14bc73ed0e040f_398669782393158",
+    "content_type": "application/x-javascript",
+    "size": 9267,
+    "sha256": "83ac784957acf161cfad4b08f0d1a4815686888450457f0ea87f097f2c85279b"
+  },
+  {
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "final_url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": "saved",
+    "path": "assets/52c4e5fd8af70a92_fbevents.js",
+    "content_type": "application/x-javascript",
+    "size": 377970,
+    "sha256": "d52eb40f71b7090acd0cf9af413090c596480a9129f4f8ab95c19217f4da5b0c"
+  },
+  {
+    "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=t2_qps8w0r7",
+    "final_url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=t2_qps8w0r7",
+    "status": "saved",
+    "path": "assets/51b81a329f70aa89_pixel.js",
+    "content_type": "application/javascript",
+    "size": 67218,
+    "sha256": "b18c4a1b228e07a07ed18ddf7b7b697f6e956b6e37ec9a0637ff90fbdd2c92f1"
+  },
+  {
+    "url": "https://unpkg.com/web-vitals@5.0.1/dist/web-vitals.iife.js",
+    "final_url": "https://unpkg.com/web-vitals@5.0.1/dist/web-vitals.iife.js",
+    "status": "saved",
+    "path": "assets/b4c2b3246377b731_web-vitals.iife.js",
+    "content_type": "text/javascript",
+    "size": 5851,
+    "sha256": "59232ad2436efe87cad2003f8aa6e04897645ac02c48348c2014d0ecfacab6a5"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-KV52GSKL4E&cx=c&gtm=4e6581",
+    "final_url": "https://www.googletagmanager.com/gtag/js?id=G-KV52GSKL4E&cx=c&gtm=4e6581",
+    "status": "saved",
+    "path": "assets/8023a2abfd0e77a6_js",
+    "content_type": "application/javascript",
+    "size": 479434,
+    "sha256": "44ea182f271fa9a226955b0a6ae68e3bc7d359e6c55631759dd6b885792feb73"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-07LHW959W7&cx=c&gtm=4e6581",
+    "final_url": "https://www.googletagmanager.com/gtag/js?id=G-07LHW959W7&cx=c&gtm=4e6581",
+    "status": "saved",
+    "path": "assets/285777f8459abfd1_js",
+    "content_type": "application/javascript",
+    "size": 515407,
+    "sha256": "8356d83fa6e059a1df8d43501920d74b142addbfac203632bcb41ca6cc138d8e"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-10967078770&cx=c&gtm=4e6581",
+    "final_url": "https://www.googletagmanager.com/gtag/js?id=AW-10967078770&cx=c&gtm=4e6581",
+    "status": "saved",
+    "path": "assets/885053c54fba6cb3_js",
+    "content_type": "application/javascript",
+    "size": 440699,
+    "sha256": "b5f2b822ddabafb81ae757ef203312a2705f98412160dcfc0de59b1e6f12e177"
+  },
+  {
+    "url": "https://www.clarity.ms/tag/eq1m983q9y",
+    "final_url": "https://www.clarity.ms/tag/eq1m983q9y",
+    "status": "saved",
+    "path": "assets/1f177a4a2336714a_eq1m983q9y",
+    "content_type": "application/x-javascript",
+    "size": 582,
+    "sha256": "c13820c57682485c44f6dfd88e7f1545b31af817c4cec614cb28acc0845717ac"
+  },
+  {
+    "url": "https://sb.scorecardresearch.com/cs/20631572/beacon.js",
+    "final_url": "https://sb.scorecardresearch.com/internal-cs/default/beacon.js",
+    "status": "saved",
+    "path": "assets/004d133a0227c4e2_beacon.js",
+    "content_type": "text/javascript",
+    "size": 21373,
+    "sha256": "7b21bbb8ef971401ae80a3877b20405f18623e70111a65f0503458ea623255ce"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MKVJP2Q",
+    "final_url": "https://www.googletagmanager.com/gtm.js?id=GTM-MKVJP2Q",
+    "status": "saved",
+    "path": "assets/7c18f098a7fb202e_gtm.js",
+    "content_type": "application/javascript",
+    "size": 522720,
+    "sha256": "23d34339d6087c5f7c507cfca9f4ec62d3fbb0e977cddb6fd093de3b19b6629a"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0vcz8._g6xjk5.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0vcz8._g6xjk5.js",
+    "status": "saved",
+    "path": "assets/deecd1a8f8a6c04d_0vcz8._g6xjk5.js",
+    "content_type": "application/javascript",
+    "size": 31348,
+    "sha256": "e5b57719a95825ac8bf218f465b50eaacbbb4b7e074795446b57c07dac2a7f8e"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0qu2obattt1.a.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0qu2obattt1.a.js",
+    "status": "saved",
+    "path": "assets/eba1e8d11a7067bf_0qu2obattt1.a.js",
+    "content_type": "application/javascript",
+    "size": 231940,
+    "sha256": "ad06aff1f67003bfb99b2a0c802f76e437672855ba5335480491841de93be4e9"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/078wu1wu76_87.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/078wu1wu76_87.js",
+    "status": "saved",
+    "path": "assets/b6ad8753acd3c0dd_078wu1wu76_87.js",
+    "content_type": "application/javascript",
+    "size": 137784,
+    "sha256": "a034e60e8dd42e1126eef9be4f74bef8c1bcff48b8882f47d1d04ac1cebc8b59"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0t.xcz2hmmz0e.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0t.xcz2hmmz0e.js",
+    "status": "saved",
+    "path": "assets/a31087bce43b311e_0t.xcz2hmmz0e.js",
+    "content_type": "application/javascript",
+    "size": 45174,
+    "sha256": "67baaf19976b7f5d09d9637b1ab84ebee41445a07c9d3cd7ebae92c1a25cbe3d"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/turbopack-0-gb8naqs6993.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/turbopack-0-gb8naqs6993.js",
+    "status": "saved",
+    "path": "assets/c4c7133cb22bd115_turbopack-0-gb8naqs6993.js",
+    "content_type": "application/javascript",
+    "size": 10982,
+    "sha256": "a07f58ab37c0413888b89d7e24a89ed7d7b80792470d71dd6b0e2baddba06eb7"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/05vjo2nqmjwtv.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/05vjo2nqmjwtv.js",
+    "status": "saved",
+    "path": "assets/7ca8280bf596573f_05vjo2nqmjwtv.js",
+    "content_type": "application/javascript",
+    "size": 27355,
+    "sha256": "97ffeb50efc5b61f2a7d8c4a4db128e5ec4c69cee4286d95be332f054b0e7837"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0n-ixhg5ztfv3.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0n-ixhg5ztfv3.js",
+    "status": "saved",
+    "path": "assets/b61a7d6cc4c020b5_0n-ixhg5ztfv3.js",
+    "content_type": "application/javascript",
+    "size": 32420,
+    "sha256": "c8419d315aad466b81103733de5ba56835807a48b75adb15ce41da9109e01e32"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/17d_0~y3.zhy0.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/17d_0~y3.zhy0.js",
+    "status": "saved",
+    "path": "assets/eb450b7bcb1b1a9f_17d_0_y3.zhy0.js",
+    "content_type": "application/javascript",
+    "size": 28730,
+    "sha256": "f60243903acfd66fa15c18ca6c100eb4d5f544973911b638ba2f385a8a0c6962"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/14vu2terx-9jc.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/14vu2terx-9jc.js",
+    "status": "saved",
+    "path": "assets/7c1c4c13897291c0_14vu2terx-9jc.js",
+    "content_type": "application/javascript",
+    "size": 99102,
+    "sha256": "da7d8a1aeb5e1a2b7e9791c1b813e2e0da9492e0150e7be37c66d91e0ba0a63e"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0ixqdo8_ujwlb.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0ixqdo8_ujwlb.js",
+    "status": "saved",
+    "path": "assets/3d31dd88aa7c37e4_0ixqdo8_ujwlb.js",
+    "content_type": "application/javascript",
+    "size": 28378,
+    "sha256": "795dbe098b4cf5dbe7b0590a46d0d9bb1d3f884ad3141ed3a0f5d518b0c6e4de"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0275aot.cmujh.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0275aot.cmujh.js",
+    "status": "saved",
+    "path": "assets/c13dbf95ac45c58a_0275aot.cmujh.js",
+    "content_type": "application/javascript",
+    "size": 55023,
+    "sha256": "0f164ed96c312e0274d5329e4703e4ac9ca98c3faaed279383045c93bf599d4f"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0gd_acw00.hi..js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0gd_acw00.hi..js",
+    "status": "saved",
+    "path": "assets/d3e22b39199e26d8_0gd_acw00.hi..js",
+    "content_type": "application/javascript",
+    "size": 2606,
+    "sha256": "1ebf6178cec5dcb41de8481f9ea2b808ab82f5946f0168b51e0d8ac7c61271a0"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/14v0cofhugnj3.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/14v0cofhugnj3.js",
+    "status": "saved",
+    "path": "assets/99014a60ef80a7ee_14v0cofhugnj3.js",
+    "content_type": "application/javascript",
+    "size": 28690,
+    "sha256": "33b949d63895f7d421d251b000ba9b3412053df26a32cfa0d9dab286ff8bffe5"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/11rxnkj3excre.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/11rxnkj3excre.js",
+    "status": "saved",
+    "path": "assets/2445226302e6cf81_11rxnkj3excre.js",
+    "content_type": "application/javascript",
+    "size": 14202,
+    "sha256": "64cae690ca33c734d1d94585ae7a0a6e91db781b6b46f9b0c4376674f604c6ad"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/073ysftt0-lp0.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/073ysftt0-lp0.js",
+    "status": "saved",
+    "path": "assets/70d6b6c9ec1bb2d5_073ysftt0-lp0.js",
+    "content_type": "application/javascript",
+    "size": 69590,
+    "sha256": "11ad98432d97c193723f26bd77855bc3cecad98d010ca93a026d326ed075ef9d"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0g1yuq9t3-god.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0g1yuq9t3-god.js",
+    "status": "saved",
+    "path": "assets/2382a5b0e1ca305c_0g1yuq9t3-god.js",
+    "content_type": "application/javascript",
+    "size": 74461,
+    "sha256": "806b21be7644f83969db7351455befa35bfc9f884d2b63fcc77f1dd5c27db069"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0-dv178fmjr7w.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0-dv178fmjr7w.js",
+    "status": "saved",
+    "path": "assets/6735e7534f58f1ce_0-dv178fmjr7w.js",
+    "content_type": "application/javascript",
+    "size": 88232,
+    "sha256": "dd8761a9394f71f5f7d154705f25da2c5e8b0fafd4d263a2a5446ec1cdbf3f6c"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0h6g5k74grrxk.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0h6g5k74grrxk.js",
+    "status": "saved",
+    "path": "assets/2e9eee7208038700_0h6g5k74grrxk.js",
+    "content_type": "application/javascript",
+    "size": 2663,
+    "sha256": "63d6a884d175bd8572f3a646351d10cd9ac91a389799e6d88709c98247ed9783"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/088-4u60awn5_.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/088-4u60awn5_.js",
+    "status": "saved",
+    "path": "assets/456ea83512c6b79c_088-4u60awn5_.js",
+    "content_type": "application/javascript",
+    "size": 6838,
+    "sha256": "a50915755994fe9505cdc4d090e0ca0351095294b001f092b6ad6b043631c140"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0zjqpnu.ypcjf.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0zjqpnu.ypcjf.js",
+    "status": "saved",
+    "path": "assets/844473830a153dd8_0zjqpnu.ypcjf.js",
+    "content_type": "application/javascript",
+    "size": 24493,
+    "sha256": "ce76ddb0695b39a4623903d1e1ad45c3537942b041a1c660378568ee6c290c92"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0q2l1fxr7da7l.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0q2l1fxr7da7l.js",
+    "status": "saved",
+    "path": "assets/1402c5275db88d1c_0q2l1fxr7da7l.js",
+    "content_type": "application/javascript",
+    "size": 47520,
+    "sha256": "a023ab4335fc71b0f15dbe32ccc3cc31fc45610bc14d161e0b35c9ac2b5bf00d"
+  },
+  {
+    "url": "https://www.curseforge.com/images/404/404.webp",
+    "final_url": "https://www.curseforge.com/images/404/404.webp",
+    "status": "saved",
+    "path": "assets/247b273e6fc51a26_404.webp",
+    "content_type": "image/webp",
+    "size": 12212,
+    "sha256": "78ded28d1af16624323820237e1c65c5445108103c960ffa7ffffcbb8442dc6b"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0ttotnwitdugo.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0ttotnwitdugo.css",
+    "status": "saved",
+    "path": "assets/ea3f5e8b81adeb85_0ttotnwitdugo.css",
+    "content_type": "text/css",
+    "size": 1232,
+    "sha256": "233b4e12ff0311c863836a477b71e843ae3f1bea4ce5a5ce72c93e985cd5df92"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/scripts/comscore.js",
+    "final_url": "https://static-beta.curseforge.com/scripts/comscore.js",
+    "status": "saved",
+    "path": "assets/a68ea1ebd7fee15e_comscore.js",
+    "content_type": "application/javascript",
+    "size": 312,
+    "sha256": "69f8d743809923f6f8729ab2cf5e3d8be1c87090275e2d311623da54389c0825"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/scripts/clarity.js",
+    "final_url": "https://static-beta.curseforge.com/scripts/clarity.js",
+    "status": "saved",
+    "path": "assets/49923220678efd52_clarity.js",
+    "content_type": "application/javascript",
+    "size": 315,
+    "sha256": "c94918223580f48478d4ca6448b5ffd45f675ae4c721a8306672257186fb70ac"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/0rq3y~ajjp4t8.css",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/0rq3y~ajjp4t8.css",
+    "status": "saved",
+    "path": "assets/5aa830ef27062fac_0rq3y_ajjp4t8.css",
+    "content_type": "text/css",
+    "size": 2199,
+    "sha256": "3d62943589cda43b4c1a0e9177c03bf877d25a7d2c7784cf514789b1620efef4"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/images/favicon.ico",
+    "final_url": "https://static-beta.curseforge.com/images/favicon.ico",
+    "status": "saved",
+    "path": "assets/8f91ea4542f87acb_favicon.ico",
+    "content_type": "image/x-icon",
+    "size": 5430,
+    "sha256": "b1c9f08adaa8f91957bcd20e2796814557683ed051173ae31779752632efc5b9"
+  },
+  {
+    "url": "https://www.curseforge.com/favicon.ico?favicon.0m~n-7wc3gfya.ico",
+    "final_url": "https://www.curseforge.com/favicon.ico?favicon.0m~n-7wc3gfya.ico",
+    "status": "saved",
+    "path": "assets/49f8b60e23008427_favicon.ico",
+    "content_type": "image/x-icon",
+    "size": 5430,
+    "sha256": "b1c9f08adaa8f91957bcd20e2796814557683ed051173ae31779752632efc5b9"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/_next/static/chunks/03~yq9q893hmn.js",
+    "final_url": "https://static-beta.curseforge.com/_next/static/chunks/03~yq9q893hmn.js",
+    "status": "saved",
+    "path": "assets/83a3dad908d0e86f_03_yq9q893hmn.js",
+    "content_type": "application/javascript",
+    "size": 112594,
+    "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+  },
+  {
+    "url": "https://content.overwolf.com/curseforge/web/nitro/cursenpinit.js",
+    "final_url": "https://content.overwolf.com/curseforge/web/nitro/cursenpinit.js",
+    "status": "saved",
+    "path": "assets/cb58f04ed85bbd95_cursenpinit.js",
+    "content_type": "application/x-javascript",
+    "size": 1707,
+    "sha256": "22771773cad7665c2f8fa20d00929cd01865974fc675133d35adf86c50636b3d"
+  },
+  {
+    "url": "https://s.nitropay.com/ads-1843.js",
+    "final_url": "https://s.nitropay.com/ads-1843.js",
+    "status": "saved",
+    "path": "assets/1f3d447a3819ccc6_ads-1843.js",
+    "content_type": "text/javascript",
+    "size": 756161,
+    "sha256": "993fa36786756ed54ee5ccd8cd7a2b639ee379b747f8dd8f14c98f8df4e0933e"
+  },
+  {
+    "url": "https://ats-wrapper.privacymanager.io/ats-modules/438cb908-ed61-41e9-b716-05d5f4122a64/ats.js",
+    "final_url": "https://ats-wrapper.privacymanager.io/ats-modules/438cb908-ed61-41e9-b716-05d5f4122a64/ats.js",
+    "status": "saved",
+    "path": "assets/e55865edb06225cb_ats.js",
+    "content_type": "application/javascript",
+    "size": 127492,
+    "sha256": "16001190a7a501f9c484e3c887db95d8f68a5959e044bf2066c96d62b7681442"
+  },
+  {
+    "url": "https://rumcdn.geoedge.be/b0b01868-2045-4a3d-b8b0-db8e6cd0649d/grumi-ip.js",
+    "final_url": "https://rumcdn.geoedge.be/b0b01868-2045-4a3d-b8b0-db8e6cd0649d/grumi-ip.js",
+    "status": "saved",
+    "path": "assets/6ab023c7edbdfb53_grumi-ip.js",
+    "content_type": "application/javascript",
+    "size": 18222,
+    "sha256": "9d93a912aa4096b2f27582459946ba9e6e3c304798159b08e92f6fa376677408"
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "final_url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "status": "saved",
+    "path": "assets/41e09c21e545f255_gpt.js",
+    "content_type": "text/javascript",
+    "size": 112081,
+    "sha256": "f53dc175e53be4b48459266e6230dae79687395c1d6888ac30edb8c69c865b69"
+  },
+  {
+    "url": "https://s.nitropay.com/ads-video.c740523671257b19988c.js",
+    "final_url": "https://s.nitropay.com/ads-video.c740523671257b19988c.js",
+    "status": "saved",
+    "path": "assets/434910d0dd81a925_ads-video.c740523671257b19988c.js",
+    "content_type": "text/javascript",
+    "size": 962,
+    "sha256": "b426a4d2569b4079a14052c3a6bba3c10f8cc2ce82844ec922bff0e903d2ae65"
+  },
+  {
+    "url": "https://s.nitropay.com/ads-standalone.3b313a8b36833b85aa35.js",
+    "final_url": "https://s.nitropay.com/ads-standalone.3b313a8b36833b85aa35.js",
+    "status": "saved",
+    "path": "assets/2d2cfaf5b1ec4d36_ads-standalone.3b313a8b36833b85aa35.js",
+    "content_type": "text/javascript",
+    "size": 7688,
+    "sha256": "a017f9ff5b2ecf3b8d3a69880acad582d6f0eed8c26ad5675f8790e3365a9e64"
+  },
+  {
+    "url": "https://bat.bing.com/p/action/355018264.js",
+    "final_url": "https://bat.bing.com/p/action/355018264.js",
+    "status": "saved",
+    "path": "assets/11d89e3ef1504fb3_355018264.js",
+    "content_type": "application/javascript",
+    "size": 400,
+    "sha256": "bdf7e8df0518722ea200689642b5630aaf6b912cc5e336628cf7696ebcf983e6"
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10967078770/?random=1778585499123&cv=11&fst=1778585499123&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6581v9180978554z8897780316za20gzb897780316zd897780316xec&gcd=13l3l3R3l5l1&dma=0&tag_exp=0~115938466~115938469~118463261~118494633&u_w=1365&u_h=900&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx&rcb=15&frm=0&tiba=Vanilla%20RTX%20-%20Minecraft%20Bedrock%20Texture%20Packs%20-%20CurseForge&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=485322595.1778585499&uaa=x86&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+    "final_url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10967078770/?random=1778585499123&cv=11&fst=1778585499123&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6581v9180978554z8897780316za20gzb897780316zd897780316xec&gcd=13l3l3R3l5l1&dma=0&tag_exp=0~115938466~115938469~118463261~118494633&u_w=1365&u_h=900&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx&rcb=15&frm=0&tiba=Vanilla%20RTX%20-%20Minecraft%20Bedrock%20Texture%20Packs%20-%20CurseForge&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=485322595.1778585499&uaa=x86&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+    "status": "saved",
+    "path": "assets/5f6d35a02a98cfc3_asset.js",
+    "content_type": "text/javascript",
+    "size": 4256,
+    "sha256": "f3d573dfdcd8038ae11c678df94053efbe998a5aa4d5638b50cca8817f35b136"
+  },
+  {
+    "url": "https://s.nitropay.com/gpp-61d490e.min.js",
+    "final_url": "https://s.nitropay.com/gpp-61d490e.min.js",
+    "status": "saved",
+    "path": "assets/bc7cd6c5f773dd49_gpp-61d490e.min.js",
+    "content_type": "text/javascript",
+    "size": 232723,
+    "sha256": "fc5521185e7dec9f2c67fdf916d6a81db3ca1d571b1e8d89ffb7dec282e83d31"
+  },
+  {
+    "url": "https://c.amazon-adsystem.com/aax2/apstag.js",
+    "final_url": "https://c.amazon-adsystem.com/aax2/apstag.js",
+    "status": "saved",
+    "path": "assets/01b0615e6a9773ab_apstag.js",
+    "content_type": "application/javascript",
+    "size": 365120,
+    "sha256": "cb31b95b5c81bd55ce197e477a522e8184b11e34fcad088565212a3f32b9419b"
+  },
+  {
+    "url": "https://btloader.com/tag?o=6278260873756672&upapi=true",
+    "final_url": "https://btloader.com/tag?o=6278260873756672&upapi=true",
+    "status": "saved",
+    "path": "assets/68d252ed82680c88_tag",
+    "content_type": "application/javascript",
+    "size": 156512,
+    "sha256": "d00182d5ad7c76277c6883e3c36bffe0abeda3ee0b62c52264a770da0e991fe1"
+  },
+  {
+    "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605050101/pubads_impl.js",
+    "final_url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202605050101/pubads_impl.js",
+    "status": "saved",
+    "path": "assets/a1d77177224bd2f5_pubads_impl.js",
+    "content_type": "text/javascript",
+    "size": 620476,
+    "sha256": "61f5985ecdcaa78a3a4b3e05cf36ef98d8b0d2a02b3f5ad09f469a956397984d"
+  },
+  {
+    "url": "https://silo60.p7cloud.net/as1.js?uri=https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx",
+    "final_url": "https://silo60.p7cloud.net/as1.js?uri=https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx",
+    "status": "saved",
+    "path": "assets/503961967aa97e93_as1.js",
+    "content_type": "application/javascript",
+    "size": 558044,
+    "sha256": "bdf991d0146a4f2caaad6de94f67a3d47b9346b4de9e309dd4d0f65dbc221826"
+  },
+  {
+    "url": "https://p.cpx.to/p/20023/px.js",
+    "final_url": "https://p.cpx.to/p/20023/px.js",
+    "status": "saved",
+    "path": "assets/13a494aad3266945_px.js",
+    "content_type": "application/javascript",
+    "size": 8840,
+    "sha256": "2f58d553f4c0b286cfb25f916c3bb4203b040c386baf573662dbc806d8475c89"
+  },
+  {
+    "url": "https://config.aps.amazon-adsystem.com/configs/da657530-03e5-4306-95bc-d4eb370426c9",
+    "final_url": "https://config.aps.amazon-adsystem.com/configs/da657530-03e5-4306-95bc-d4eb370426c9",
+    "status": "saved",
+    "path": "assets/198eb18b4fcdf37f_da657530-03e5-4306-95bc-d4eb370426c9",
+    "content_type": "application/javascript",
+    "size": 10578,
+    "sha256": "26e7400f961d7ed3b288e511073b83b6321fe74162359b4371ae06adeb1c76f0"
+  },
+  {
+    "url": "https://cdn-ima.33across.com/ima.js",
+    "final_url": "https://cdn-ima.33across.com/ima.js",
+    "status": "saved",
+    "path": "assets/bd7af8d64ae917e2_ima.js",
+    "content_type": "application/javascript",
+    "size": 17486,
+    "sha256": "33551d0cb2e8b26423fbd20655168f22d5b3a24857c8c0fb2d6444b463c42aa8"
+  },
+  {
+    "url": "https://cdn.id5-sync.com/api/1.0/id5-api.js",
+    "final_url": "https://cdn.id5-sync.com/api/1.0/id5-api.js",
+    "status": "saved",
+    "path": "assets/cbd082d588730c47_id5-api.js",
+    "content_type": "text/javascript",
+    "size": 120304,
+    "sha256": "18120a6bee05cd823d5f4ab0c52006863a059a5d6c535c790a31bdd2ee8c45e7"
+  },
+  {
+    "url": "https://tags.crwdcntrl.net/lt/c/16576/sync.min.js",
+    "final_url": "https://tags.crwdcntrl.net/lt/c/16576/sync.min.js",
+    "status": "saved",
+    "path": "assets/8eb4a65feae8044c_sync.min.js",
+    "content_type": "text/javascript",
+    "size": 46106,
+    "sha256": "8277b6a933ac25428d68a928b4122248981ff9558f2a9c2c1a706c11bdc59361"
+  },
+  {
+    "url": "https://secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js",
+    "final_url": "https://secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js",
+    "status": "saved",
+    "path": "assets/bdd93472597591da_pubcid.min.js",
+    "content_type": "application/javascript",
+    "size": 68276,
+    "sha256": "45bc6978e281a938d9485dcbf0859159b24e2f7c9b8b0fafc120b9606e0ea8b1"
+  },
+  {
+    "url": "https://p.ad.gt/api/v1/p/720",
+    "final_url": "https://p.ad.gt/api/v1/p/720",
+    "status": "saved",
+    "path": "assets/df389655a41c6b6a_720",
+    "content_type": "application/javascript",
+    "size": 27828,
+    "sha256": "e3a387f244eeacb2ed0974523bdb4e0ea0097a00262270a508e78e9cc90f78b1"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-FVWZ0RM4DH&l=audDataLayer",
+    "final_url": "https://www.googletagmanager.com/gtag/js?id=G-FVWZ0RM4DH&l=audDataLayer",
+    "status": "saved",
+    "path": "assets/2fc6191f613441d8_js",
+    "content_type": "application/javascript",
+    "size": 425857,
+    "sha256": "e915b54009177f11242f0169b20947e7aa67d94e1e0ae9bb8395da147ffb9cf9"
+  },
+  {
+    "url": "https://oa.openxcdn.net/esp.js",
+    "final_url": "https://oa.openxcdn.net/esp.js",
+    "status": "saved",
+    "path": "assets/2a314e3651cf9b3a_esp.js",
+    "content_type": "application/javascript",
+    "size": 24615,
+    "sha256": "544c55ca9f05d425f3beb90f287308d7a408b1f60d17728eff5c605a494bc1b9"
+  },
+  {
+    "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+    "final_url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+    "status": "saved",
+    "path": "assets/cff6c1e19b82df9a_publishertag.ids.js",
+    "content_type": "text/javascript",
+    "size": 42624,
+    "sha256": "2b159b0c5c7dd62d0fae76cf704190bb6f91664f4ccdded034d1bfb61a119cf8"
+  },
+  {
+    "url": "https://sb.scorecardresearch.com/p?c1=2&c2=20631572&cv=3.6.0&cj=1",
+    "final_url": "https://sb.scorecardresearch.com/p?c1=2&c2=20631572&cv=3.6.0&cj=1",
+    "status": "saved",
+    "path": "assets/5a58b9e7b2949e02_p.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "b1442e85b03bdcaf66dc58c7abb98745dd2687d86350be9a298a1d9382ac849b"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1070/13/638605220544214742.webp",
+    "final_url": "https://media.forgecdn.net/avatars/1070/13/638605220544214742.webp",
+    "status": "saved",
+    "path": "assets/d650d5130e4e11a9_638605220544214742.webp",
+    "content_type": "image/webp",
+    "size": 2976,
+    "sha256": "9bd480db0d70fc1cfac15b7f618b3a3cecc3774865375b43839aabde5994ae60"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1070/17/638605223094593241.webp",
+    "final_url": "https://media.forgecdn.net/avatars/1070/17/638605223094593241.webp",
+    "status": "saved",
+    "path": "assets/ec7116394f8eef05_638605223094593241.webp",
+    "content_type": "image/webp",
+    "size": 3670,
+    "sha256": "b15c7dc9f707b326ba17e92d5d064396fbe727d886c34eb14fc6209c3cf502a3"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/63/986/636148993918069601.png",
+    "final_url": "https://media.forgecdn.net/avatars/63/986/636148993918069601.png",
+    "status": "saved",
+    "path": "assets/ad254655fd197c93_636148993918069601.png",
+    "content_type": "image/png",
+    "size": 11335,
+    "sha256": "00876dab0728481908d7d5d93deeda57b0a90c530b49d7586ddf1a6d83afb617"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/652/316/638053973637065420.png",
+    "final_url": "https://media.forgecdn.net/avatars/652/316/638053973637065420.png",
+    "status": "saved",
+    "path": "assets/6cbe0151c7e1ae19_638053973637065420.png",
+    "content_type": "image/png",
+    "size": 13417,
+    "sha256": "ea7ef05592884e8e0653bd02427a59568338d14ef762bdbdec8c1c9dc8798faf"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1070/18/638605223934776497.webp",
+    "final_url": "https://media.forgecdn.net/avatars/1070/18/638605223934776497.webp",
+    "status": "saved",
+    "path": "assets/7789ee7c8cd19d78_638605223934776497.webp",
+    "content_type": "image/webp",
+    "size": 3984,
+    "sha256": "52831fdf846884252dbd5527679301cfb5071be5ae9d7e447b281e377c9af585"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1524/507/638989900160249730.png",
+    "final_url": "https://media.forgecdn.net/avatars/1524/507/638989900160249730.png",
+    "status": "saved",
+    "path": "assets/b66392595569c7ff_638989900160249730.png",
+    "content_type": "image/png",
+    "size": 27465,
+    "sha256": "bdb68c119ab66555bc79cb6c9280e9427295968c9badd7bb2adb10c7b0d8839f"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1309/398/638851405399194385.png",
+    "final_url": "https://media.forgecdn.net/avatars/1309/398/638851405399194385.png",
+    "status": "saved",
+    "path": "assets/bd4c542d53f70f6a_638851405399194385.png",
+    "content_type": "image/png",
+    "size": 7313,
+    "sha256": "7533fdea18b176cba651105cc912570032a3f3826fd3b3b84271578c1e94057d"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1070/16/638605222444192313.webp",
+    "final_url": "https://media.forgecdn.net/avatars/1070/16/638605222444192313.webp",
+    "status": "saved",
+    "path": "assets/654ac2d00cd1462f_638605222444192313.webp",
+    "content_type": "image/webp",
+    "size": 4474,
+    "sha256": "f30f92c80fb45d293d01845e6d5ad696bcb11ff1e402edf26ac74b3e858166fc"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1070/101/638605301275466053.webp",
+    "final_url": "https://media.forgecdn.net/avatars/1070/101/638605301275466053.webp",
+    "status": "saved",
+    "path": "assets/9dfdd791b6f008b0_638605301275466053.webp",
+    "content_type": "image/webp",
+    "size": 3670,
+    "sha256": "82fb9696b9fce0328dd3662f6f5cf801260b0fdeba68494cd180ccab3bdd7846"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1070/14/638605221454973991.webp",
+    "final_url": "https://media.forgecdn.net/avatars/1070/14/638605221454973991.webp",
+    "status": "saved",
+    "path": "assets/2bbaec0dec8fb26e_638605221454973991.webp",
+    "content_type": "image/webp",
+    "size": 2696,
+    "sha256": "bf5ecac70103e9a45ed714ce082a28a0cc5cfe72078629188d3dd6ae31a588a4"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/652/739/638054967147418836.png",
+    "final_url": "https://media.forgecdn.net/avatars/652/739/638054967147418836.png",
+    "status": "saved",
+    "path": "assets/0f3b2210ee7110ea_638054967147418836.png",
+    "content_type": "image/png",
+    "size": 12772,
+    "sha256": "2a1d654bd6ea7a208e4fdcb4ca20f322e37c3538aed2d7c150dcbf27ef35b18c"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/1069/302/638604223320170936.png",
+    "final_url": "https://media.forgecdn.net/avatars/1069/302/638604223320170936.png",
+    "status": "saved",
+    "path": "assets/0cd05a2c457810a3_638604223320170936.png",
+    "content_type": "image/png",
+    "size": 20243,
+    "sha256": "03df4ff19cb7e7f85fda9f794ffb41a6b74cdafa5265939ceae0d157222d100f"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/65/488/636162973579653614.png",
+    "final_url": "https://media.forgecdn.net/avatars/65/488/636162973579653614.png",
+    "status": "saved",
+    "path": "assets/ae10641717e50ab8_636162973579653614.png",
+    "content_type": "image/png",
+    "size": 3934,
+    "sha256": "ed705d49cf8af1a7fa029d0a489b83460d08d2927dee49b05e112316ceae2fd8"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/652/762/638054972820516108.png",
+    "final_url": "https://media.forgecdn.net/avatars/652/762/638054972820516108.png",
+    "status": "saved",
+    "path": "assets/ac2a3972ca8e3663_638054972820516108.png",
+    "content_type": "image/png",
+    "size": 23403,
+    "sha256": "2a532de56e5440cc90b28c4537e2d43b17094037db9c58ff27977e7f527b256d"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/77/677/636174916166063366.png",
+    "final_url": "https://media.forgecdn.net/avatars/77/677/636174916166063366.png",
+    "status": "saved",
+    "path": "assets/e6d8744f77686dab_636174916166063366.png",
+    "content_type": "image/png",
+    "size": 26572,
+    "sha256": "80d7c1d04fb21cfd28e920335bacb704ee57ffa4fbf6d6ff07c893e3a7863922"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/936/141/638413534976321166.jpg",
+    "final_url": "https://media.forgecdn.net/avatars/936/141/638413534976321166.jpg",
+    "status": "saved",
+    "path": "assets/f2bd9b649ff373d0_638413534976321166.jpg",
+    "content_type": "image/jpeg",
+    "size": 11678,
+    "sha256": "e066dd06370784e90f72380e3cb9acef7432d2e0e4837c06aea20bb1ad897c4b"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/76/698/636173120361240569.png",
+    "final_url": "https://media.forgecdn.net/avatars/76/698/636173120361240569.png",
+    "status": "saved",
+    "path": "assets/e877875d7d3949ce_636173120361240569.png",
+    "content_type": "image/png",
+    "size": 22645,
+    "sha256": "156bc1e95b81da32ef0b591d50b7a565699a51190bfc86bb725fc962aefeed34"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/652/751/638054969923607845.png",
+    "final_url": "https://media.forgecdn.net/avatars/652/751/638054969923607845.png",
+    "status": "saved",
+    "path": "assets/ba6a9a0dad207b64_638054969923607845.png",
+    "content_type": "image/png",
+    "size": 9151,
+    "sha256": "9d3da7da1037fef696be26978a8dd9790fd65654d5dab3f255078158f80ba975"
+  },
+  {
+    "url": "https://media.forgecdn.net/game-covers/78022_3a995bc2-3138-4b4b-b009-42df48eee1aa.webp",
+    "final_url": "https://media.forgecdn.net/game-covers/78022_3a995bc2-3138-4b4b-b009-42df48eee1aa.webp",
+    "status": "saved",
+    "path": "assets/a378c43519f01efb_78022_3a995bc2-3138-4b4b-b009-42df48eee1aa.webp",
+    "content_type": "image/webp",
+    "size": 66166,
+    "sha256": "2b3e7ab48d361f693cda7acd7e225baa09a4e8f3a5af258b78a27b4b089eda51"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/thumbnails/1533/583/64/64/638995696561323405.png",
+    "final_url": "https://media.forgecdn.net/avatars/thumbnails/1533/583/64/64/638995696561323405.png",
+    "status": "saved",
+    "path": "assets/545d7189e5aed005_638995696561323405.png",
+    "content_type": "image/png",
+    "size": 11073,
+    "sha256": "05b82445848d48c970a0e38d741facb318cb635ec6538d3910fa317862c054ec"
+  },
+  {
+    "url": "https://static-beta.curseforge.com/images/rev/authors_70.webp",
+    "final_url": "https://static-beta.curseforge.com/images/rev/authors_70.webp",
+    "status": "saved",
+    "path": "assets/50b8c21b085d5c91_authors_70.webp",
+    "content_type": "image/webp",
+    "size": 11736,
+    "sha256": "aa9fabcc4643930b6e3bd178090375101aa952953cd52b0b0c455d505054e907"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1342/267/vanilla-rtx-copper-age-main-cover-image_minecraft.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1342/267/vanilla-rtx-copper-age-main-cover-image_minecraft.jpg",
+    "status": "saved",
+    "path": "assets/b0ba690f3ba7a0ac_vanilla-rtx-copper-age-main-cover-image_minecraft.jpg",
+    "content_type": "image/jpeg",
+    "size": 245190,
+    "sha256": "a3645c10ef2fbf42e8f40e4a6488e776e05c7cd721964f3b5320dcdb3f61144a"
+  },
+  {
+    "url": "https://get.microsoft.com/images/en-us dark.svg",
+    "final_url": "https://get.microsoft.com/images/en-us%20dark.svg",
+    "status": "saved",
+    "path": "assets/8889760f36838f83_en-us_20dark.svg",
+    "content_type": "image/svg+xml",
+    "size": 26533,
+    "sha256": "0e0cd666d0b351bc2680658faf8485a5d2d78d2ab14086d37fca7f0e8c12fa69"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/description/567844/description_ddde61d1-c0e2-4314-9a2d-76bb78808988.png",
+    "final_url": "https://media.forgecdn.net/attachments/description/567844/description_ddde61d1-c0e2-4314-9a2d-76bb78808988.png",
+    "status": "saved",
+    "path": "assets/f50a80331238c1f1_description_ddde61d1-c0e2-4314-9a2d-76bb78808988.png",
+    "content_type": "image/png",
+    "size": 13250,
+    "sha256": "61ef510d15f3b69d1df98afd07f92a654b78c05757bf2cf1b5e473b746355e85"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/348/vanilla-rtx_ice-kings-vault-3_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/348/vanilla-rtx_ice-kings-vault-3_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/8af98774daf5a0fd_vanilla-rtx_ice-kings-vault-3_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 104078,
+    "sha256": "4fc2d367bb0e9680db673c1dadd7f9e3872978af957dd3a530c2f82ee7d46cd6"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/355/vanilla-rtx_outdoors-showcase-image-2_minecraft.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/355/vanilla-rtx_outdoors-showcase-image-2_minecraft.jpg",
+    "status": "saved",
+    "path": "assets/b104b54ed0526a05_vanilla-rtx_outdoors-showcase-image-2_minecraft.jpg",
+    "content_type": "image/jpeg",
+    "size": 218518,
+    "sha256": "72dcf8b44b8a776a6cdfd40e745c47be03277478c67059a73d7a40696fd73ebd"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1349/160/vanilla-rtx_copper-age-game-drop-support_minecraft.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1349/160/vanilla-rtx_copper-age-game-drop-support_minecraft.jpg",
+    "status": "saved",
+    "path": "assets/4d78a02f3fe8102a_vanilla-rtx_copper-age-game-drop-support_minecraft.jpg",
+    "content_type": "image/jpeg",
+    "size": 152392,
+    "sha256": "3c645753fa7395c3af97da1799887c9b3d0afcd81658b79557987b31800ea074"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/349/vanilla-rtx_mangrove-swamp-fog_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/349/vanilla-rtx_mangrove-swamp-fog_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/1ffa6030cd079364_vanilla-rtx_mangrove-swamp-fog_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 106054,
+    "sha256": "1b55183cadfbe777ec122f6f1fbc3c517dc3c15c7705b91ee51259125113733d"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/377/vanilla-rtx_tricky-trials_minecraft-rtx-jpg-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/377/vanilla-rtx_tricky-trials_minecraft-rtx-jpg-jpg.jpg",
+    "status": "saved",
+    "path": "assets/9c1736cd161d529d_vanilla-rtx_tricky-trials_minecraft-rtx-jpg-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 133355,
+    "sha256": "8b12a1ff79e37a3c5109011aa625c1f1e34075d6f381daf57daac281577edd5b"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1203/737/desert-atmosphere-2-jpeg.jpeg",
+    "final_url": "https://media.forgecdn.net/attachments/1203/737/desert-atmosphere-2-jpeg.jpeg",
+    "status": "saved",
+    "path": "assets/1e84f71aea82f7a6_desert-atmosphere-2-jpeg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 108517,
+    "sha256": "885ce9e9dc100e25a516230cd6ad765557472ca07f8a8426880728a368772bd6"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1157/661/vanilla-rtx_resin_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1157/661/vanilla-rtx_resin_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/c93b74bfdb59a309_vanilla-rtx_resin_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 166594,
+    "sha256": "2b00002b41f5c869a39aec8eba894935ad859ed3fa43ecb1ab04521fba4c0883"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/329/candle-enhanced-rtx-notext-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/329/candle-enhanced-rtx-notext-jpg.jpg",
+    "status": "saved",
+    "path": "assets/2733803a22ff8a85_candle-enhanced-rtx-notext-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 100234,
+    "sha256": "675ec20ebd145a683a2fed5b173d44088399cc9feb8b348dd4b7d7549110e0ec"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/354/vanilla-rtx_outdoors-showcase-image_minecraft-rtx.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/354/vanilla-rtx_outdoors-showcase-image_minecraft-rtx.jpg",
+    "status": "saved",
+    "path": "assets/b4d89d0e4f2119b5_vanilla-rtx_outdoors-showcase-image_minecraft-rtx.jpg",
+    "content_type": "image/jpeg",
+    "size": 219841,
+    "sha256": "29fe86b2d027c012091bd59929eae4994ac16b4bb1112d1cc18c702dc5d697cd"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1404/35/vanilla-rtx-sculk-image-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1404/35/vanilla-rtx-sculk-image-jpg.jpg",
+    "status": "saved",
+    "path": "assets/02e0a9a4cb78b553_vanilla-rtx-sculk-image-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 160026,
+    "sha256": "9cf75e6c57ba0be2856c1e9bfb22a63c8c9f60cf1b34ae3de556a0e9bb0a0bd5"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/346/vanilla-rtx_ice-kings-vault_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/346/vanilla-rtx_ice-kings-vault_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/b890cc95260904da_vanilla-rtx_ice-kings-vault_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 130613,
+    "sha256": "b13f058c36da9471bdf09724fdfc42e88e3c15e97b4b0432fdb70612055ece39"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/335/vanilla-rtx_amethyst-cave_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/335/vanilla-rtx_amethyst-cave_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/7667ace7ec356208_vanilla-rtx_amethyst-cave_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 158013,
+    "sha256": "e96750ae18425b8aa0951bd5d8ec760d3c823f844402ebc178fb7e43f6e61f53"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/333/vanilla-rtx_ominous-vault_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/333/vanilla-rtx_ominous-vault_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/3f42d6243de6ce2b_vanilla-rtx_ominous-vault_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 113187,
+    "sha256": "6914f07377b7326f50a11831c95e7bf2036b511c7621f9ab40333b8c1f89b5e2"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/350/vanilla-rtx_mangrove-swamp-wild-update_minecraft.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/350/vanilla-rtx_mangrove-swamp-wild-update_minecraft.jpg",
+    "status": "saved",
+    "path": "assets/b52a0dc977765971_vanilla-rtx_mangrove-swamp-wild-update_minecraft.jpg",
+    "content_type": "image/jpeg",
+    "size": 85397,
+    "sha256": "01dc6a7b8d8c45a423b99a2687e8f697a78a22f103494cf4100945ba11e3fecd"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/344/vanilla-rtx_glass-image_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/344/vanilla-rtx_glass-image_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/af46bce365bce8a4_vanilla-rtx_glass-image_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 200124,
+    "sha256": "743a885923fa84b853b52f05a41bc2811f037b762fd8a7779046ca9228472a90"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/336/vanilla-rtx_autumns-end-update_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/336/vanilla-rtx_autumns-end-update_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/b6ebb0b6e89aac8d_vanilla-rtx_autumns-end-update_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 246071,
+    "sha256": "b9a8aeac3f19f94cf773541687f9b76dded79beb48bb329535ab0eb8e9d56dde"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/337/vanilla-rtx_cherr-forest_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/337/vanilla-rtx_cherr-forest_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/8142f364a38b4904_vanilla-rtx_cherr-forest_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 254536,
+    "sha256": "ede61315cf3a77e2faea415680fc4568047d5d0b05757541e5454d4f5cb749a7"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/345/vanilla-rtx_glass-update_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/345/vanilla-rtx_glass-update_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/674ae56c3abcb169_vanilla-rtx_glass-update_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 226463,
+    "sha256": "641d78acb0e7b77427abfeae7ac27ca8ee175316663049aaf96886806316a6cb"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/364/vanilla-rtx_tutorial-world-pickaxe_minecraft-rtx.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/364/vanilla-rtx_tutorial-world-pickaxe_minecraft-rtx.jpg",
+    "status": "saved",
+    "path": "assets/6a8886fd584912f4_vanilla-rtx_tutorial-world-pickaxe_minecraft-rtx.jpg",
+    "content_type": "image/jpeg",
+    "size": 279501,
+    "sha256": "61f674cf58e923f2e20c7114fb176f589ce3721be499e5337ed9f770474640f0"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/330/vanilla-rtx_taiga-atmospheric-fog_minecraft-rtx.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/330/vanilla-rtx_taiga-atmospheric-fog_minecraft-rtx.jpg",
+    "status": "saved",
+    "path": "assets/00da14d9a8be3651_vanilla-rtx_taiga-atmospheric-fog_minecraft-rtx.jpg",
+    "content_type": "image/jpeg",
+    "size": 188273,
+    "sha256": "a7c8246d83009aceba5882c4fbf1b344f94fb14c3e1a417add49850d0d589c8c"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/347/vanilla-rtx_ice-kings-vault-2_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/347/vanilla-rtx_ice-kings-vault-2_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/7df148e24101afc1_vanilla-rtx_ice-kings-vault-2_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 131003,
+    "sha256": "ebbab0c28c4e2d1bb11d6687c322442ea2ebd7da79dc86aa37678c50632a4963"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1137/357/vanilla-rtx_room-showcase-image_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1137/357/vanilla-rtx_room-showcase-image_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/2b89eabe7a3df442_vanilla-rtx_room-showcase-image_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 142468,
+    "sha256": "3adcbea147157c14b6cf6aaaf17eb58636515da6d18b9947003dbaccba460563"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/334/vanilla-rtx_end-portal-eyes_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/334/vanilla-rtx_end-portal-eyes_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/68fcafd95e7b0d9d_vanilla-rtx_end-portal-eyes_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 112032,
+    "sha256": "c1106d519e87550f8a372c0c0e11789751df2e0ea3c8f6bd348cef4a57b6eaf8"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/357/vanilla-rtx_mob_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/357/vanilla-rtx_mob_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/3f3bbac92a4f5a55_vanilla-rtx_mob_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 90053,
+    "sha256": "6c9b599e181e0d50f7aa0ed0be3a7be8ec28fffc86584ba4ae8b197c79ed8f56"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/341/vanilla-rtx_mob-glowing_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/341/vanilla-rtx_mob-glowing_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/36f0a5f067fcdaad_vanilla-rtx_mob-glowing_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 98805,
+    "sha256": "625bf48a9203acd5c75401c1aa216d13a8bd7e5f875765873ecc778e927654a0"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1349/161/vanilla-rtx_enhanced-copper-golem_minecraft-rtx.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1349/161/vanilla-rtx_enhanced-copper-golem_minecraft-rtx.jpg",
+    "status": "saved",
+    "path": "assets/0dc9e6c70f2e97ab_vanilla-rtx_enhanced-copper-golem_minecraft-rtx.jpg",
+    "content_type": "image/jpeg",
+    "size": 82864,
+    "sha256": "a88905538bd45a1b208ed28c733deb172071be77d7d86aa7fa1e3a3c289994ec"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1365/936/vanilla-rtx_point-light-bug_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1365/936/vanilla-rtx_point-light-bug_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/6ba7382e9537d8e9_vanilla-rtx_point-light-bug_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 89591,
+    "sha256": "a5f9a2e625a36c645b3d394dd011d429017db1280e28ce42576a5e368369b6dd"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1365/935/vanilla-rtx_point-light-enhanced.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1365/935/vanilla-rtx_point-light-enhanced.jpg",
+    "status": "saved",
+    "path": "assets/f607442d5905e946_vanilla-rtx_point-light-enhanced.jpg",
+    "content_type": "image/jpeg",
+    "size": 167191,
+    "sha256": "ea82adc9df5999ea2dfad58090b4204d1ebb3bbf02da88cdb7ec2e4efb9173fa"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/353/vanilla-rtx_villager-before_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/353/vanilla-rtx_villager-before_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/4b1e48dfed66006b_vanilla-rtx_villager-before_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 252754,
+    "sha256": "40fa372931a4427d2eaff5355572f5028f9368ca09a96287eb7cc1b8c8bb424e"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/352/vanilla-rtx_villager-after_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/352/vanilla-rtx_villager-after_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/95df6ec31a23668a_vanilla-rtx_villager-after_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 265321,
+    "sha256": "412638fbb2820b917fad82087b83f5d5655949a992eb3fecdd5d60a991f257d4"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/356/vanilla-rtx_warden_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/356/vanilla-rtx_warden_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/e4b7caa8782c051f_vanilla-rtx_warden_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 198903,
+    "sha256": "7a45b3eaecf52680c9615821bcae8474c8d5b4d2222f2a103cda55d07bbdebce"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/459/vanilla-rtx_wither_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/459/vanilla-rtx_wither_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/c37f7360a6f62142_vanilla-rtx_wither_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 161023,
+    "sha256": "9867bdd71d5efe2dafc6fd6ab571de5d85b402fed970543454865c9458a96990"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/344/vanilla-rtx_snow-nort_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/344/vanilla-rtx_snow-nort_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/999665a1bab86055_vanilla-rtx_snow-nort_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 92943,
+    "sha256": "fa1b2a030df51fd12df0f7492635cf573a89c07fc7bcda900f6d91f3614e3c42"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/340/vanilla-rtx_improved-particles_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/340/vanilla-rtx_improved-particles_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/77613f3c5e47d32c_vanilla-rtx_improved-particles_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 104334,
+    "sha256": "548d69d5465770532dcfc2b8c2d697a670c14888f58bd93160eba9cee0062a31"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/339/vanilla-rtx_chiseled-bookshelf-before.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/339/vanilla-rtx_chiseled-bookshelf-before.jpg",
+    "status": "saved",
+    "path": "assets/a570961c3133ccd0_vanilla-rtx_chiseled-bookshelf-before.jpg",
+    "content_type": "image/jpeg",
+    "size": 130782,
+    "sha256": "674689053021d545f7ef0f2e14bc59a75d6aa9ad954b1c36e5db3bd1f97e9be0"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/346/vanilla-rtx_chiseled-bookshelf_minecraft-rtx-jpg.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/346/vanilla-rtx_chiseled-bookshelf_minecraft-rtx-jpg.jpg",
+    "status": "saved",
+    "path": "assets/e5a9b65bbdc2a625_vanilla-rtx_chiseled-bookshelf_minecraft-rtx-jpg.jpg",
+    "content_type": "image/jpeg",
+    "size": 159665,
+    "sha256": "35421eced17b6158f19c6565df7f402082b1399d4c78fdcb850f42ec056ebeaa"
+  },
+  {
+    "url": "https://media.forgecdn.net/attachments/1187/458/vanilla-rtx_cauldron-water-bug-panel_minecraft-rtx.jpg",
+    "final_url": "https://media.forgecdn.net/attachments/1187/458/vanilla-rtx_cauldron-water-bug-panel_minecraft-rtx.jpg",
+    "status": "saved",
+    "path": "assets/30fc18ac5a0f8fa7_vanilla-rtx_cauldron-water-bug-panel_minecraft-rtx.jpg",
+    "content_type": "image/jpeg",
+    "size": 121463,
+    "sha256": "bb2a13b744a3f6677eb95d1a50e2dee5c1addf3fbfb837341d232d9381d43f90"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/thumbnails/1534/85/256/256/638996057770970841.png",
+    "final_url": "https://media.forgecdn.net/avatars/thumbnails/1534/85/256/256/638996057770970841.png",
+    "status": "saved",
+    "path": "assets/a7e32cb3b8feec1c_638996057770970841.png",
+    "content_type": "image/png",
+    "size": 111067,
+    "sha256": "896040b78c2ba74221b417dbd0dd7107164bd7ba938a9a5fdfce29aa5263309c"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/thumbnails/1533/582/256/256/638995696316829087.png",
+    "final_url": "https://media.forgecdn.net/avatars/thumbnails/1533/582/256/256/638995696316829087.png",
+    "status": "saved",
+    "path": "assets/ca10a7ab6352f956_638995696316829087.png",
+    "content_type": "image/png",
+    "size": 91006,
+    "sha256": "055948f3de8806d978bd54d2344addc2814e283b8b0cc800277c6a455d1f9a4d"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/thumbnails/1600/188/256/256/639033947127131251.png",
+    "final_url": "https://media.forgecdn.net/avatars/thumbnails/1600/188/256/256/639033947127131251.png",
+    "status": "saved",
+    "path": "assets/c0afe880e5507d65_639033947127131251.png",
+    "content_type": "image/png",
+    "size": 95363,
+    "sha256": "9f40f02c3ae3c078f244adfc0ff3b4d048d14fcfecd94d0487338ac79adc4992"
+  },
+  {
+    "url": "https://media.forgecdn.net/avatars/thumbnails/1600/58/256/256/639033883033461704.png",
+    "final_url": "https://media.forgecdn.net/avatars/thumbnails/1600/58/256/256/639033883033461704.png",
+    "status": "saved",
+    "path": "assets/801ff365f4ae058c_639033883033461704.png",
+    "content_type": "image/png",
+    "size": 95363,
+    "sha256": "c0832ba5937971af7e0782abc845c2d9b7581a233ebc5f06d9d6ff8f3ec1c8a4"
+  },
+  {
+    "url": "https://tr.outbrain.com/cachedClickId?marketerId=000ae06d296913970295d04b5e0630c8e5",
+    "final_url": "https://tr.outbrain.com/cachedClickId?marketerId=000ae06d296913970295d04b5e0630c8e5",
+    "status": "saved",
+    "path": "assets/28a0424bf955a115_cachedClickId",
+    "content_type": "application/javascript",
+    "size": 35,
+    "sha256": "1d348f9f803c95305f63def9d75fd50e79e54a375e1a4a888edbbea366845580"
+  },
+  {
+    "url": "https://bat.bing.com/action/0?ti=355018264&tm=gtm002&Ver=2&mid=ee06fccf-5038-4048-a80f-82d8eed92e41&bo=1&sid=247a52604df611f182e9cb8bedede39e&vid=247a5a304df611f1b53ff16b580554a2&vids=1&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1365&sh=900&sc=24&nwd=1&tl=Vanilla%20RTX%20-%20Minecraft%20Bedrock%20Texture%20Packs%20-%20CurseForge&p=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx&r=&lt=739&evt=pageLoad&sv=2&cdb=AQAQ&rn=241965",
+    "final_url": "https://bat.bing.com/action/0?ti=355018264&tm=gtm002&Ver=2&mid=ee06fccf-5038-4048-a80f-82d8eed92e41&bo=1&sid=247a52604df611f182e9cb8bedede39e&vid=247a5a304df611f1b53ff16b580554a2&vids=1&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1365&sh=900&sc=24&nwd=1&tl=Vanilla%20RTX%20-%20Minecraft%20Bedrock%20Texture%20Packs%20-%20CurseForge&p=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx&r=&lt=739&evt=pageLoad&sv=2&cdb=AQAQ&rn=241965",
+    "status": "saved",
+    "path": "assets/3d4f8859307301a5_0",
+    "content_type": "",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://silo60.p7cloud.net/if.html?gdpr=false&gdprConsent=false&tpd=true&md=false",
+    "final_url": "https://silo60.p7cloud.net/if.html?gdpr=false&gdprConsent=false&tpd=true&md=false",
+    "status": "saved",
+    "path": "assets/e27b010642ecc93b_if.html",
+    "content_type": "text/html",
+    "size": 2756,
+    "sha256": "266637d2db0234e8cdcad2875a1645929663e9ac838e5bf0d638390001b40867"
+  },
+  {
+    "url": "https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX",
+    "final_url": "https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX",
+    "status": "saved",
+    "path": "assets/904626c121c2a97c_ip_match.html",
+    "content_type": "text/html",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&adnxs_id=$UID&gdpr=0",
+    "final_url": "https://ids.ad.gt/api/v1/match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&adnxs_id=8968316221325301337&gdpr=0",
+    "status": "saved",
+    "path": "assets/49056010bf729743_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001778585500-M0N6YS5S-RPCX%26auid%3DAU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0",
+    "final_url": "https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001778585500-M0N6YS5S-RPCX%26auid%3DAU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0",
+    "status": "saved",
+    "path": "assets/996dc4da7ea6922c_cm.html",
+    "content_type": "text/html",
+    "size": 787,
+    "sha256": "aef6ecc1ef5e3b8ec99462b2f84eda81e47cf5ad921ec4e9f62013ea2c8891c3"
+  },
+  {
+    "url": "https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0",
+    "final_url": "https://ids.ad.gt/api/v1/pbm_match?pbm=992D3038-8C58-452C-9246-65BC2ACEEB3A&id=AU1D-0100-001778585500-M0N6YS5S-RPCX",
+    "status": "saved",
+    "path": "assets/f58806eb40768429_pbm_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0",
+    "final_url": "https://ids.ad.gt/api/v1/rub_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&rub=MP2JVUXJ-V-A89B&gdpr=0",
+    "status": "saved",
+    "path": "assets/2664c0102df70516_rub_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0",
+    "status": "failed",
+    "reason": "APIRequestContext.get: Timeout 30000ms exceeded.\nCall log:\n  - → GET https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n    - cookie: TDID=7f2d2ebf-aa2e-404f-ac3e-19cc85cba039; TDCPM=CAESFAoFdGFwYWQSCwj0mYuVgomYPxAFGAEgAigCMgsIlJCOwpiJmD8QBTgBWgV0YXBhZGAC\n"
+  },
+  {
+    "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001778585500-M0N6YS5S-RPCX&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001778585500-M0N6YS5S-RPCX%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0",
+    "final_url": "https://ids.ad.gt/api/v1/tapad_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&tapad_id=a449f0aa-3f1f-4845-aa3a-8f537b460164",
+    "status": "saved",
+    "path": "assets/1d4a48f6736ae179_tapad_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc3ODU4NTUwMC1NME42WVM1Uy1SUENY&id=AU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0",
+    "final_url": "https://ids.ad.gt/api/v1/g_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&gdpr=0&google_error=15",
+    "status": "saved",
+    "path": "assets/8098e9a0c83ced02_g_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001778585500-M0N6YS5S-RPCX",
+    "final_url": "https://ids.ad.gt/api/v1/amo_match?turn_id=8292539727127983900&id=AU1D-0100-001778585500-M0N6YS5S-RPCX",
+    "status": "saved",
+    "path": "assets/a3e2212218abba98_amo_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&uid=[UID]&gdpr=0",
+    "final_url": "https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&uid=2a9cce1a-81e8-4434-a055-400a9aac8da7&gdpr=0",
+    "status": "saved",
+    "path": "assets/116e8ba9aebe010f_son_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001778585500-M0N6YS5S-RPCX%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0",
+    "final_url": "https://ids.ad.gt/api/v1/impr_match?id=AU1D-0100-001778585500-M0N6YS5S-RPCX&impr_uid=9eff8a8b-6258-42b8-8ee5-dcfaa62307bf",
+    "status": "saved",
+    "path": "assets/2877023af26462c6_impr_match.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "afe0dcfca292a0fae8bce08a48c14d3e59c9d82c6052ab6d48a22ecc6c48f277"
+  },
+  {
+    "url": "https://pixels.ad.gt/api/v1/getpixels?tagger_id=3eacb2f38ae199bdfc8818c8e25e7f4e&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx&code='none'",
+    "final_url": "https://pixels.ad.gt/api/v1/getpixels?tagger_id=3eacb2f38ae199bdfc8818c8e25e7f4e&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx&code=%27none%27",
+    "status": "saved",
+    "path": "assets/1716ded1f8228d91_getpixels",
+    "content_type": "",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://www.facebook.com/tr?id=1444191539742058&ev=PageView&noscript=1",
+    "final_url": "https://www.facebook.com/tr?id=1444191539742058&ev=PageView&noscript=1",
+    "status": "saved",
+    "path": "assets/248f51fca52d53d4_tr.txt",
+    "content_type": "text/plain",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://google-bidout-d.openx.net/w/1.0/pd?plm=5",
+    "final_url": "https://google-bidout-d.openx.net/w/1.0/pd?plm=5",
+    "status": "saved",
+    "path": "assets/4ad93d6e0c754139_pd.html",
+    "content_type": "text/html",
+    "size": 653,
+    "sha256": "649b298f9343114f33f7f999711c37003f52c2e3d709d37422def0ae72419b47"
+  },
+  {
+    "url": "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.curseforge.com&gpp=DBABT~1YNN&gpp_sid=6",
+    "final_url": "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=www.curseforge.com&gpp=DBABT~1YNN&gpp_sid=6",
+    "status": "saved",
+    "path": "assets/0c6234821daf7caa_syncframe.html",
+    "content_type": "text/html",
+    "size": 12662,
+    "sha256": "7b94e9c0424d940cfca9bea671e09a6a5605bf59cb6298a99535eb1eba7c300b"
+  },
+  {
+    "url": "https://cm.g.doubleclick.net/partnerpixels?us_privacy=1YNN&gpp=DBABT~1YNN&gpp_sid=6&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx",
+    "final_url": "https://cm.g.doubleclick.net/partnerpixels?us_privacy=1YNN&gpp=DBABT~1YNN&gpp_sid=6&url=https%3A%2F%2Fwww.curseforge.com%2Fminecraft-bedrock%2Ftexture-packs%2Fvanilla-rtx",
+    "status": "saved",
+    "path": "assets/f901b2df0a5ee36e_partnerpixels.html",
+    "content_type": "text/html",
+    "size": 41,
+    "sha256": "a09179dd962df38a01440ce2e4748c37bd832fe1ac2f65ad974490a89d63d129"
+  }
+]
