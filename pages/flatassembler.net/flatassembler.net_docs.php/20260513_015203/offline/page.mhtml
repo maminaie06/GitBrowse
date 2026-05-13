@@ -1,0 +1,342 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://flatassembler.net/docs.php
+Subject: flat assembler
+Date: Wed, 13 May 2026 01:52:23 +0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8dDkw7KbmrC641eWUEgf30q5a4cLt52tk5z2Dsi59D----"
+
+
+------MultipartBoundary--8dDkw7KbmrC641eWUEgf30q5a4cLt52tk5z2Dsi59D----
+Content-Type: text/html
+Content-ID: <frame-168E9B9501A00F07FA3108BAAAACD62B@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://flatassembler.net/docs.php
+
+<!DOCTYPE html><html dir=3D"ltr" lang=3D"en"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"cid:css-8b5ebdd8-50b2-486f-8d92-f62a127a7142@mhtml=
+.blink" />
+ =20
+  <title>flat assembler</title>
+  <meta name=3D"twitter:card" content=3D"summary">
+  <meta property=3D"og:title" content=3D"flat assembler">
+  <meta property=3D"og:image" content=3D"http://flatassembler.net/images/fl=
+atassembler.gif">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">
+  <link rel=3D"alternate" type=3D"application/atom+xml" title=3D"flat assem=
+bler" href=3D"http://flatassembler.net/atom.php">
+  <link rel=3D"stylesheet" href=3D"https://flatassembler.net/fasm.css" type=
+=3D"text/css">
+ =20
+</head>
+
+<body>
+
+  <p class=3D"mediumtext">
+    <span class=3D"maintitle">flat assembler</span><br>Documentation and tu=
+torials.
+  </p>
+
+  <div class=3D"container">
+   =20
+<p class=3D"largetext">
+This section provides browsable versions of the manuals and other documenta=
+tion included in the flat assembler packages, as well as few other relevant=
+ texts.
+If you are looking for basic tutorials for assembly language, please visit =
+the official <a href=3D"https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpg=
+JoBhA">video channel</a> and <a href=3D"https://board.flatassembler.net/for=
+um.php?f=3D23">our forums</a>.
+</p>
+
+<p class=3D"largetext">
+First, a few documents concerning the new flat assembler g engine.
+</p>
+
+<div class=3D"links">
+<table style=3D"width: 85%;">
+
+  <colgroup>
+    <col style=3D"width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php?arti=
+cle=3Dfasmg">flat assembler g<br>Introduction and Overview</a><br>
+      <span class=3D"smalltext">last update: 08 Jun 2025</span><br>
+    </td>
+    <td>
+      An introduction to flat assembler g that shows the intended purpose o=
+f this engine and demonstrates
+      how to construct an assembler for a given CPU architecture through ma=
+croinstructions.
+   </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php?arti=
+cle=3Dfasmg_manual">flat assembler g<br>User Manual</a><br>
+      <span class=3D"smalltext">last update: 20 Mar 2026</span><br>
+    </td>
+    <td>
+      The detailed description of the syntax of flat assembler g.
+      This is a reference document that can also be read as a progressive g=
+uide.
+    </td>
+  </tr>
+
+</tbody></table>
+</div>
+
+<p class=3D"largetext">
+The remaining documents are about the original flat assembler.
+</p>
+
+<div class=3D"links">
+<table style=3D"width: 85%;">
+
+  <colgroup>
+    <col style=3D"width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php?arti=
+cle=3Dmanual">flat assembler 1.73<br>Programmer's Manual</a><br>
+       <span class=3D"smalltext">last update: 04 Jan 2022</span>
+    </td>
+    <td>
+      This is the HTML version of documentation which is provided with all =
+the flat assembler 1 packages.
+      It contains an overview of the syntax and lists all the supported ins=
+tructions and directives, with some
+      elementary examples of usage. Reading this document is particularly r=
+ecommended when you are experienced
+      assembly language programmer but you are not familiar with the syntax=
+ of flat assembler.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php?arti=
+cle=3Dwin32">Windows programming</a><br>
+       <span class=3D"smalltext">last update: 19 Apr 2016</span>
+    </td>
+    <td>
+      This is the documentation for the standard set of includes that comes=
+ with the flat assembler 1 for Windows package.
+      It focuses on documenting the macroinstructions provided by this pack=
+age, which are designed to simplify writing programs for this
+      operating system, and also to emulate the syntax structures commonly =
+used by other assemblers for this environment.
+   </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php?arti=
+cle=3Dufasm">Understanding<br>the flat assembler</a><br>
+       <span class=3D"smalltext">last update: 06 Apr 2016</span>
+    </td>
+    <td>
+      This is an advanced guide to the various layers of flat assembler 1,
+      it shows and explains some of the tricks you can do, however
+      its main aim is to explain the interactions between different feature=
+s of
+      of assembler and preprocessor, which may be sometimes confusing unles=
+s you understand
+      what exactly is happening there.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php?arti=
+cle=3Ddesign">Design Principles</a><br>
+       <span class=3D"smalltext">last update: 09 Feb 2009</span>
+    </td>
+    <td>
+      An old overview of the principles that affected the design of flat as=
+sembler 1.
+      This text was written to help understand why it followed some differe=
+nt choices than the other assemblers,
+      for what main purposes it was initially designed and in what directio=
+ns can it evolve.
+    </td>
+  </tr>
+
+  <!--
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"docs.php?article=3Dfaq">flat assembler =
+FAQ</a><br>
+       <span class=3D"smalltext">last update: 24 Apr 2011</span>
+    </td>
+    <td>
+      A few of the most frequently asked questions about flat assembler 1 h=
+ad been answered here. As these are only the selected ones from the early y=
+ears of the development of fasm, you may find many more answered on the mes=
+sage board.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"docs/tutorial.zip">Programming Tutorial=
+</a><br>
+       <span class=3D"smalltext">file size: 141 kilobytes</span><br>
+       <span class=3D"smalltext">last update: 03 Feb 2004</span><br>
+    </td>
+    <td>
+      This is an old tutorial for flat assembler 1 that has never been fini=
+shed. Only the chapter about
+      information encoding and some initial sections of the chapter about D=
+OS programming are present.
+      This document is in PDF format.
+    </td>
+  </tr>
+  -->
+
+</tbody></table>
+</div>
+  </div>
+
+  <p class=3D"navigation">
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/index.php">Main=
+&nbsp;index</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/download.php">D=
+ownload</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php">Docum=
+entation</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/examples.php">E=
+xamples</a>
+    <a class=3D"boldlink" href=3D"http://board.flatassembler.net/">Message&=
+nbsp;board</a>
+  </p>
+
+  <p>
+     Copyright =C2=A9 1999-2026, <a href=3D"mailto:tgrysztar@flatassembler.=
+net">Tomasz Grysztar</a>. Also on <a href=3D"https://github.com/tgrysztar">=
+GitHub</a>, <a href=3D"http://www.youtube.com/c/flatassembler">YouTube</a>.
+  </p>
+
+  <p>
+     Website powered by <a href=3D"https://2ton.com.au/rwasa/" title=3D"rwa=
+sa web server">rwasa</a>.
+  </p>
+
+
+
+
+</body></html>
+------MultipartBoundary--8dDkw7KbmrC641eWUEgf30q5a4cLt52tk5z2Dsi59D----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://flatassembler.net/fasm.css
+
+@charset "utf-8";
+
+html { overflow: auto; scrollbar-gutter: stable; }
+
+body { width: 800px; margin-left: auto; margin-right: auto; font-family: Ve=
+rdana, Helvetica, sans-serif; font-size: 10px; color: rgb(0, 0, 32); text-a=
+lign: center; }
+
+p, pre, h1, h2, h3, h4, h5 { padding: 5px; margin: 0px; }
+
+.tinytext, .smalltext, .mediumtext, .largetext { font-family: Verdana, Helv=
+etica, sans-serif; color: rgb(0, 0, 32); }
+
+.tinytext { font-size: 10px; }
+
+.smalltext { font-size: 11px; }
+
+.mediumtext { font-size: 12px; }
+
+.largetext { font-size: 13px; }
+
+pre, code, .smallcode, .mediumcode, .largecode { font-family: "Courier New"=
+, Courier, monospace; color: rgb(0, 0, 112); overflow-x: auto; }
+
+.smallcode, pre.smalltext, .smalltext pre, .smalltext code { font-size: 11p=
+x; }
+
+.mediumcode, pre.mediumtext, .mediumtext pre, .mediumtext code { font-size:=
+ 12px; }
+
+.largecode, pre.largetext, .largetext pre, .largetext code { font-size: 13p=
+x; }
+
+.announcement { font-size: 12px; color: rgb(226, 62, 62); }
+
+a, a:link, a:active, a:visited { color: rgb(0, 0, 32); font-family: Verdana=
+, Helvetica, sans-serif; }
+
+a:hover { text-decoration: underline; color: rgb(226, 62, 62); font-family:=
+ Verdana, Helvetica, sans-serif; }
+
+a.boldlink, a.boldlink:link, a.boldlink:visited, a.boldlink:active { font-w=
+eight: bold; text-decoration: none; color: rgb(0, 0, 32); font-family: Verd=
+ana, Helvetica, sans-serif; }
+
+a.boldlink:hover { font-weight: bold; text-decoration: underline; color: rg=
+b(226, 62, 62); font-family: Verdana, Helvetica, sans-serif; }
+
+.maintitle, h1, h2 { font-weight: bold; font-size: 22px; font-family: "Treb=
+uchet MS", Verdana, Helvetica, sans-serif; text-decoration: none; line-heig=
+ht: 120%; color: rgb(0, 0, 0); }
+
+.navigation a { padding-left: 4px; padding-right: 4px; }
+
+.container { width: 760px; margin-left: auto; margin-right: auto; backgroun=
+d-color: rgb(248, 248, 248); border: 1px solid black; padding: 12px; text-a=
+lign: left; }
+
+.links { text-align: center; }
+
+.links table { width: 85%; margin-left: auto; margin-right: auto; }
+
+.links td { text-align: left; font-family: Verdana, Helvetica, sans-serif; =
+font-size: 11px; padding: 8px; }
+
+.doctable { width: 100%; border-collapse: collapse; margin-left: 6px; margi=
+n-bottom: 6px; border: 1px solid black; }
+
+.doctable td, .doctable th { background-color: white; border: 1px solid bla=
+ck; padding: 1px; }
+
+.intable { border-width: medium; border-style: none; border-color: currentc=
+olor; border-image: initial; margin: 0px; width: 100%; }
+
+.intable td { background-color: white; border-width: medium; border-style: =
+none; border-color: currentcolor; border-image: initial; padding: 0px; }
+
+input, textarea, select { font-family: Verdana, Helvetica, sans-serif; font=
+-size: 10px; }
+
+.bginput, .bgbutton, textarea, select { color: rgb(0, 0, 0); background-col=
+or: rgb(222, 222, 222); text-indent: 2px; }
+
+@media only screen and (max-width: 800px) {
+  body { width: 100%; }
+  .container { width: 80%; min-width: 240px; }
+}
+
+@view-transition { navigation: auto; }
+------MultipartBoundary--8dDkw7KbmrC641eWUEgf30q5a4cLt52tk5z2Dsi59D----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8b5ebdd8-50b2-486f-8d92-f62a127a7142@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: rgb(240, 212, 176); }
+------MultipartBoundary--8dDkw7KbmrC641eWUEgf30q5a4cLt52tk5z2Dsi59D------

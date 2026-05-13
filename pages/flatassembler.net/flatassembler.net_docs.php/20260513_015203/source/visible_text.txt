@@ -1,0 +1,34 @@
+flat assembler
+Documentation and tutorials.
+
+This section provides browsable versions of the manuals and other documentation included in the flat assembler packages, as well as few other relevant texts. If you are looking for basic tutorials for assembly language, please visit the official video channel and our forums.
+
+First, a few documents concerning the new flat assembler g engine.
+
+flat assembler g
+Introduction and Overview
+last update: 08 Jun 2025
+	An introduction to flat assembler g that shows the intended purpose of this engine and demonstrates how to construct an assembler for a given CPU architecture through macroinstructions.
+flat assembler g
+User Manual
+last update: 20 Mar 2026
+	The detailed description of the syntax of flat assembler g. This is a reference document that can also be read as a progressive guide.
+
+The remaining documents are about the original flat assembler.
+
+flat assembler 1.73
+Programmer's Manual
+last update: 04 Jan 2022	This is the HTML version of documentation which is provided with all the flat assembler 1 packages. It contains an overview of the syntax and lists all the supported instructions and directives, with some elementary examples of usage. Reading this document is particularly recommended when you are experienced assembly language programmer but you are not familiar with the syntax of flat assembler.
+Windows programming
+last update: 19 Apr 2016	This is the documentation for the standard set of includes that comes with the flat assembler 1 for Windows package. It focuses on documenting the macroinstructions provided by this package, which are designed to simplify writing programs for this operating system, and also to emulate the syntax structures commonly used by other assemblers for this environment.
+Understanding
+the flat assembler
+last update: 06 Apr 2016	This is an advanced guide to the various layers of flat assembler 1, it shows and explains some of the tricks you can do, however its main aim is to explain the interactions between different features of of assembler and preprocessor, which may be sometimes confusing unless you understand what exactly is happening there.
+Design Principles
+last update: 09 Feb 2009	An old overview of the principles that affected the design of flat assembler 1. This text was written to help understand why it followed some different choices than the other assemblers, for what main purposes it was initially designed and in what directions can it evolve.
+
+Main index Download Documentation Examples Message board
+
+Copyright © 1999-2026, Tomasz Grysztar. Also on GitHub, YouTube.
+
+Website powered by rwasa.
