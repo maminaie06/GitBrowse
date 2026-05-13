@@ -1,0 +1,26 @@
+
+<html lang="en">
+<body>
+    <script>
+    function handleException(e) {
+        var tag = document.createElement('script');
+        var src = 'https://essencereferencetummy.com/report/' +
+            '?type=presync' +
+            '&bavar=0' +
+            '&build=' + encodeURIComponent('v2.8.106') +
+            '&e=' + encodeURIComponent(e.name) +
+            '&m=' + encodeURIComponent(e.message) +
+            '&url='+ encodeURIComponent(location.href);
+        tag.src = src;
+        tag.async = true;
+        document.body.appendChild(tag);
+    }
+    try {
+        const id = ('; '+document.cookie).split(`; DUID=`).pop().split(';')[0] || '';
+        window.parent.postMessage(id, "*");
+    } catch (e) {
+        handleException(e);
+    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Check</title>
+  </head>
+  <body>
+    <script type="text/javascript">
+      (function (win) {
+  if (!win.parent) {
+    return;
+  }
+  var cookie = 0;
+  var cookie_p = 0;
+  if (win.navigator.cookieEnabled) {
+    function getCookieByName(name) {
+      const regex = new RegExp('(^| )' + name + '=([^;]+)');
+      const match = win.document.cookie.match(regex);
+      return match ? match[2] : undefined;
+    }
+    function setCookie(name, value, p) {
+      win.document.cookie =
+        name + '=' + value + ';max-age=3600;path=/;SameSite=None;Secure' + (p ? ';Partitioned' : '');
+      return getCookieByName(name);
+    }
+
+    cookie = Number(getCookieByName('cart') || setCookie('cart', 1)) || 0;
+    cookie_p = Number(getCookieByName('cart_p') || setCookie('cart_p', 2)) || 0;
+  }
+  win.parent.postMessage(cookie + cookie_p, '*');
+})(window);
+
+    </script>
+  </body>
+</html>

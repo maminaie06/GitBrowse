@@ -1,0 +1,439 @@
+[
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/favicon.ico",
+    "final_url": "https://ukdevilz.com/static/extend/dark/favicon.ico",
+    "status": "saved",
+    "path": "assets/edbe5a3e2e721d5f_favicon.ico",
+    "content_type": "image/x-icon",
+    "size": 1150,
+    "sha256": "09becf046eedebf60f355329642c3e8d42b8968e8be8a2599027e0d100121658"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/favicon-16x16.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/favicon-16x16.png",
+    "status": "saved",
+    "path": "assets/c39a25a185aa1eec_favicon-16x16.png",
+    "content_type": "image/png",
+    "size": 625,
+    "sha256": "30e72335620a40e84bf7b3b0300db519d364c2d2985549c2fdf599219af99495"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/favicon-32x32.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/favicon-32x32.png",
+    "status": "saved",
+    "path": "assets/3961d18bb075c78f_favicon-32x32.png",
+    "content_type": "image/png",
+    "size": 1263,
+    "sha256": "6c813c70b908e1f09d588a19bbc1f51db5ff693f91baa24219f3ca86abebe86e"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/favicon-96x96.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/favicon-96x96.png",
+    "status": "saved",
+    "path": "assets/07163afa4242a72f_favicon-96x96.png",
+    "content_type": "image/png",
+    "size": 5207,
+    "sha256": "c4099e4e7bec1f9f7ec282a84583f8941709f068b1d947a250c8e6951dc4c043"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/android-icon-192x192.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/android-icon-192x192.png",
+    "status": "saved",
+    "path": "assets/4ea0590362bd4013_android-icon-192x192.png",
+    "content_type": "image/png",
+    "size": 14096,
+    "sha256": "eaa1d436dc4260ec20515b1f3e76175b8e65d3419db10ae2461222239c084eaa"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-57x57.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-57x57.png",
+    "status": "saved",
+    "path": "assets/6548696c6d3eb729_apple-icon-57x57.png",
+    "content_type": "image/png",
+    "size": 2005,
+    "sha256": "8b04e6f5cdd12e942e75f80bc8598fae4c34bd73063542aa27f885aaf95399a3"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-60x60.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-60x60.png",
+    "status": "saved",
+    "path": "assets/81289c9d4fd1fb70_apple-icon-60x60.png",
+    "content_type": "image/png",
+    "size": 2130,
+    "sha256": "b5fbab3d0a9fbedaf9d33ffb94892547b87365edac30bbf3537a312689cb3466"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-72x72.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-72x72.png",
+    "status": "saved",
+    "path": "assets/4b3f2acbef0a1037_apple-icon-72x72.png",
+    "content_type": "image/png",
+    "size": 2630,
+    "sha256": "1ff00012d1daca085861cfad072833cc2afeeacbb03ea6a8af3a5d9e3464b21e"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-76x76.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-76x76.png",
+    "status": "saved",
+    "path": "assets/418ebeec1d2072ce_apple-icon-76x76.png",
+    "content_type": "image/png",
+    "size": 2808,
+    "sha256": "78e24debd8b7274a938b7dcfdc9090731fe4348024568b02984563b47808ddd0"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-114x114.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-114x114.png",
+    "status": "saved",
+    "path": "assets/41259a8baa7d5967_apple-icon-114x114.png",
+    "content_type": "image/png",
+    "size": 4810,
+    "sha256": "89b009f634ad41b1bdd146abf80fffa522190193d3b15bda8a82cf130d4c0c82"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-120x120.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-120x120.png",
+    "status": "saved",
+    "path": "assets/6193591e519005a4_apple-icon-120x120.png",
+    "content_type": "image/png",
+    "size": 5213,
+    "sha256": "be82f0c41fd08f9fb24c531c793c29f8a73e26ea8195fd7121159f965f139e28"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-144x144.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-144x144.png",
+    "status": "saved",
+    "path": "assets/375633cc9c35578b_apple-icon-144x144.png",
+    "content_type": "image/png",
+    "size": 6713,
+    "sha256": "26156537107be887444a49c59e86da582119394a0268c69703b38097506a2c4e"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-152x152.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-152x152.png",
+    "status": "saved",
+    "path": "assets/8681184afb5375a3_apple-icon-152x152.png",
+    "content_type": "image/png",
+    "size": 7171,
+    "sha256": "7f4d682d443587c65474337402e6837580d9af9c4e02c816ae2231dc42aaa82a"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/apple-icon-180x180.png",
+    "final_url": "https://ukdevilz.com/static/extend/dark/apple-icon-180x180.png",
+    "status": "saved",
+    "path": "assets/192e331016a16bc9_apple-icon-180x180.png",
+    "content_type": "image/png",
+    "size": 9232,
+    "sha256": "74cfb8b07e80bf7a4ba1f2c5752577f44753b8dadf55c7b85bf9546988b64f8d"
+  },
+  {
+    "url": "https://ukdevilz.com/static/extend/dark/safari-pinned-tab.svg.png",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-209481025/456243370/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-209481025/456243370/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/5016cc4bbf6acd72_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 11962,
+    "sha256": "6b5cfd253391131b7e57a39ac172dc1cfa1986d0fe628d3e0ed0665f6b7b3311"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-209481025/456243016/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-209481025/456243016/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/f75c4f2a48427195_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 17061,
+    "sha256": "03030505c27991308b3fadded528bb2142add3136cace6f01da11207a17581fa"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-169890591/456240350/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-169890591/456240350/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/927660bd539b7a57_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 8510,
+    "sha256": "3d0422df3ed0d7a4f7e325c79656359c6c9ad326b4ab0bef9a6dafc9785f571d"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-165127459/456240083/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-165127459/456240083/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/cf146ccde0d97dad_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 10591,
+    "sha256": "1e3af293723ea78ae32fac28c4375be6e2badafc105d86b270ff31ca1a6efa0b"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-115615196/456245091/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-115615196/456245091/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/e30c64de3ea8739f_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 8457,
+    "sha256": "ffaaf1ab8c86319c0957c27442f474243d7450e80ee42abf1d2832c702b86881"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-159046896/456240063/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-159046896/456240063/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/a45d219e17d8677f_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 7923,
+    "sha256": "8e0201dee9d7dc231a35a1b8331c32c850de1e983e39b1fbeaff5bffc7245009"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-163487969/456240116/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-163487969/456240116/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/c2be3af9b0d3dc84_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 8116,
+    "sha256": "4dc93f8364a3d56731c178f5462d35d921fd97c5b82093c043ed3caebde4bf22"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-34655362/456253815/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-34655362/456253815/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/479e07317edd7be1_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 4690,
+    "sha256": "23e4a0a8f15a908bfb17d1d073386fbe09291944cc4e95e829750096d2bfe247"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-212892684/456239444/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-212892684/456239444/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/658b6472eec0de7c_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 17049,
+    "sha256": "da52b151d7a3ec660a205ebe2c3865c30b3ee8b3cc462344b88e0247f65514a8"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-114955232/456240537/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-114955232/456240537/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/6d9cfcae763eb9f0_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 10323,
+    "sha256": "7edd9f6e7e11cb8db328c9c171285b769cc6c66b18be1b45c823865799c2dad2"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-113656837/456241806/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-113656837/456241806/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/141b9e6a4293d825_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 9582,
+    "sha256": "752acbabf27a3b96e29629ddc54053cdffa9e293beff91b69706ab99a14c2aba"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-209481025/456242821/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-209481025/456242821/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/0044791ea7b41870_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 14235,
+    "sha256": "55d534e6d7bad81781bf43f390660eef49fee689139e002c11d5d772266b3131"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-215436891/456239270/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-215436891/456239270/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/88b7ec85729bd777_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 14694,
+    "sha256": "e23184e69fc304e55eb9d7a33ad88bc45951af8129a5df3fad431c3dfc497bd1"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-34655362/456269948/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-34655362/456269948/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/a48f2f357d1c6538_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 10055,
+    "sha256": "1dd915f8a801aaefb3b35b76f450b38775b67a0bbe0a31aaba3c86cf85de3bb4"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-151226968/456245135/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-151226968/456245135/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/efa842b7bc511bb9_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 8822,
+    "sha256": "b1006fa00bb10d9a778043be48d0fea9ee9ce6912016fa8302b84bdc2d1bb288"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-215436891/456239717/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-215436891/456239717/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/584d66516466d32c_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 8850,
+    "sha256": "74ea56cbc3b96f450340d2deb6e234bcf1ddf7063ac91f112f2eb85a049fa3fb"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-56506295/456239217/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-56506295/456239217/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/4d311c363b416fda_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 7436,
+    "sha256": "cf80a987413a83c3de5322d4b653118a0da8c2fcd306aa54499c5de8f17ab716"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-86818244/456247631/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-86818244/456247631/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/2f505d5fefae9705_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 6290,
+    "sha256": "c8f75ebf1c68c56661e27b7e0f51edf0cb426395293121d835105c03ed519ee6"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-219382335/456239921/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-219382335/456239921/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/61ff3c8b322968f1_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 12059,
+    "sha256": "b92487fa4845bdea35349d4f7f244965e5118d2edf649bd5146d56ac4954e6d2"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-86818244/456250344/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-86818244/456250344/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/f7df60367b49a8c4_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 7518,
+    "sha256": "a4b36de091b6d8150537bf5089b70e64f002e122a8f51bceb794d8118a43e94c"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-181505716/456239023/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-181505716/456239023/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/13ed1fe3f8b5eb77_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 13826,
+    "sha256": "5ab5e1d5f9effbf185524ad23aefdf00145b49edb08626cc7573b3230d911945"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-172454327/456253485/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-172454327/456253485/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/c54ffbf691c75b07_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 7215,
+    "sha256": "d303dc05c9af92eb2d75b8c439a4aea642697f2cc182a6ef0a5deaca7647ec27"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-113656837/456241810/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-113656837/456241810/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/0323979daef1e332_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 8448,
+    "sha256": "6f447e12ba4b9c2538fbcc7fd79083802e76038f31d337ebbb7e4e6e423dbece"
+  },
+  {
+    "url": "https://cdn2.pvvstream.pro/videos/-88277731/170874111/preview_320.jpg",
+    "final_url": "https://cdn2.pvvstream.pro/videos/-88277731/170874111/preview_320.jpg",
+    "status": "saved",
+    "path": "assets/a4b9034ac04198fa_preview_320.jpg",
+    "content_type": "image/jpeg",
+    "size": 13686,
+    "sha256": "c8b8d3c635d2443a10267fe20716b22d716d861abbc3d7e051133a34ca1f9786"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js",
+    "final_url": "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js",
+    "status": "saved",
+    "path": "assets/a2c1d36c248f9722_tag.js",
+    "content_type": "application/javascript",
+    "size": 279713,
+    "sha256": "c5a8774966e9da648a65b1948c84e480df410d1ebfd87e9a0a1fdd132dcdf10c"
+  },
+  {
+    "url": "https://ukdevilz.com/static/js/search.min.a97df6b2be2b.js",
+    "final_url": "https://ukdevilz.com/static/js/search.min.a97df6b2be2b.js",
+    "status": "saved",
+    "path": "assets/12fff0371e474d14_search.min.a97df6b2be2b.js",
+    "content_type": "application/javascript",
+    "size": 93098,
+    "sha256": "c4043e4a14e80dfba647ddc0569881adb57e74c6a8178fafaed4fc0d9f66d550"
+  },
+  {
+    "url": "https://ukdevilz.com/static/js/autocomplete.min.4ead23830e93.js",
+    "final_url": "https://ukdevilz.com/static/js/autocomplete.min.4ead23830e93.js",
+    "status": "saved",
+    "path": "assets/b2ee82e325145c32_autocomplete.min.4ead23830e93.js",
+    "content_type": "application/javascript",
+    "size": 41109,
+    "sha256": "68841a284b3060584a28dc639067db38d3146152d72dd64b08ae0a0fc80a9e84"
+  },
+  {
+    "url": "https://essencereferencetummy.com/on.js",
+    "final_url": "https://essencereferencetummy.com/on.js",
+    "status": "saved",
+    "path": "assets/6abd88a4ece915d2_on.js",
+    "content_type": "application/javascript",
+    "size": 74640,
+    "sha256": "43801447bb2c0afa84373ba9b443c8e493558826889bde4eaf1dfa46fbeef3fb"
+  },
+  {
+    "url": "https://mc.yandex.ru/watch/95033046",
+    "final_url": "https://mc.yandex.ru/watch/95033046",
+    "status": "saved",
+    "path": "assets/dc32bbab116652a3_95033046.gif",
+    "content_type": "image/gif",
+    "size": 43,
+    "sha256": "548f2d6f4d0d820c6c5ffbeffcbd7f0e73193e2932eefe542accc84762deec87"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-KPD810F16S",
+    "final_url": "https://www.googletagmanager.com/gtag/js?id=G-KPD810F16S",
+    "status": "saved",
+    "path": "assets/e5e3524c169e822f_js",
+    "content_type": "application/javascript",
+    "size": 453539,
+    "sha256": "fbfa7ab715d67ac390a38057ffe54b8241fa576d0baefccd93999f69bfe54ce9"
+  },
+  {
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+    "final_url": "https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+    "status": "saved",
+    "path": "assets/74e5f95576698b99_v8c78df7c7c0f484497ecbca7046644da1771523124516.js",
+    "content_type": "text/javascript",
+    "size": 31169,
+    "sha256": "4b77eae349a8cbcea7133cf3640a64ebf1f69d54d8f6469d7be6fdc188ca4ca4"
+  },
+  {
+    "url": "https://essencereferencetummy.com/get/2072394?id=2072394&jp=_cllakzyzywlqhgrtvojnwz&dr=49&cuaa=1&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google Inc. (Google)&vcn=ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5&uf=0",
+    "final_url": "https://essencereferencetummy.com/get/2072394?id=2072394&jp=_cllakzyzywlqhgrtvojnwz&dr=49&cuaa=1&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5&uf=0",
+    "status": "saved",
+    "path": "assets/6c7cffaf49b0105b_2072394.js",
+    "content_type": "text/javascript",
+    "size": 3988,
+    "sha256": "47dc19861df28a704586d129fd48d00436af1038b400b6cccbd4af5549a2f303"
+  },
+  {
+    "url": "https://essencereferencetummy.com/profile.min.js",
+    "final_url": "https://essencereferencetummy.com/profile.min.js",
+    "status": "saved",
+    "path": "assets/36f1008b319cbb60_profile.min.js",
+    "content_type": "application/javascript",
+    "size": 71884,
+    "sha256": "75c80ab9169d919fbd274b5e243f42723b3fc1c215d2ac6f744e92558aa5e1b2"
+  },
+  {
+    "url": "https://ukdevilz.com/static/img/bg.f853b95dab3a.png",
+    "final_url": "https://ukdevilz.com/static/img/bg.f853b95dab3a.png",
+    "status": "saved",
+    "path": "assets/efe8f79aa8c69bf1_bg.f853b95dab3a.png",
+    "content_type": "image/png",
+    "size": 6463,
+    "sha256": "1a2d293174f9bde78f87726785797f53a78c769166f56730e4bf1a9f147d063d"
+  }
+]

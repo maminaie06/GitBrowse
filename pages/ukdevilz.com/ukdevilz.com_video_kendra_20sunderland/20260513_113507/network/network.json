@@ -1,0 +1,3187 @@
+[
+  {
+    "id": 1,
+    "started_ms": 1142,
+    "method": "GET",
+    "url": "https://ukdevilz.com/video/kendra%20sunderland",
+    "resource_type": "document",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://ukdevilz.com/video/kendra%20sunderland",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "accept-ch": "Sec-CH-UA, Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "9fb15ba49992cf27-SJC",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "permissions-policy": "ch-ua=(self \"https://tsyndicate.com\"), ch-ua-bitness=(self \"https://tsyndicate.com\"), ch-ua-arch=(self \"https://tsyndicate.com\"), ch-ua-model=(self \"https://tsyndicate.com\"), ch-ua-platform=(self \"https://tsyndicate.com\"), ch-ua-platform-version=(self \"https://tsyndicate.com\"), ch-ua-full-version=(self \"https://tsyndicate.com\"), ch-ua-full-version-list=(self \"https://tsyndicate.com\"), ch-ua-mobile=(self \"https://tsyndicate.com\")",
+        "server": "cloudflare",
+        "server-timing": "cfCacheStatus;desc=\"DYNAMIC\"\ncfEdge;dur=15,cfOrigin;dur=203",
+        "vary": "Accept-Encoding\nCookie",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1575,
+    "response_body_file": "network/bodies/0001_document.html",
+    "response_body_sha256": "92f692b1f6f4026fda9622bc24f282d6dc9146827cf219b34f47ff6f7c997c35",
+    "response_body_size": 79339,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 717,
+      "responseBodySize": 24433,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108206.451,
+      "domainLookupStart": 0.418,
+      "domainLookupEnd": 30.64,
+      "connectStart": 30.778,
+      "secureConnectionStart": 32.371,
+      "connectEnd": 50.287,
+      "requestStart": 50.538,
+      "responseStart": 277.483,
+      "responseEnd": 433.343
+    }
+  },
+  {
+    "id": 2,
+    "started_ms": 1585,
+    "method": "GET",
+    "url": "https://ukdevilz.com/static/js/search.min.a97df6b2be2b.js",
+    "resource_type": "script",
+    "headers": {
+      "sec-ch-ua-full-version-list": "\"HeadlessChrome\";v=\"147.0.7727.15\", \"Not.A/Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"147.0.7727.15\"",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://ukdevilz.com/video/kendra%20sunderland",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-bitness": "\"64\"",
+      "sec-ch-ua-model": "\"\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-arch": "\"x86\"",
+      "sec-ch-ua-full-version": "\"147.0.7727.15\"",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua-platform-version": "\"10.0\""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://ukdevilz.com/static/js/search.min.a97df6b2be2b.js",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cache-control": "public, max-age=31536000",
+        "content-encoding": "gzip",
+        "service-worker-allowed": "/",
+        "etag": "W/\"6a0430ee-16baa\"",
+        "cf-cache-status": "MISS",
+        "cf-ray": "9fb15ba70cfecf27-SJC",
+        "expires": "Thu, 13 May 2027 11:35:08 GMT",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "application/javascript; charset=utf-8",
+        "last-modified": "Wed, 13 May 2026 08:06:06 GMT",
+        "server": "cloudflare",
+        "vary": "Accept-Encoding"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1939,
+    "response_body_file": "network/bodies/0002_script.js",
+    "response_body_sha256": "c4043e4a14e80dfba647ddc0569881adb57e74c6a8178fafaed4fc0d9f66d550",
+    "response_body_size": 93098,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1235,
+      "responseBodySize": 34000,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108644.4421,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 1.403,
+      "responseStart": 351.138,
+      "responseEnd": 354.287
+    }
+  },
+  {
+    "id": 3,
+    "started_ms": 1585,
+    "method": "GET",
+    "url": "https://ukdevilz.com/static/js/autocomplete.min.4ead23830e93.js",
+    "resource_type": "script",
+    "headers": {
+      "sec-ch-ua-full-version-list": "\"HeadlessChrome\";v=\"147.0.7727.15\", \"Not.A/Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"147.0.7727.15\"",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://ukdevilz.com/video/kendra%20sunderland",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-bitness": "\"64\"",
+      "sec-ch-ua-model": "\"\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-arch": "\"x86\"",
+      "sec-ch-ua-full-version": "\"147.0.7727.15\"",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua-platform-version": "\"10.0\""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://ukdevilz.com/static/js/autocomplete.min.4ead23830e93.js",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cache-control": "public, max-age=31536000",
+        "content-encoding": "gzip",
+        "service-worker-allowed": "/",
+        "etag": "W/\"6a0430ee-a095\"",
+        "cf-cache-status": "MISS",
+        "cf-ray": "9fb15ba70cffcf27-SJC",
+        "expires": "Thu, 13 May 2027 11:35:08 GMT",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "application/javascript; charset=utf-8",
+        "last-modified": "Wed, 13 May 2026 08:06:06 GMT",
+        "server": "cloudflare",
+        "vary": "Accept-Encoding"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1919,
+    "response_body_file": "network/bodies/0003_script.js",
+    "response_body_sha256": "68841a284b3060584a28dc639067db38d3146152d72dd64b08ae0a0fc80a9e84",
+    "response_body_size": 41109,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1247,
+      "responseBodySize": 17167,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108645.6443,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.292,
+      "responseStart": 335.192,
+      "responseEnd": 337.685
+    }
+  },
+  {
+    "id": 4,
+    "started_ms": 1586,
+    "method": "GET",
+    "url": "https://essencereferencetummy.com/on.js",
+    "resource_type": "script",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://essencereferencetummy.com/on.js",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cache-control": "max-age=604800",
+        "timing-allow-origin": "*",
+        "content-encoding": "gzip",
+        "etag": "W/\"69fca238-12390\"",
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "expires": "Wed, 20 May 2026 11:35:08 GMT",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "application/javascript; charset=utf-8",
+        "last-modified": "Thu, 07 May 2026 14:31:20 GMT",
+        "server": "nginx",
+        "vary": "Accept-Encoding"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1786,
+    "response_body_file": "network/bodies/0004_script.js",
+    "response_body_sha256": "43801447bb2c0afa84373ba9b443c8e493558826889bde4eaf1dfa46fbeef3fb",
+    "response_body_size": 74640,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 428,
+      "responseBodySize": 32464,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108647.879,
+      "domainLookupStart": 0.087,
+      "domainLookupEnd": 22.549,
+      "connectStart": 23.454,
+      "secureConnectionStart": 64.279,
+      "connectEnd": 106.58,
+      "requestStart": 106.702,
+      "responseStart": 187.698,
+      "responseEnd": 200.858
+    }
+  },
+  {
+    "id": 5,
+    "started_ms": 1586,
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js",
+    "resource_type": "script",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "access-control-expose-headers": "*",
+        "content-encoding": "br",
+        "etag": "W/\"444a1-3LxK7CJumuPfbRFvdMOJ3g8Cl1Q\"",
+        "age": "37722",
+        "x-content-type-options": "nosniff",
+        "x-jsd-version-type": "version",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "x-cache": "HIT, HIT",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "application/javascript; charset=utf-8",
+        "x-served-by": "cache-fra-eddf8230126-FRA, cache-pao-kpao1770046-PAO",
+        "vary": "Accept-Encoding",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "cache-control": "public, max-age=604800, s-maxage=43200",
+        "timing-allow-origin": "*",
+        "cross-origin-resource-policy": "cross-origin",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-length": "107986",
+        "x-jsd-version": "1.436.0"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1635,
+    "response_body_file": "network/bodies/0005_script.js",
+    "response_body_sha256": "fd6d00d5ed1135edb576a6101ca10d17468a34f273e6704ddea5b0678a2951d2",
+    "response_body_size": 279710,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 471,
+      "responseBodySize": 108510,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108648.4758,
+      "domainLookupStart": 0.11,
+      "domainLookupEnd": 22.018,
+      "connectStart": 22.836,
+      "secureConnectionStart": 24.1,
+      "connectEnd": 28.402,
+      "requestStart": 28.603,
+      "responseStart": 29.959,
+      "responseEnd": 34.874
+    }
+  },
+  {
+    "id": 6,
+    "started_ms": 1587,
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-KPD810F16S",
+    "resource_type": "script",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-KPD810F16S",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "cache-control": "private, max-age=900",
+        "content-encoding": "zstd",
+        "cross-origin-resource-policy": "cross-origin",
+        "access-control-allow-credentials": "true",
+        "expires": "Wed, 13 May 2026 11:35:08 GMT",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "content-length": "155950",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "x-xss-protection": "0",
+        "content-type": "application/javascript; charset=UTF-8",
+        "vary": "Accept-Encoding",
+        "server": "Google Tag Manager",
+        "access-control-allow-headers": "Cache-Control"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1691,
+    "response_body_file": "network/bodies/0006_script.js",
+    "response_body_sha256": "27e137fc2f96ce7bc8be4f8363d37b0f6538b27a8ccf876ec4a7037c8a2134b9",
+    "response_body_size": 452959,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 447,
+      "responseBodySize": 156381,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108648.958,
+      "domainLookupStart": 0.117,
+      "domainLookupEnd": 4.552,
+      "connectStart": 6.225,
+      "secureConnectionStart": 7.117,
+      "connectEnd": 23.476,
+      "requestStart": 24.001,
+      "responseStart": 46.265,
+      "responseEnd": 89.525
+    }
+  },
+  {
+    "id": 7,
+    "started_ms": 1588,
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+    "resource_type": "script",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "origin": "https://ukdevilz.com",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cache-control": "public, max-age=86400",
+        "content-encoding": "gzip",
+        "etag": "W/\"2026.2.0\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "cf-ray": "9fb15ba72a54fb30-SJC",
+        "access-control-allow-origin": "*",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "text/javascript;charset=UTF-8",
+        "last-modified": "Thu, 07 May 2026 16:44:36 GMT",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2113,
+    "response_body_file": "network/bodies/0007_script.js",
+    "response_body_sha256": "4b77eae349a8cbcea7133cf3640a64ebf1f69d54d8f6469d7be6fdc188ca4ca4",
+    "response_body_size": 31169,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 535,
+      "responseBodySize": 10994,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108649.245,
+      "domainLookupStart": 0.093,
+      "domainLookupEnd": 7.3,
+      "connectStart": 7.343,
+      "secureConnectionStart": 8.905,
+      "connectEnd": 19.108,
+      "requestStart": 19.263,
+      "responseStart": 504.105,
+      "responseEnd": 507.246
+    }
+  },
+  {
+    "id": 8,
+    "started_ms": 1616,
+    "method": "GET",
+    "url": "https://ukdevilz.com/static/img/bg.f853b95dab3a.png",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-full-version-list": "\"HeadlessChrome\";v=\"147.0.7727.15\", \"Not.A/Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"147.0.7727.15\"",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://ukdevilz.com/video/kendra%20sunderland",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-bitness": "\"64\"",
+      "sec-ch-ua-model": "\"\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-arch": "\"x86\"",
+      "sec-ch-ua-full-version": "\"147.0.7727.15\"",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua-platform-version": "\"10.0\""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://ukdevilz.com/static/img/bg.f853b95dab3a.png",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "service-worker-allowed": "/",
+        "etag": "\"69f2f618-1c0f\"",
+        "age": "592021",
+        "cf-bgj": "imgq:100,csam-hash,h2pri",
+        "cf-cache-status": "HIT",
+        "expires": "Thu, 13 May 2027 11:35:08 GMT",
+        "cf-polished": "ok, orig_size=7183",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "server-timing": "cfExtPri",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "image/webp",
+        "last-modified": "Thu, 30 Apr 2026 06:26:32 GMT",
+        "vary": "accept, accept-encoding",
+        "priority": "u=4,i",
+        "cache-control": "public, max-age=31536000",
+        "cf-ray": "9fb15ba71a0e2af7-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "6048",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1617,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1296,
+      "responseBodySize": 6397,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108654.789,
+      "domainLookupStart": 0,
+      "domainLookupEnd": 0,
+      "connectStart": 0,
+      "secureConnectionStart": 0,
+      "connectEnd": 0,
+      "requestStart": 1.064,
+      "responseStart": 14.404,
+      "responseEnd": 17.253
+    }
+  },
+  {
+    "id": 9,
+    "started_ms": 1681,
+    "method": "GET",
+    "url": "https://mc.yandex.ru/watch/3?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&page-ref=&charset=utf-8&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A2%3Adp%3A0%3Als%3A1589612115006%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A993397561%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Ast%3A1778672109&t=clc(0-0-0)rqnt(1)aw(1)rcm(1)cdl(na)eco(65536)ti(1)",
+    "resource_type": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.yandex.ru/watch/3?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&page-ref=&charset=utf-8&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A2%3Adp%3A0%3Als%3A1589612115006%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A993397561%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Ast%3A1778672109&t=clc(0-0-0)rqnt(1)aw(1)rcm(1)cdl(na)eco(65536)ti(1)",
+      "status": 302,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "cache-control": "private, no-cache, no-store, must-revalidate, max-age=0",
+        "location": "/watch/3/1?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&page-ref&charset=utf-8&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A2%3Adp%3A0%3Als%3A1589612115006%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A993397561%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Ast%3A1778672109&t=clc%280-0-0%29rqnt%281%29aw%281%29rcm%281%29cdl%28na%29eco%2865536%29ti%281%29&redirnss=1",
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "pragma": "no-cache",
+        "access-control-allow-credentials": "true",
+        "expires": "Wed, 13-May-2026 11:35:09 GMT",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "x-xss-protection": "1; mode=block",
+        "last-modified": "Wed, 13-May-2026 11:35:09 GMT"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2285,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "body unavailable: Response.body: Response body is unavailable for redirect responses",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1061,
+      "responseBodySize": 0,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108745.472,
+      "domainLookupStart": 0.152,
+      "domainLookupEnd": 2.539,
+      "connectStart": 2.731,
+      "secureConnectionStart": 197.642,
+      "connectEnd": 397.047,
+      "requestStart": 397.388,
+      "responseStart": 601.54,
+      "responseEnd": 603.5170000000107
+    }
+  },
+  {
+    "id": 10,
+    "started_ms": 1683,
+    "method": "GET",
+    "url": "https://mc.yandex.ru/metrika/advert.gif?t=gdpr(14)ti(4)",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.yandex.ru/metrika/advert.gif?t=gdpr(14)ti(4)",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "cache-control": "max-age=3600",
+        "timing-allow-origin": "*",
+        "etag": "\"69ef2ad8-2b\"",
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "expires": "Wed, 13 May 2026 12:35:09 GMT",
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "content-length": "43",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "last-modified": "Mon, 27 Apr 2026 09:22:32 GMT",
+        "content-type": "image/gif"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2305,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 530,
+      "responseBodySize": 493,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108746.975,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 396.025,
+      "responseStart": 616.9,
+      "responseEnd": 619.127
+    }
+  },
+  {
+    "id": 11,
+    "started_ms": 1684,
+    "method": "GET",
+    "url": "https://mc.yandex.ru/watch/95033046?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&charset=utf-8&uah=chu%0A%22HeadlessChrome%22%3Bv%3D%22147%22%2C%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%22Chromium%22%3Bv%3D%22147%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A147.0.7727.15%0Achl%0A%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%22Chromium%22%3Bv%3D%22147.0.7727.15%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A10.0&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A1%3Adp%3A0%3Als%3A1650534586680%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A489787193%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Arqnl%3A1%3Ast%3A1778672109%3At%3AKendra%20sunderland%20%7C%20Ukdevilz.com&t=clt(79)gdpr(14)clc(0-0-0)rqnt(1)aw(1)rcm(1)cdl(na)eco(42009088)ti(1)",
+    "resource_type": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.yandex.ru/watch/95033046?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&charset=utf-8&uah=chu%0A%22HeadlessChrome%22%3Bv%3D%22147%22%2C%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%22Chromium%22%3Bv%3D%22147%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A147.0.7727.15%0Achl%0A%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%22Chromium%22%3Bv%3D%22147.0.7727.15%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A10.0&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A1%3Adp%3A0%3Als%3A1650534586680%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A489787193%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Arqnl%3A1%3Ast%3A1778672109%3At%3AKendra%20sunderland%20%7C%20Ukdevilz.com&t=clt(79)gdpr(14)clc(0-0-0)rqnt(1)aw(1)rcm(1)cdl(na)eco(42009088)ti(1)",
+      "status": 302,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "cache-control": "private, no-cache, no-store, must-revalidate, max-age=0",
+        "location": "/watch/95033046/1?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&charset=utf-8&uah=chu%0A%22HeadlessChrome%22%3Bv%3D%22147%22%2C%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%22Chromium%22%3Bv%3D%22147%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A147.0.7727.15%0Achl%0A%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%22Chromium%22%3Bv%3D%22147.0.7727.15%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A10.0&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A1%3Adp%3A0%3Als%3A1650534586680%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A489787193%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Arqnl%3A1%3Ast%3A1778672109%3At%3AKendra%20sunderland%20%7C%20Ukdevilz.com&t=clt%2879%29gdpr%2814%29clc%280-0-0%29rqnt%281%29aw%281%29rcm%281%29cdl%28na%29eco%2842009088%29ti%281%29&redirnss=1",
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "pragma": "no-cache",
+        "access-control-allow-credentials": "true",
+        "expires": "Wed, 13-May-2026 11:35:09 GMT",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "x-xss-protection": "1; mode=block",
+        "last-modified": "Wed, 13-May-2026 11:35:09 GMT"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2283,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "body unavailable: Response.body: Response body is unavailable for redirect responses",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1484,
+      "responseBodySize": 0,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108748.843,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 394.104,
+      "responseStart": 596.646,
+      "responseEnd": 598.3429999999998
+    }
+  },
+  {
+    "id": 12,
+    "started_ms": 1755,
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-KPD810F16S&gtm=45je6581v871006809za200zd871006809&_p=1778672108648&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&cid=2102443982.1778672109&frm=0&pscdl=noapi&rcb=3&sr=1365x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=0~115938466~115938468~118463262~118494633&sid=1778672108&sct=1&seg=0&dl=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%20sunderland&dt=Kendra%20sunderland%20%7C%20Ukdevilz.com&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=614",
+    "resource_type": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-KPD810F16S&gtm=45je6581v871006809za200zd871006809&_p=1778672108648&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&cid=2102443982.1778672109&frm=0&pscdl=noapi&rcb=3&sr=1365x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=0~115938466~115938468~118463262~118494633&sid=1778672108&sct=1&seg=0&dl=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%20sunderland&dt=Kendra%20sunderland%20%7C%20Ukdevilz.com&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=614",
+      "status": 204,
+      "status_text": "",
+      "headers": {
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "pragma": "no-cache",
+        "cross-origin-resource-policy": "cross-origin",
+        "access-control-allow-credentials": "true",
+        "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:138:0",
+        "report-to": "{\"group\":\"ascnsrsggc:138:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:138:0\"}],}",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:138:0",
+        "content-length": "0",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "text/plain",
+        "server": "Golfe2"
+      }
+    },
+    "failure": "net::ERR_ABORTED",
+    "finished_ms": 1824,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "body unavailable: Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+  },
+  {
+    "id": 13,
+    "started_ms": 1828,
+    "method": "GET",
+    "url": "https://essencereferencetummy.com/check.html",
+    "resource_type": "document",
+    "headers": {
+      "referer": "https://ukdevilz.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://essencereferencetummy.com/check.html",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "content-encoding": "gzip",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "etag": "W/\"69f84340-3bd\"",
+        "last-modified": "Mon, 04 May 2026 06:57:04 GMT",
+        "server": "nginx",
+        "timing-allow-origin": "*",
+        "vary": "Accept-Encoding",
+        "x-js-ab": "current"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1877,
+    "response_body_file": "network/bodies/0013_document.html",
+    "response_body_sha256": "e3382cf06dd0d2a466d8a8bfecf242e128111d4bd11c32b0a23774b561404ef5",
+    "response_body_size": 957,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 679,
+      "responseBodySize": 1018,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108893.8398,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.236,
+      "responseStart": 41.188,
+      "responseEnd": 43.396
+    }
+  },
+  {
+    "id": 14,
+    "started_ms": 1882,
+    "method": "POST",
+    "url": "https://essencereferencetummy.com/solid.gif?z=2072394&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5",
+    "resource_type": "ping",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://essencereferencetummy.com/solid.gif?z=2072394&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "x-route-id": "stats.tag.loaded",
+        "content-length": "43",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "content-type": "image/gif",
+        "timing-allow-origin": "*",
+        "server": "nginx"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1928,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1555,
+      "responseBodySize": 705,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108945.501,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.206,
+      "responseStart": 41.652,
+      "responseEnd": 43.903
+    }
+  },
+  {
+    "id": 15,
+    "started_ms": 1883,
+    "method": "GET",
+    "url": "https://essencereferencetummy.com/get/2072394?id=2072394&jp=_cllakzyzywlqhgrtvojnwz&dr=49&cuaa=1&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5&uf=0",
+    "resource_type": "script",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://essencereferencetummy.com/get/2072394?id=2072394&jp=_cllakzyzywlqhgrtvojnwz&dr=49&cuaa=1&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5&uf=0",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "timing-allow-origin": "*",
+        "x-route-id": "config",
+        "content-encoding": "gzip",
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "text/javascript; charset=utf-8",
+        "vary": "Accept-Encoding",
+        "server": "nginx"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1930,
+    "response_body_file": "network/bodies/0015_script.js",
+    "response_body_sha256": "c77bd64ccf41e7d275adab4894bdba993f838e03f9a2521f5eabadb697921230",
+    "response_body_size": 3988,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1537,
+      "responseBodySize": 2535,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672108947.4402,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.241,
+      "responseStart": 41.632,
+      "responseEnd": 43.655
+    }
+  },
+  {
+    "id": 16,
+    "started_ms": 1938,
+    "method": "GET",
+    "url": "https://essencereferencetummy.com/sn/pr/2072394?id=2072394&jp=_cllakzyzywlqhgrtvojnwz&dr=49&cuaa=1&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5&uf=0",
+    "resource_type": "document",
+    "headers": {
+      "referer": "https://ukdevilz.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://essencereferencetummy.com/sn/pr/2072394?id=2072394&jp=_cllakzyzywlqhgrtvojnwz&dr=49&cuaa=1&nojs=0&bavar=0&febuild=1.1.52-st&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=R8hYce4aHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=4057216729228548&dl=9&eclog=0&snc=0&ssc=0&vp=0&pkw=1&pload=682&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C706.7999999999302%2C775.6000000000349%2C496.5999999999767%2C342.20000000001164%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5&uf=0",
+      "status": 302,
+      "status_text": "",
+      "headers": {
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "content-length": "235",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "location": "https://coosync.com/sn/c?zoneid=2072394&eucx=3&srp=UHUrEbj5PJXiaBKaksvIGsE8z2WV6gv8qD9e20h1IujVIhHa4QInRJ94siFERlNlzZxIZk1Zz9MPp0fPOZ7Oy1-nRE5nnSZw9ZGRMV-aCILQAlb9upI6NqlYFSA=&im=1&wcks=1&ix=1",
+        "server": "nginx",
+        "timing-allow-origin": "*",
+        "x-route-id": "cookie.user_id.pre_sync.redirect"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2007,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "body unavailable: Response.body: Response body is unavailable for redirect responses",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1778,
+      "responseBodySize": 235,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109004.188,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.667,
+      "responseStart": 64.75,
+      "responseEnd": 66.47900000001528
+    }
+  },
+  {
+    "id": 17,
+    "started_ms": 1939,
+    "method": "GET",
+    "url": "https://essencereferencetummy.com/profile.min.js",
+    "resource_type": "script",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://essencereferencetummy.com/profile.min.js",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "timing-allow-origin": "*",
+        "x-js-ab": "current",
+        "content-encoding": "gzip",
+        "etag": "W/\"69fca2a9-118cc\"",
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "date": "Wed, 13 May 2026 11:35:08 GMT",
+        "content-type": "application/javascript; charset=utf-8",
+        "last-modified": "Thu, 07 May 2026 14:33:13 GMT",
+        "server": "nginx",
+        "vary": "Accept-Encoding"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2011,
+    "response_body_file": "network/bodies/0017_script.js",
+    "response_body_sha256": "75c80ab9169d919fbd274b5e243f42723b3fc1c215d2ac6f744e92558aa5e1b2",
+    "response_body_size": 71884,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 580,
+      "responseBodySize": 34482,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109003.477,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.292,
+      "responseStart": 50.361,
+      "responseEnd": 65.556
+    }
+  },
+  {
+    "id": 18,
+    "started_ms": 1954,
+    "method": "GET",
+    "url": "https://ukdevilz.com/static/locales/en.json",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-full-version-list": "\"HeadlessChrome\";v=\"147.0.7727.15\", \"Not.A/Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"147.0.7727.15\"",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://ukdevilz.com/video/kendra%20sunderland",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-bitness": "\"64\"",
+      "sec-ch-ua-model": "\"\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-arch": "\"x86\"",
+      "sec-ch-ua-full-version": "\"147.0.7727.15\"",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua-platform-version": "\"10.0\""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://ukdevilz.com/static/locales/en.json",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cache-control": "max-age=31536000",
+        "content-encoding": "gzip",
+        "service-worker-allowed": "/",
+        "etag": "W/\"6a0430ee-c61\"",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "9fb15ba95d962af7-SJC",
+        "expires": "Thu, 13 May 2027 11:35:09 GMT",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "server-timing": "cfExtPri",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "application/json",
+        "last-modified": "Wed, 13 May 2026 08:06:06 GMT",
+        "server": "cloudflare",
+        "priority": "u=1,i",
+        "vary": "Accept-Encoding"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2148,
+    "response_body_file": "network/bodies/0018_fetch.json",
+    "response_body_sha256": "cec25e89315c5d7ed59b5b3cb7e5e3623345054607bb635ca85b88b7e606a03c",
+    "response_body_size": 3169,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1391,
+      "responseBodySize": 1636,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109017.472,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.304,
+      "responseStart": 176.087,
+      "responseEnd": 177.845
+    }
+  },
+  {
+    "id": 19,
+    "started_ms": 1961,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-209481025/456243370/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-209481025/456243370/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "etag": "\"00b43168dd67db68d162a86dc9595e37\"",
+        "age": "157",
+        "cf-cache-status": "HIT",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "webp_bigger",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Tue, 19 Nov 2024 14:57:01 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba98a8ae6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "11962",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2008,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 570,
+      "responseBodySize": 12245,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109025.3809,
+      "domainLookupStart": 0.138,
+      "domainLookupEnd": 8.548,
+      "connectStart": 8.795,
+      "secureConnectionStart": 10.738,
+      "connectEnd": 14.98,
+      "requestStart": 16.045,
+      "responseStart": 33.503,
+      "responseEnd": 39.325
+    }
+  },
+  {
+    "id": 20,
+    "started_ms": 1961,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-209481025/456243016/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-209481025/456243016/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "etag": "\"0483073cc555031dc70781885aeb0278\"",
+        "age": "4631",
+        "cf-cache-status": "HIT",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "webp_bigger",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Tue, 19 Nov 2024 22:14:21 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba98a8de6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "17061",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1997,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 570,
+      "responseBodySize": 17381,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109025.666,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 15.804,
+      "responseStart": 32.502,
+      "responseEnd": 35.466
+    }
+  },
+  {
+    "id": 21,
+    "started_ms": 1962,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-169890591/456240350/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-169890591/456240350/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-bgj": "imgq:85,csam-hash,h2pri",
+        "etag": "\"ad901677cb8b3a0ad711bf4bfc7b7abd\"",
+        "age": "5270",
+        "cf-cache-status": "HIT",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=8510",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Tue, 08 Oct 2024 16:23:08 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba98a8fe6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "8510",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1994,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 570,
+      "responseBodySize": 9015,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109025.865,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 15.678,
+      "responseStart": 30.405,
+      "responseEnd": 32.36
+    }
+  },
+  {
+    "id": 22,
+    "started_ms": 1962,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-165127459/456240083/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-165127459/456240083/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-bgj": "imgq:85,csam-hash,h2pri",
+        "etag": "\"29e050f725cff93c88218deaea7dac61\"",
+        "age": "3588",
+        "cf-cache-status": "HIT",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=10591",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Tue, 08 Oct 2024 16:22:57 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba98a91e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "10591",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2010,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 570,
+      "responseBodySize": 10890,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109026.0542,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 15.555,
+      "responseStart": 33.221,
+      "responseEnd": 40.453
+    }
+  },
+  {
+    "id": 23,
+    "started_ms": 1962,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-115615196/456245091/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-115615196/456245091/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-bgj": "h2pri,csam-hash,imgq:85",
+        "etag": "\"d9f9cf3123dceb44d24dc7327618b999\"",
+        "age": "7002",
+        "cf-cache-status": "HIT",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=8457",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Wed, 20 Nov 2024 05:07:23 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(239;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba98a92e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "8457",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2001,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 570,
+      "responseBodySize": 8799,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109026.247,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 15.597,
+      "responseStart": 32.284,
+      "responseEnd": 36.702
+    }
+  },
+  {
+    "id": 24,
+    "started_ms": 1962,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-159046896/456240063/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-159046896/456240063/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "etag": "\"7b4d165f98b01a3fdb0eb3be885742df\"",
+        "age": "627",
+        "cf-cache-status": "HIT",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=7923",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Tue, 08 Oct 2024 16:21:20 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(177;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba98a93e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "7923",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2005,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 570,
+      "responseBodySize": 8236,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109026.427,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 15.612,
+      "responseStart": 39.506,
+      "responseEnd": 42.048
+    }
+  },
+  {
+    "id": 25,
+    "started_ms": 1962,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-163487969/456240116/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-163487969/456240116/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"6b5b8f2a82f4f37b25ad2dd7b6a1ed25\"",
+        "age": "5742",
+        "cf-bgj": "imgq:85,h2pri,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=8116",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Wed, 20 Nov 2024 06:32:44 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba9bacfe6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "8116",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2110,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 702,
+      "responseBodySize": 8315,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109057.7249,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 4.694,
+      "responseStart": 27.739,
+      "responseEnd": 61.055
+    }
+  },
+  {
+    "id": 26,
+    "started_ms": 1963,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-34655362/456253815/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-34655362/456253815/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"ccff6439c128aa98a1d238fa1f972b7b\"",
+        "age": "4668",
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=5173",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/webp",
+        "last-modified": "Tue, 19 Nov 2024 21:42:53 GMT",
+        "vary": "accept, accept-encoding",
+        "priority": "u=1;i=?0,cf-chb=(260;u=3;i=?0 864;u=5;i=?0 4027;u=6;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba9bad2e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "3740",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2107,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 4003,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109057.8809,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 4.633,
+      "responseStart": 23.994,
+      "responseEnd": 58.505
+    }
+  },
+  {
+    "id": 27,
+    "started_ms": 1963,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-212892684/456239444/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-212892684/456239444/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"30f4a30e79c9cabf28b25bab5f4ab399\"",
+        "age": "6055",
+        "cf-bgj": "imgq:85,csam-hash,h2pri",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=20816",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/webp",
+        "last-modified": "Wed, 30 Jul 2025 03:36:49 GMT",
+        "vary": "accept, accept-encoding",
+        "priority": "u=1;i=?0,cf-chb=(261;u=3;i=?0 1593;u=5;i=?0 9651;u=6;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba9bad3e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "17662",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2109,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 702,
+      "responseBodySize": 17937,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109057.965,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 4.612,
+      "responseStart": 26.263,
+      "responseEnd": 59.678
+    }
+  },
+  {
+    "id": 28,
+    "started_ms": 1963,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-114955232/456240537/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-114955232/456240537/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"18d467f774c6ccbc45072681ea40b445\"",
+        "age": "3145",
+        "cf-bgj": "imgq:85,csam-hash,h2pri",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=10323",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Wed, 20 Nov 2024 07:17:24 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(239;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15ba9bad5e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "10323",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2105,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 702,
+      "responseBodySize": 10533,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109062.081,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 7.217,
+      "responseStart": 19.37,
+      "responseEnd": 57.387
+    }
+  },
+  {
+    "id": 29,
+    "started_ms": 2008,
+    "method": "GET",
+    "url": "https://coosync.com/sn/c?zoneid=2072394&eucx=3&srp=UHUrEbj5PJXiaBKaksvIGsE8z2WV6gv8qD9e20h1IujVIhHa4QInRJ94siFERlNlzZxIZk1Zz9MPp0fPOZ7Oy1-nRE5nnSZw9ZGRMV-aCILQAlb9upI6NqlYFSA=&im=1&wcks=1&ix=1",
+    "resource_type": "document",
+    "headers": {
+      "referer": "https://ukdevilz.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://coosync.com/sn/c?zoneid=2072394&eucx=3&srp=UHUrEbj5PJXiaBKaksvIGsE8z2WV6gv8qD9e20h1IujVIhHa4QInRJ94siFERlNlzZxIZk1Zz9MPp0fPOZ7Oy1-nRE5nnSZw9ZGRMV-aCILQAlb9upI6NqlYFSA=&im=1&wcks=1&ix=1",
+      "status": 302,
+      "status_text": "",
+      "headers": {
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "content-length": "126",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "location": "https://essencereferencetummy.com/sn/ps/2072394?eucx=3&im=1&ix=1&puid=0&so=1&wcks=1",
+        "server": "nginx",
+        "timing-allow-origin": "*",
+        "x-route-id": "cookie.user_id.sync"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2152,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "body unavailable: Response.body: Response body is unavailable for redirect responses",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 761,
+      "responseBodySize": 126,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109071.4421,
+      "domainLookupStart": 0.163,
+      "domainLookupEnd": 3.794,
+      "connectStart": 3.88,
+      "secureConnectionStart": 46.126,
+      "connectEnd": 88.645,
+      "requestStart": 88.815,
+      "responseStart": 133.499,
+      "responseEnd": 137.17799999994895
+    }
+  },
+  {
+    "id": 30,
+    "started_ms": 2124,
+    "method": "GET",
+    "url": "https://ukdevilz.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "resource_type": "script",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://ukdevilz.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "status": 302,
+      "status_text": "",
+      "headers": {
+        "cache-control": "max-age=300, stale-if-error=10800, stale-while-revalidate=10800, public",
+        "location": "/cdn-cgi/challenge-platform/h/b/scripts/jsd/883a1f27d85f/main.js?",
+        "cf-ray": "9fb15baa6f4d2af7-SJC",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "content-length": "0",
+        "server-timing": "cfExtPri",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "server": "cloudflare",
+        "priority": "u=3,i=?0"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2142,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "body unavailable: Response.body: Response body is unavailable for redirect responses",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1100,
+      "responseBodySize": 0,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109184.33,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.305,
+      "responseStart": 9.031,
+      "responseEnd": 18.83399999996982
+    }
+  },
+  {
+    "id": 31,
+    "started_ms": 2135,
+    "method": "POST",
+    "url": "https://essencereferencetummy.com/profile/2072394/avatar.gif?psp=WIH3jNAKvj2pzlxpqPN0Eq4OtBfQgsoEZ1nc52tHc9RxmMemiy2jjHmtSRoKq_Yv71vYGf8eYuARdhb1t_hxsgsDq3DF9Q3yBL-K0Do2FsI89gBGftFil7kYDrqdgO2Ue8k1NgMpAbiXyEUtQRK5TE3aSApLB3pnCx9NS87fWD2Ixcaq1bqmTTt7twrlVhgqzqAzoTmEiVFzpGAC7Gylqv2Xju9ve8g1G4pllbBKCY9PDNT1q6KRp-XkDswxYFc2KZ7EZVF3O2ZBqbQ4ViBTU55VRaZR1qunP4AXhQZJ4EV5Lv07i5PnZOadz6WXayN_Bz7AECYUKw==&eucx=3&nojs=0&bavar=0&febuild=1.1.52&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=MPFJX3XaHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=7434916449857796&dl=9&eclog=1&tp=0&vp=0&pkw=1&pload=896&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C6529.999999999884%2C1931.8999999999069%2C1378.7000000000698%2C1498.4999999998836%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5",
+    "resource_type": "ping",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "content-type": "text/plain;charset=UTF-8",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": "eyJmZiI6W10sImZmcCI6eyJkZWZhdWx0IjoxNDkuMzEyNSwiJCI6MTQ5LjMxMjUsIkYiOjE0OS4zMTI1LCJWIjoxNDQuMDE1NjI1LCJDIjoxMzMuMDYyNSwibWluIjo5LjM0Mzc1LCJzeXN0ZW0iOjE2Mn0sImZhIjoxMjQuMDQzNDc1Mjc1MTYwNzQsImZzZiI6WzAsMCwwLDBdLCJmbCI6W1siZW4tVVMiXV0sImZjZCI6MjQsImZkbSI6MTYsImZzciI6WzkwMCwxMzY1XSwiZmhjIjo0LCJmc3MiOnRydWUsImZscyI6dHJ1ZSwiZmlkIjp0cnVlLCJmb2QiOmZhbHNlLCJmcG0iOiJXaW4zMiIsImZwbCI6W10sImZjIjp7IlZuIjp0cnVlLCJ4biI6IjE2NzI3MjQ5MjkiLCJ0ZXh0IjoiMTQyNjk5MDEwOSJ9LCJmdHMiOnsibWF4VG91Y2hQb2ludHMiOjAsIkNuIjpmYWxzZSwiT24iOmZhbHNlfSwiZnYiOiJHb29nbGUgSW5jLiIsImZ2ZiI6W10sImZjZSI6dHJ1ZSwiZmNnIjoic3JnYiIsImZjZiI6ZmFsc2UsImZtZCI6MCwiZmNwIjowLCJmcm0iOmZhbHNlLCJmaGRyIjpmYWxzZSwiZm10aCI6eyJhY29zIjoxLjQ0NzM1ODg2NTgyNzg1MjIsImFjb3NoIjo3MDkuODg5MzU1ODIyNzI2LCJZbiI6MzU1LjI5MTI1MTUwMTY0MywiYXNpbiI6MC4xMjM0Mzc0NjA5NjcwNDQzNSwiYXNpbmgiOjAuODgxMzczNTg3MDE5NTQzLCJqbiI6MC44ODEzNzM1ODcwMTk1NDI5LCJhdGFuaCI6MC41NDkzMDYxNDQzMzQwNTQ4LCJVbiI6MC41NDkzMDYxNDQzMzQwNTQ4LCJhdGFuIjowLjQ2MzY0NzYwOTAwMDgwNjEsInNpbiI6MC44MTc4ODE5MTIxMTU5MDg1LCJzaW5oIjoxLjE3NTIwMTE5MzY0MzgwMTQsIkxuIjoyLjUzNDM0MjEwNzg3MzMyNCwiY29zIjotMC44MzkwNzE1MjkwMDk1Mzc3LCJjb3NoIjoxLjU0MzA4MDYzNDgxNTI0MzcsIk1uIjoxLjU0MzA4MDYzNDgxNTI0MzcsInRhbiI6LTEuNDIxNDQ4ODIzODc0NzI0NSwidGFuaCI6MC43NjE1OTQxNTU5NTU3NjQ5LCJSbiI6MC43NjE1OTQxNTU5NTU3NjQ5LCJleHAiOjIuNzE4MjgxODI4NDU5MDQ1LCJleHBtMSI6MS43MTgyODE4Mjg0NTkwNDUsInFuIjoxLjcxODI4MTgyODQ1OTA0NSwibG9nMXAiOjIuMzk3ODk1MjcyNzk4MzcwNywiRG4iOjIuMzk3ODk1MjcyNzk4MzcwNywiSG4iOjEuOTI3NTgxNDE2MDU2MDIwNmUtNTB9LCJmdmMiOnsidmVuZG9yIjoiR29vZ2xlIEluYy4gKEdvb2dsZSkiLCJUbiI6IkFOR0xFIChHb29nbGUsIFZ1bGthbiAxLjMuMCAoU3dpZnRTaGFkZXIgRGV2aWNlIChTdWJ6ZXJvKSAoMHgwMDAwQzBERSkpLCBTd2lmdFNoYWRlciBkcml2ZXIpIn0sImZwZGYiOmZhbHNlLCJmYXIiOjI1NSwiZmFjIjoiTW96aWxsYSIsImZhcHAiOm51bGwsImZhdiI6IjUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI0LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJmZHQiOm51bGwsImZncCI6W10sImZqaCI6bnVsbCwiZnBzIjoiMjAwMzAxMDciLCJmdmkiOiItcHJvYmFibHktcHJvYmFibHktcHJvYmFibHktcHJvYmFibHkiLCJmY3MiOjIsImZwIjozLCJmYXAiOjMsImZzYyI6MCwiZm11IjoxLCJmbWgiOjEsImZzbyI6ImxwIiwiZmR2Ijp7IlpuIjp0cnVlLCJObiI6InZpc2libGUifSwiZmNuIjp7ImVmZmVjdGl2ZVR5cGUiOiI0ZyIsImRvd25saW5rIjo5LCJydHQiOjB9LCJmaiI6ZmFsc2UsInB0Ijp7ImNvbm5lY3RTdGFydCI6MTc3ODY3MjEwODIzNywibmF2aWdhdGlvblN0YXJ0IjoxNzc4NjcyMTA4MjA1LCJzZWN1cmVDb25uZWN0aW9uU3RhcnQiOjE3Nzg2NzIxMDgyMzgsImZldGNoU3RhcnQiOjE3Nzg2NzIxMDgyMDUsImRvbUNvbnRlbnRMb2FkZWRFdmVudFN0YXJ0IjowLCJyZXNwb25zZVN0YXJ0IjoxNzc4NjcyMTA4NDgzLCJkb21JbnRlcmFjdGl2ZSI6MTc3ODY3MjEwODY4MCwiZG9tYWluTG9va3VwRW5kIjoxNzc4NjcyMTA4MjM3LCJyZXNwb25zZUVuZCI6MTc3ODY3MjEwODYzOSwicmVkaXJlY3RTdGFydCI6MCwicmVxdWVzdFN0YXJ0IjoxNzc4NjcyMTA4MjU2LCJ1bmxvYWRFdmVudEVuZCI6MCwidW5sb2FkRXZlbnRTdGFydCI6MCwiZG9tTG9hZGluZyI6MTc3ODY3MjEwODQ4NywiZG9tQ29tcGxldGUiOjAsImRvbWFpbkxvb2t1cFN0YXJ0IjoxNzc4NjcyMTA4MjA2LCJsb2FkRXZlbnRTdGFydCI6MCwiZG9tQ29udGVudExvYWRlZEV2ZW50RW5kIjowLCJsb2FkRXZlbnRFbmQiOjAsInJlZGlyZWN0RW5kIjowLCJjb25uZWN0RW5kIjoxNzc4NjcyMTA4MjU2fSwiZmJpIjp7ImNoYXJnaW5nIjoxLCJjaGFyZ2luZ1RpbWUiOjAsImRpc2NoYXJnaW5nVGltZSI6LTEsImxldmVsIjoxfSwicHR0bCI6IktlbmRyYSBzdW5kZXJsYW5kIHwgVWtkZXZpbHouY29tIn0=",
+    "response": {
+      "url": "https://essencereferencetummy.com/profile/2072394/avatar.gif?psp=WIH3jNAKvj2pzlxpqPN0Eq4OtBfQgsoEZ1nc52tHc9RxmMemiy2jjHmtSRoKq_Yv71vYGf8eYuARdhb1t_hxsgsDq3DF9Q3yBL-K0Do2FsI89gBGftFil7kYDrqdgO2Ue8k1NgMpAbiXyEUtQRK5TE3aSApLB3pnCx9NS87fWD2Ixcaq1bqmTTt7twrlVhgqzqAzoTmEiVFzpGAC7Gylqv2Xju9ve8g1G4pllbBKCY9PDNT1q6KRp-XkDswxYFc2KZ7EZVF3O2ZBqbQ4ViBTU55VRaZR1qunP4AXhQZJ4EV5Lv07i5PnZOadz6WXayN_Bz7AECYUKw==&eucx=3&nojs=0&bavar=0&febuild=1.1.52&t=0&wcks=1&wgl=1&cnvs=1&os=0&tz=UTC+0&ss=1&ls=1&bb=0&cti=2&fn=3&es=15&ge=2&th=6o6r6Bvi1dLe&pcs=2&lang=en-US&pf=Win32&cd=24&vcv=Google%20Inc.%20(Google)&vcn=ANGLE%20(Google,%20Vulkan%201.3.0%20(SwiftShader%20Device%20(Subzero)%20(0x0000C0DE)),%20SwiftShader%20driver)&ix=0&x=1365&y=900&md=0&psu=MPFJX3XaHR0cHM6Ly91a2Rldmlsei5jb20vdmlkZW8va2VuZHJhJTI1MjBzdW5kZXJsYW5k&afid=7434916449857796&dl=9&eclog=1&tp=0&vp=0&pkw=1&pload=896&rlp=%5B0%2C74.59999999997672%2C110.00000000005821%2C64.40000000002328%2C6529.999999999884%2C1931.8999999999069%2C1378.7000000000698%2C1498.4999999998836%2C0%5D&srw=1365&srh=900&im=1&cha=x86&chb=64&chbr=%22HeadlessChrome%22%3Bv%3D%22147%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%20%22Chromium%22%3Bv%3D%22147%22&chf=%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%20%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%20%22Chromium%22%3Bv%3D%22147.0.7727.15%22&chm=false&chmd=&chp=Windows&chv=10.0&cs=5",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "x-route-id": "stats.extended.context",
+        "content-length": "43",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "content-type": "image/gif",
+        "timing-allow-origin": "*",
+        "server": "nginx"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2231,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 3100,
+      "requestHeadersSize": 2014,
+      "responseBodySize": 483,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109199.389,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.675,
+      "responseStart": 47.426,
+      "responseEnd": 57.911
+    }
+  },
+  {
+    "id": 32,
+    "started_ms": 2135,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-113656837/456241806/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-113656837/456241806/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"d974e4580b43864bee5d76389b6860e0\"",
+        "age": "980",
+        "cf-bgj": "csam-hash,imgq:85,h2pri",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=9582",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Wed, 20 Nov 2024 01:26:32 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(196;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15baa8ca3e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "9582",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2226,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 9779,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109199.287,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 5.92,
+      "responseStart": 26.087,
+      "responseEnd": 31.478
+    }
+  },
+  {
+    "id": 33,
+    "started_ms": 2136,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-209481025/456242821/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-209481025/456242821/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"9bad339e79133d0c186d8bd2a491f7bc\"",
+        "age": "5662",
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "webp_bigger",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Fri, 22 Nov 2024 10:01:17 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15baa8ca4e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "14235",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2164,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 14403,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109200.0688,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 5.211,
+      "responseStart": 17.649,
+      "responseEnd": 21.136
+    }
+  },
+  {
+    "id": 34,
+    "started_ms": 2136,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-215436891/456239270/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-215436891/456239270/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"365b36c07f35c7710bb87618113a5aac\"",
+        "age": "6946",
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "webp_bigger",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Thu, 21 Nov 2024 07:37:38 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(177;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15baa8ca7e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "14694",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2227,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 14913,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109202.218,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 3.129,
+      "responseStart": 28.362,
+      "responseEnd": 33.275
+    }
+  },
+  {
+    "id": 35,
+    "started_ms": 2140,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-34655362/456269948/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-34655362/456269948/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"2af5d7cd1b3704f24054e6cf2f47e2bc\"",
+        "age": "2952",
+        "cf-bgj": "imgq:85,h2pri,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=10055",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Fri, 22 Nov 2024 12:29:50 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(177;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15baa8ca9e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "10055",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2224,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 698,
+      "responseBodySize": 10209,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109202.5032,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 2.913,
+      "responseStart": 18.536,
+      "responseEnd": 28.964
+    }
+  },
+  {
+    "id": 36,
+    "started_ms": 2141,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-151226968/456245135/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-151226968/456245135/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"d21d273178adc8bc034fd7b1acbd7dbb\"",
+        "age": "3230",
+        "cf-bgj": "imgq:85,csam-hash,h2pri",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=8822",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Wed, 20 Nov 2024 15:22:22 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15baa8caae6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "8822",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2169,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 8975,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109204.18,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 1.302,
+      "responseStart": 17.758,
+      "responseEnd": 25.61
+    }
+  },
+  {
+    "id": 37,
+    "started_ms": 2141,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-215436891/456239717/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-215436891/456239717/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"3cf4e843c179ca5110ec15a5de47c52c\"",
+        "age": "227",
+        "cf-bgj": "imgq:85,csam-hash,h2pri",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=8850",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Thu, 21 Nov 2024 17:53:58 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(177;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15baa8cace6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "8850",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2171,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 9003,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109204.4548,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 1.09,
+      "responseStart": 17.031,
+      "responseEnd": 24.283
+    }
+  },
+  {
+    "id": 38,
+    "started_ms": 2147,
+    "method": "GET",
+    "url": "https://ukdevilz.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/883a1f27d85f/main.js?",
+    "resource_type": "script",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": ""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://ukdevilz.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/883a1f27d85f/main.js?",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cache-control": "max-age=14400, stale-if-error=10800, stale-while-revalidate=10800, public",
+        "content-encoding": "br",
+        "x-content-type-options": "nosniff",
+        "cf-ray": "9fb15baa8f842af7-SJC",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "server-timing": "cfExtPri",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "application/javascript; charset=UTF-8",
+        "server": "cloudflare",
+        "priority": "u=3,i=?0"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2172,
+    "response_body_file": "network/bodies/0038_script.js",
+    "response_body_sha256": "e9c3c2d80e70c6e7ca925ad34f61d27dbed64e08aa3a1aa7320203746c0e4931",
+    "response_body_size": 23078,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1135,
+      "responseBodySize": 10419,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109205.662,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.448,
+      "responseStart": 9.771,
+      "responseEnd": 25.393
+    }
+  },
+  {
+    "id": 39,
+    "started_ms": 2154,
+    "method": "GET",
+    "url": "https://essencereferencetummy.com/sn/ps/2072394?eucx=3&im=1&ix=1&puid=0&so=1&wcks=1",
+    "resource_type": "document",
+    "headers": {
+      "referer": "https://ukdevilz.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://essencereferencetummy.com/sn/ps/2072394?eucx=3&im=1&ix=1&puid=0&so=1&wcks=1",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "accept-ch": "sec-ch-ua-wow64,sec-ch-ua-full-version-list,sec-ch-ua,sec-ch-ua-platform,sec-ch-ua-mobile,sec-ch-ua-full-version,sec-ch-ua-platform-version,sec-ch-ua-arch,sec-ch-ua-bitness,sec-ch-ua-model,sec-ch-width,sec-ch-viewport-width,sec-ch-viewport-height,sec-ch-dpr,sec-ch-device-memory,sec-ch-rtt,sec-ch-prefers-color-scheme,sec-ch-prefers-reduced-motion,sec-ch-prefers-reduced-transparency,sec-ch-prefers-contrast,sec-ch-forced-colors,sec-ch-prefers-reduced-data",
+        "content-encoding": "gzip",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "server": "nginx",
+        "timing-allow-origin": "*",
+        "vary": "Accept-Encoding",
+        "x-route-id": "cookie.user_id.pre_sync.final"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2248,
+    "response_body_file": "network/bodies/0039_document.html",
+    "response_body_sha256": "1002cf996f19a4a9b0c10d15f2d073dce6dd06ba39ea6ffe4001ce8ae6e134ae",
+    "response_body_size": 774,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 795,
+      "responseBodySize": 1086,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109210.808,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.552,
+      "responseStart": 42.543,
+      "responseEnd": 47.781
+    }
+  },
+  {
+    "id": 40,
+    "started_ms": 2224,
+    "method": "POST",
+    "url": "https://ukdevilz.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/883a1f27d85f/0.6618262222057628:1778670382:3eEWlEhztsOoPhB2Bbwa5KVvs1rGHtdvCgjgg3_f2As/9fb15ba49992cf27",
+    "resource_type": "xhr",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": "nuPpDH9SrGeNNiu9NN9GjiGrijPiai1p2mopr5ixpO6rv6L1FKiZpn6HmLi7i--i5KLYiKkrlviG6r46M1IP9OO18Pi8RRizoiaA-tGimliPSoOKNT12iyqTst8mdjoih+0p6PxSkHUhCuFiiwCAP5+L2iYAIY6JupAAy9ibE4K7tbjX5HY6lHQH2QgA0GEUc2boid+Admzg+iR-xSCpji+prdiiExi2+ipWT-PGkiZiraKiiF88oh91TUmlerPiryvniyPREHi5uY2EbZO17HFDTL6ezUC-TJAoeRibROVo9dewwE+BGYFR+a04x7n35iiGRjKqztmJhEZnEgieyVjHi92aJ3xlqPvriR+Zx2nb231unKyxZmPJ5AS5U3mJStJntWsr+X6Bg+n9E3KuiP8zVxxyGzv9Q7Oz47xC7FmGCbnyqDwnOFit1fhiiGkSjXJPD2T26qUi1la6kPKrPEpiVCXxbel9Pw2oR+y11qkfHvgjL635sRE6Xx8JNXHrUhhK2dxhEoizhRchExwIOnUwprN7EbNvhhGcN6FHO9Xf1x+aProfSQ7ZDlODN9TscyvDwqzFwExEXFA8z8bqJ6Tr9TZPyU+nPEz2AejEqNAVZGQBhV5+i0eWl1xZpj11zxb7ka79QsGeECuF5N-VLgn-JPDCzoFPV59EWej5nZ9asFoyH5-IQQQzycJQ6dViSxkZrrc927y6E4CR26dp5hPD0QEXRLHgRC7flCgAFYt8Nhht3NYM8kl7BVd+Y3IpNYNXO7rEu61+Myj5ic4v9uspgCEhrKEzZ9fD63pl7fJIgJwmHE1oTEl5PFeYnYc97ErjRlG+24seSIrl2yk4p1ouziHr6RWDp9iYOCj5khGKiti6f-UeCviw6mIiUbwCHE8otLLtPcqr2moHQsbgp9tpA-loL69seokp4Xp9L9i-PeY2oKrp-19LJtPZCEXpwUKwPzlEg2I9axucIow6+487zxe-sp+UcO+CptGPn9riiwqk+qf-kjtz9PFr3ZrIIGOkj58nS8-dfihHHb9EpY5o+U2RPEpjGrgLpDvxr8UoLd70vHc2t1V5Envvmxsu7u56uIrV5SE4+0dy0RUPqk5F-uxdwPkqrnCsMoFLbjptuKerioAhHinx9ecocrNDTkGcDCKeIO3hLEfrbkh5iIEH7nFG2aqOpf4UEH+yeXf3gTpMEfonr7poirRnrH9ISlVEPYdOi+jDW6eUU5G+t-uij1-xoiU+Y-Rl9jcklDpuTp2Tve3iKudt11GOYGrQ7yUmpsiE6ubJEjPbkjPCqfRP1e3iePRGeKECZtHgPje2c4uNPn7u5VA69n9T42ekV5lPtHJS9jlmputqkfWNx9ggVPr9kjJfLyPAJCaGAqWKJPa5R66zzc6B8uIkFzvws+I4GtlLISmPdqnw3APailgqnXGtUV3v9q7M1rZTjiffFzjD3ae6zStpni576UcqnW+bscqpQB2m-4cVnlQh63GL7lih8rb2Fzf2knlIBuVtuzJBojGJQ4ttskjY1kTrfv+lB1DNjPWx2tscp+p19gdJtsPy+GgyJT9GJGpwb3HtiMEMGox9kRH5Nn9297jzptt4CTOii9CU9ur61eIPrid+d-arXMDLog+ux+x+HvRJ8F5-feDT51KtyG3ymS9+tsKoHYfmqtGDoa95jcWpluboguuZFCSDiNpz6Q-rKTkNvoH6UHdrOtQ+eOFWS3Wwk9JCD4siR4H54Ds8Fwei1TIH4o7vUzStS7QEe8a2po2WrzRmKvfPFi3a9Rc5zPKCPua4rcG2fbErE9NqYZwwpil8tr11tuINnCCn5tO9Fh3gtHRdoZS6f82pgzYs9s6ppJCp9y0TD2D9mqohdZk7F7oh-4Ur76ikU8Y+40uRPfR1x1pqoLO2j6Tzo81I9qYOuibsx60uekPpQLFLopNprszLGkrWO97Nl9OkGXsiAENW2QL1EbMd7UAC8LWLB2Rp6UEwP-lYd7ZGMumTeRWb4+AghG2NhInU7Y774h-0ycagYgK+kl9pWaxEfGaz4CUe2eiNRinP44z2SY2acknEyUClro9kPiKTduR+gpJ8am2ew7cxpvDnyViNXIt1E4FqGMyR+xQv3leU+7LS6oxeQpXl6i+XfYjNx8t5tpc7qj4978FK+BQfbX8rrFXuXQZRodGJZG0DChE7V4zSt6xcS1Q9Xx2OU1vOz4yZdzX5GTqkDUwHlnNK+QpWrl5npG+pYkOs-huDkKpQL4ei4pUmrpnx+Dv2e81oP1qebStH21wpYngs4+7-5pxHXMPx+EnntTvikjmCd1oik+NkK4A0qJbdl-qWEzinf-pS31rQCWUa4oz4BiDacAf-lDi9u3Ag-u-JdpziJNGLZUnq+X-p0wqkrpYqmCGkGL5vQ1Cee-E0ZrD7PyNjh50scXd6yJTTUNZ3ecTw7XIeVxvToq99jhRSE+tyAE0apjFHQM4fyEaOxQNr7dnygCUiAJQT39ppjC+D8Qm+DV0xvhAFvMTcJWq0NNP31ec4BegNl0CsTx8crNn3F68n4tliTz5C7L9r4CDf4XLmhqqDHfoS+IotROX-9bGpQzM6E4YGzc3czqw+P6EYX6fz-oE4knKA5DoK1G-wOG5LQsG2VWP7RgLpGHQAETnoUjyCl8+pabwgjj9-8OXJGNwGQswjyTIHQAL7s7Ic3t7R1TK9vn94D1xhSv-cZTVgffbdOmByOii9F5V2q4c3x1kPQ4bTHrZ5tFwijxLRi7i2Ub0WxipDHBLK5bZPOESnpcmo69uO3vnq5LnUfgRHvEYPsSVVPG8GmEh01AEeR-JnC9A6iowrpqRzvajrqYN3vJFt1pphMRzZ3fnlRI9bAnMe-6eDI9KN8Fll6lR2txAyWirg1ppnlV8Sp3KBPZwp+jrlOFMT9pE9pi5NNRklL2MEGujHQVhkAMOFI0KIV3cEOd6FTQy8vlFTiBE4KJIga0NnnNTezVB4p7B6xuKQtsV-OgA9mge8usIpAGLT1AtsR9vQAfM9atmMdWI6aMRzWOwdFDgEHJ40lMDxKAau54xM0lXJghCImv97lJYY73C6VOw7SHuXXfTnxws51wIfof+cpDtD9-Ql-sA8rMCvK-zMT1++6LYuMaIEuxeZlgjf0bdlUBX4ik3checi648n3UmKMX0owwPMf2gy9iKRBwurvqZ1oi9fDIJbWJU1cpWVqdAG5K4tLnPFkQ5RSqWY8DyL1t5LBudedHqqoc5q1tOOwYY5Xelrnd-i8wrfxTQ3RT+f7Yw3ye6oJCfn7f3zUrQnNr+AMrzjLogEIg5ktYPPgwyx259vjcFoEp3jf9Fh44d+bKBDcYnAxgfqCbiEVv-PZ18-bbXFxRAiTR3MDx5IY2Bsczy5blSycj6itc4k8cHXIidul9VnkSkPXBl96yPiufBT5iVa4jib+8Jza4QrTjq8Mhue5xpPErZ949i7Iscda8FhSqh0derIBdTcHdNryfiOgky-9eBI22JtIxerS-0s0x50llPPlqn8d9gp0jkR6Gr967S2kITxt0e09igI9eJUr5gzR978p-la2OnxwlmfrfH8pHS-lTnUuPJU6RU76PJUpRztYevM27+bCoKpUDoGqhPI+eBI8Uq8IfVfp7GPEiyIDsGGW8BzWh7eWxNnXhSdGPYGUiVc+2Y5SD67Sb5oLsSbts6DMs5i0fS70f41+PsoUrssFzzU6O0M6qE4MfH7O8i2OhYOMxO0QqOU4oAcmLrRGnA8k5vIR7ghEDghRbB8gsEqBTiIBc9zNnizGdpnonij1MjRgfpIRnpaXL6RoTyqEPPD5bZtJMj7kIHqBIkkPdGnGboRS0GePINeBj+k9kanio6dd8+TiU4MjnTdGP2zukfR7O2j2zdeUt7bNRuzybN7jdaRG7jkzIBajzwO67jz9dQ7GIGbF7Gdxk9ODL7GFOjT7I4MjONTthGDX8kRA-Sd4OYiYMj8BzYzRDYdGPraf762NcrM67HISnoGbD1zNOHaZte4Mir271hzvr65DIbndkTUKRdjxGKPn4z729Rj6RexHIEPyp+1EdGPy0ETbno7wjXIwdGONRyMjbyM00yTROjR5av2AToDfaCdlICzNPTPfajHfzYajqBTTbCaq8Kannak-dmToIEP4RbPvdvarDBTvkQkxaQTFkvOjpiOZDbH4Di7FD3PxzQDkDin9no73PCzebxd9GeRBcxTqOEqFn4DiGQOPRbzfrajmO87jL6bKd-TSDBIIbJGDGTGKafkKnoRDPFO171aJD7LJxWP7aJ7WbvcWR7aTGXOmzIGqRGPNPEe-M87HOp7SOQR4PkRzii7+hY8jDvojbLb07dU75IlbHsGbpsniPxMWj-PqqpL7fW-2iCoweXRn71ntMtjzOjGbDtaueRIKbib+dNex5UqyMLGT8dqir9cai0OgPsGK8hIHLFe0fDH0IpLNeELiN6eAPM1aryH2rmqpqhP49HPptDrYtva22piitCGRw9f9-2YioNJmzpsUGcIinx91Az34sIlKR-I9ScdkA4AzDP322JVoYHOchDl952kxkxmm3b8ntZ6pDcOKA6kuxNzp3jLKFCEcRi+3fu0bRpyRym4u0T3I7q-eCrzrwUmRWcZNCrvrKDwcPcF9YKr6cI8RR4eRZDx4DPtoZuD+nxM4Jp4iW9upE+01S9590x8iRiebxGseI49U3h0b6zj+debiRZ04P3VxpjOb33kKv9NuapDm+oX+BjH9c6WidnZbjE54iLenxI2U68k6Nr--HDbiRpSc0pU-xiQxkmb4fnQ-hJvT1LySKHx6S4PoFm9PEKmCK8kp03NIe2Wr-+c+AP8GQoXPgHlpOU5Jo4MJPPi6junZupujFmupi9telele+oufQh5rxr+O3GoKRjdUkr+75XKh60wr+Dwp++RjjjR+ESyjo7yBhRRu25xoP7RkyuDGDhw-yk5GD5wY+hDU5kPi5Y5HffutktP8R39tA9PtPORj2FGEdcqsm76X7cosHvcUkfX5xfJ9yJdbyYRLifX55nyNi6lmvUlN5bEQ6h+t1twiwjoBox95RguRR7ylrRS+ofG5mRRR55hbmbiVy9oO5t97hsMwjhP9WfGgu6uouRfYl5hxug39fu2hfjIrlTyqlgh8fjoglgHYEYlMX552arQOlAioaua3HS6O2s+h+Uknoo21RNixhBHmkXuhdFoKEjyMCsn2Ii7qaHFnTtwUV1vhPrpUOPW2i7Txj6AZuOWSntwFoKKUofGZqcwdjGocfUkOLx5O31vDyGhLrLiglS6wp7J14tSLiD+gk2zG5Xmn+R6cqn+wyjkx4124dZHev0pMiKR+ogvE6duZZ2F0wOfRkOArFjkglwzR6fFMiZFbFLixamucFB+1jxo2hBCtwO2K69iDF3R5dcfPQVFldiQy2wibi6QmJ1fwQaQHQjkRQNisr7QjQy2ZQmQMi7EpkcQCi6jeQpvqkcfo9u9MicQ4isHqRsSe-tQQ7V7VQLQjkD7-oGiS949avNpr-9fXp29pkg7MiOxFPKub0XyfaiKcpw7h4d424vugkR65d9fzEUDndXmrFOmsi7ah4OfXusl77ZFB4YBt7sLDEpwceFP1QoxML5ERZs6ZFYxa0RxJcsSUkKlgyKVG5g6x5dd14CXxk6oZuGpbdMi7fuAwEJ7xQKw55NaApNixamaMirl4+S2GFRk7dmO1vfXUwMxgPqRh4HpP4S7e+7pndw7J95GvaPbBpJNxf2QUuUkPPD+bfrayCbb-bukcvM6LYLiKbCfPFQFREtwPPe+h+OxG7Pog2LCNC-kOXDphlBf4zvFZOsiUCd+7CQVxCp+L74+hjiwCbaCQCVCBhoKd+bYHbFPU7SXf-UvpKS6x9RCOiGiwKz+V4zDfh+aBz4Kl+blKKuQbPXwfaeKaKVKaaX9UIfkoQfhX4lIUBZakbzuriEKQacUh+5BF5fEeQy7a7-mHpnmA2FXPCOluAwbJm+YpVPCfGgPf3e5rxG1d+877Eej41QFEoX4TmYCC7Rk9vMlhdXhifkyRuobJmz7nohmI13f+br-Bmd+55neGvuQD72-v-pp+prpDaOF--3lRk5d914vLJGR--0m-m1-vlq-jh--C-vE27--MFl-JmdvcmSwhw1-TiF-0cokwcEKB3G-Aw8YN5tEeEXE7lhyjkPTvZFPT7Ovy2D4LitEi4Po24G91oRjcUiIP85rsKw3fcMioYuYCdZFF4ATvlr1WNkzoYBRJMFTvkiID+RQty3lRCNc2nM6Rp7lYTanEph2Ko17FocQOTECmwFwwTkTVLioN5sarvRv5v6AxzAxhp46hjeRRRxzIbQE1vxz-QqF4mmFNygHdytS6uwLjKfGomwdc+gJHyZF6K5LdZYyewKBGCDJAJ4ZElOkGCFZpZ-k9+GCdZBPwkPo1fLiGndsX-sJL3usPC7KqRxKAKCraTYRUIU3y3NmAJv1MTL3apxlHFc+X3pp83a6RpC+8W6Er3-5joGFTbha7EO2cWOvYeW7r1Wz8aQPb1Mg71HJTeleqeWzrJ0emeHxZedr9bHoRRZek-yw7eCAoeW7hqu-mFW7fqlcQxEk53ja3eNB77twZez92x-7n3L3W7OqVq0eT+iykrpkxES8uocp9vluxD9oXTYFYepypmC30qpyIf9bq-mv15z2J1zfSESPtwxutdUCc7vFlWS783WySm5IU7jKu4AE+a4IvF-IpcAwFww755nohPKpOi5d7IWfBkDI4o54mIL5SPfIlOG5DywFEp1b4gPpiT3IWhroRevDapXTfEI-EkXeu4VD+uFcjIC75hs+x5FPOxeLMb-HHLQwfZjKtEZDKvfIpgreynCZ4nicA-oR1Dv77FHTZ1oAUbnlLvI5PviIHXWwUIxuDEcUr-OovXTURJCXQXk1Y7ZFRRKX-3EwiWHvQXMXky7FkVY762nXTUZeTxwjWCrVEVpCvoMCtXCqzVEWkVW7b-dbcVLVdVzuFofoLdbVQXdvyvHVzuhhgaVVu4ut-INt4bkkgXmXu5DpGt0PGtqZ4nGtQXHVl5g5ttjcytTUhuF9OicUZRKQDVktJVJaiDZ9UoxasSg5hu5wtVuKbo7HHVJ0aVitjEc0AVxtQXz6cso03JEkt0TYmXIbpeEtpVTUK7EvBDM3k0QsdIk0LqlulRrVQbN7KTnspyWsdjt9DsEsHVzhdkhjG0JooAUMq0lsmXy+ok6kisJmBoPkXJKXdzyDvMQXdMWprdGqHVdMH0VKXMTUZTkdtP5roOHVk-3kR8LcAtjOIfQE5OJ+9+Kje-u26ycOARYVCOTNiwU7Ik2OE00VpNOVMlDwhjxhuAaVBO+sy25AWkcOWP7PcOa7PpOMu7ik9oZAEkSPiTAA+pDMjAk0pN8MuEgOTUblUz1pOLhJcO47qDzgmlrocU1gzjOLegHog+xgmo8ScOJ2UDN-yqoBHF1pPAmABOTcbJDOG2w7GBlPSvbATUVCgO4jFUHQXsjucOCxkVhgjgWDkD9Rnb5DVRkDBae429AQH3gOAOTHksSpoPjiOiinmy2YDvHrsk7pbEeriDvPiN25iRP9D3fv+gsH4B9nuLr-Lkj1ixDMlujTJP1M5l4Jr7Vq90FqiMElsxQmNeSFTOnpXHjHXj3xh8OxdbknDPXocFHAbIWDI6tHe87Jijow+iZmv3f9Ypzoou2bmNeGEb02ooJpaqU+sd4CozGJI651jipid2v0Pbj2SCeiNCPkwP762Gex9NS6p6inN2yrt9e4Zos+oJ+hnHE1Jg242ddCNZYhCpOkf1pr1jYEUJW5dR2n2e4r6dPIFPee2vCZPu4ClbP6n2DCzPo4tQ8KvzIAXcbg7dSXP8Sc7wcUZlhI93HgijV1eYGCoQK-42H9Yp24noMPZNkw1nrOYwo0PsUPrwu9r4lIhwvzt6VES6NL3rYN8zvi5J3vAocz+xjB6IeI6xF6o7L7akDr32CHbd9pPzV1uT4QGDpRFInK3es5AoFVRFd79EUo4zkQVt+pKwsekobk4CWItSezes5VqPpbudm8OiqpYkTugLtF2XmO4MkyyqYDSKBrO47kTz-Yn2iteerPi96crGbWDolYZkHFHrns+Drv7M5tE5lkIKteHkWte-2B9vruHuxWqn25W52ikqc4KPT4GCjNeMnsdrkJ2DvTq9n9Did0wD4FdK2NHX4xoA2Fr1S+Y91L8SG5iRdX+kzgl3iH3pRzxPizOaOsgx1j05H6jvUZkK+RfM-1p1mxYY2x9iMW+yHdRvi2l5Kf6e5HRpcIwqtS1sPc9IRhcwU6oUMrt9ea+7GFOJrlHkm37PacjUU-4kcnpG0+YvJyOZttovvsSobPHhe12Jq+1JPWJrOe1FHWiO+uyrLafi9HVpH6uGUS1h5xr8urpgXC5R74KHRiBi0wifn4I5nVPXLnGUwPI1xHqp16dEGsqDttxPPLGejNaPpH53jzX+vNwP5+h5iQlN0wNgscW51HQz8LiktobrC4UuzaN9G8aDt53nuzp6jSXelChmqvzh6Vuw3at2ZqxxhNcirdrn2N90iEs6YF21OXf-OamYbV9c0h4jcio0ZGzWutQej-+PKuLiRMkJh2jwudkJ--jlTwtq8isuloqQG4qih0SZ1wzqS5T6o836U2+LZlMq8i4fv1V7PKNTG98r-FPiiTloMDb82efdgUI9QOFim9Woar1cvyR8+cxFyj2O2Oj5kw6hwbz8bHKfDju9Nfue6MvJC2noYbFQUoTH6a7jp6ech+hDHfmi2PvpkoyuWTlkUBXH8luhWwv5b760Uhab6tcYN6Ipo5NPvPiUbLsljHu3+PGrghF2aD59rZ+NSSvbQTaCWk4aF+adZrRt6RkDSuox6nJLf+aunbAh8dweeC5o-g5VtoqJHPGIfN++pUVK+xkc2ikCH2UN+6xMZX7ifbvi7RgGIl2sJUC5UoqJ9R+94hsbYrPRsApLhKhqP5U0x7zzd-On0o36pXH-OR0XGSCPLYk5miB2-8YCRjRE8-zSiN9+EVUMxD5Dy-5hWoClszqdTm+8kXb7HGwsl7klQn3vAqcFpJGZiko2jvpNEgi-fhc86zWU0xeP0L9j212RrFbpoeRKy2ofv8blp+e6Hbk4xTnOX5t1jus81iTjHdDU1G9GT4Q9x8Vli5UPCqFLIWoERreweFkuyIWG4bQM4WzKlua6lhKBsE4oIJPa6jk7n2IooIBYZix99pL+0PIjK6i85Spqa-dbyrHHt5xPp0yGhc6nc7EJLfuiwJrrfWZHC8PY8TcY5RNwR+pqUexJ0pIks+2xOymgLc6Wjemp6l6iSqAbCecyRFIMR5b0pWjK+6DPy1V+P2rNvfvIoy1UTLKWj9OLBqOhwdQoIW8D0WO54Oo3K6Vg597kc06GOPzcffsd2L-3ZXizpfrAOe9HaIVKUzsHFDcGr5COiPj6A4kTQoaogK9iOaZz1k9v9dfddXaKeiP9HIOa7VGCH1R+9y22m-oo1EkiMij6UmvVn7w4aI--Gm4GAc7s-8cqUeFLzSBRA0GxKKkJyidRvZMrXx3jHm7SACWGdYXTInl1swj9MnCo3IOEioOvgwt7r0mlm9SIK0J7S5+roiESuDlsOHiIIBvcSIEZvGi2IdhNhY3G4J5QLXd7hhYV6csOK4M6mmMN078RGYzcISf1YyjSgOel0IlaxLUFKU9h6Bxj+gARvK2e+r+ItmmqGzelzEy5bUmOYCd7BP8xL3wiROXQ8txF8AdYmqYa7PrepUm9k9HrIs+pWqzcd1CSrdjtZxA08dSmeBxQfXT69cIEp8r99wAbI-GTkjPYH4fUjEiXTtmRGvp1sP0uNRywcSvCCRpuUguyQJrqC4BpufR4tmZn24-sO6srRC+6HEwrG729BdA5bYNCpDUCm8IUmrJSu18exyOdaprAS4h+CI-cdblDmSv80RFxVie1IdSactjg-ObKUXBO4xI8P9Sje1Wrf9g6J6o5Ds1FHNC0PJc5MIA1DisYcsG34VKp1qYIPXMIrfozS1ESC+csbd-zDRESh-ln9eHf9ig1zFSO0uljqsZfv8u37iKHdc7oS-v88bx35XHo4qbIU3H111Rcnkh-GQnonTP8hti-f0Ur4ptiwcvTsdjB1g5+5rU5ofuOha59z08H7DlitudqJpjBw8DIHhHNi5XRn+m9E2wpwK8Spff+n0d7iH3+XUR5lKewQMoaEpk58Kz5vnLcv4ajxE3nQlpfoFvVfs-pkoyLPKl1SLBw+HDalPqw20na8Gkb2tdkL86aQcN98iEdF5+TrH4y2apzXfrXpexirkG+7NSxCm0g5ThoixBZPbQjGf-xTuCp81gpRqKRU6cImUE23oFhA-ScAhx9Gr1V+Xxz+Wir1AYeu1b-Ucmkxo9Qb2u3zOGoGo8JpkP1uhf9a20-cFdN9YEScWrip8HNHiZilpPrKpOJzziZ9hyshshgRNcUPY9cLEVp6UOYy9SbctoXpsR+TU23UcLECnqi0-UnYkifEpDqKtncBKZcIYJ9DEvp1fEZcGRdcZinTsccfLPh6AORJXCt9l-4HOTsL+2bfxzpCX6nHi1ecwzOajwImR3keLXqSiuP1wgZ58copkiOD5p1j-D+u+FQKN5pp25ikgqAC1Wiygn2gp5xhaSSH3pyrex8zJCRRz16ERSqNSrTOSb11FnWsqCsdscrZD5WrRtJlECls5HZcWcPekKJwHlPSLgD01AfFQFEPsx+Wr9E77Rfnfv0C1BZyr3U2JxvA7roxOCBGN5ePqND1De262AYodki-m2pbdwpbKe11unoI63yuo2tjDIOWhGLGrF689Rl2SI6X6gTLafXHNCKhmN7XCw9fHj+CyW+PuGVOpCxEakpDZ7NHqpMtW2nYa5Ct98oTA94S3bXeKF7DzpXl9E5B384N4XhDujdqUqfKM3hex-4GMwqhmzPMbEakNYHmeS+oTJps7P5VeXODumGie9DSGew0t4pmWvne5-qfa9i8f44pkly86U2uaO9CnT5viC9kLaRXnP+5JNezAampwFnC5HWLslkaFZsRrpg8KbWOsG9ln05dIUF8GMEwknJllr1NbgIgo++qlpRPITFhLwUluoSIKzA-y22biTlNe61WepVY25+fp+4JtuMnN9SC5Whg3tIKEwJnqkszAmWiMorY9Ah8DUW9rTzG-6K0UaW-vGirJn+SZ2Woo1P0UWhnzjMwLb+RM5916vA8qSZO5qiKup-fl9qM1EM3nIi5fJNbZD6m5Xh+iazu2nEPeIYw26amTvxRJemXtpiGlSgxJhTDwH+6aWT6niajTU1J6r-q1jq5TIRUlR23HR4CfM6wm-rdNXUYEBhIIWJndGKc6tvaOxWh6aESoTEyenZyh4La59LGMiaxOoM+1HNsL513qsFzpDnfbAxDmWgyBpwj5plBUc9gTxUpvAueUrwo6Ubud2-n++rgNSZPeDwl+emLgHQoxwo1-zqzT1C-x-fGUKqkAKYp+-7Uy1hiiKT29O7sZxrcpHPrNiUbtudEFPlzLwz2beEovendCHnE9KPitRZ1G9H59OajvQQXCPcTrN4ZnqO064noV4j7ZnqbEFc5XqEyZZmzb06IR-aPhhv3dpM8S9RmZTVCsZUNJCiyu2ECZ3v+ColkB6sJMJYv-MZd490z9MJZv+oi+eoxYVHzQaPoo4pTqb+0Ytpw8CtN5pqrqlze1qDNcj1mRXQhRc+srdVWri962pZOsV17KKVSiweRueg8Tt39HzAfZHGnkWInkX4gsDv4P1SbfiPQwIUM8W+2KYqa3nkem8J9d-SyFZt540sJ-mK5Zo67j5xbq5gf6zCuKNrZwyzphLeOurQLcFlELWapmbMw3gwq5OfPzL6fIhn5OEjtbWREV2f794ElPCEn+9Rx5-gABqsiKizYxVxOJ8cU90f7RIOPJevzhHdc0QCk8Bv4rczl3plqBxp0BMiDMw4l34-RfKU6Pw3THcrwQf4XbzlUZQlBsfLeHxzM6VRxREKLeputcC5crwD6je4Tct+FaTqRowLpUtDCYKUpM-zaH9kDTI7CpQ74y0fyiuVNOJ8TnVT65puOSgu5m21MCkveYwooYM1Y03CfeMcZHrLI-5NZ5e+4lojWcMexJiuQGpJHPXziwtzzVT6pMkZsE9zI-6APo74k3R9zock3Ob6tiB-p9+pL2w81taNOvk8pE4q0NuXzrvtIpZ1fpy7Ueq88PTB4VwAttZ4jIbJn1fU+ter7Fzt+mM9oMkXrnd5S9YxIpuV8KKF5TeVNR-EjLUnup8QcpF9FC+8qbV9+5jw1+G4o81twn0I9oF5RvoKkNum43a566ErunUqpDtjE0NkdgJiuINvk5m2GOCoepbXgoiM+epR9BiyQnxlI79iSjsLUzrg+qJZLTUx7sFHg0QEKLsHHCQMG5oAJGrVtAuA4NiDCDnmF+peF7o8gsJHldI0pmzzqtCbvOpHieYoe+eSw6UA5MqvGMhwYKCrhtzKrN5uV6FPkC8i80YvpnYKvOvhsq7HtoYPZY6ytkC7HKT0YSl0kb0fykLfsTOxn1uu+MzC2yiqJ+ppVqHbJ2yiHHpR8N-xTS82gvPlE8+Pnb-y7SspG58fT+zE6LLXljuTYUirx5pRIApsx+bgFXPZ3+AqGlMPczjI4wpSfRj626MwUjilPKN087hCJmxDddWPP938ajoeY0aI1mCunbjIqm1DLCEV+Jqb7wNZGzbIFePXxTNo-PxVtv5E+SXUIUGilmGyzdkl115HKUHBlOCvENJe1WwxO+p0XjYDLvW6GOGJV1qGrrl9JEGf1itjyAotj+hLlAoFc8FGiRR9haEKHXwl6xKL5DYmZwsfVEYxmh4Zzpi-2M5pH7kj2k5CDKypmjcli2cK44rOCsoBXyNeKYNQJ5XO1nA9sKQvqm9587NjeObvJ2N68jqWm3MY5JXaAh4okc4-om-qrNBaEPgNGRqk7nqkrqlt3nZP-Xq5AlaHOhXo9oRPrOVni3+xdmELIsE4Cn-lEexf+h6f6fDzwMUaPae1JC9VVw4JnYVT7DaOlAIPPsYVRUBGlTcllIfa+bTiAajLKzFlm98Oq+BxtLDmBSJVn--+fjo8zHiyQxSrddZe513uuv640MVRh7mQz5IPb8IodDc4pFHirHEUfbwH7fnqJiU0oxE2PHZySX-94ItD1Vjl4tzwYo5lmyyC+ubEFcO+Pn81IguZ6q++NfVN1Jo+WmjrqG9m8mbQhkUUqoN+9Ld-ERb2iw9Z9EDZw1bHRq9eN+0jEb6YhKF4edIyyHpUXsWoRRWE27Wm6dBKSV79C3zc-uudkttTMiVD3BtPDV4zEXysDif9iVLjKs4f0PBo5vPPgDUaxPWDbjforRX14fLWf1WHW1w6r3ICxwcHhh-FjHqWBqx+ARQU+RNRcNbHc34LYPv2-sB+JF0VxWDENizr6N1QvCmLb4e8K849x54Ujixolmy1Gew5bX0+YzmpxLE8Jwhye2i+-V0RDW-dYoSXCu0HXz2bw8ax2Pn6ftqW4vh-WTtpXjh9AJgyeDG8eV2F5+P2jnm5VKCcikPGcdKsfGW0VRyB4S7JX3t+u71QAJg5p2rVIYoRyQZ6zHcNAWpUF6OuiM9zxAWoEJ0srkuMBfoXzibdebL4voNJ8tUFYy3wz8Ro2XunNQtoiP2Cn1WgTu5TqX9NdKXeOTBy7LTFALa+XATaabo0ttzceacr54eSncRoLppikKbhUdmvnPUut5IljvWozwf3ygFOV+eZ8nvnJeNG6kbxRbX1m7XGHU27-187PP2j9i7fywc8GLq7XAmTGuwHVp12yXX8s+iXSIqyxV-EK3umXKnAfM6zF+IlMXFE01fYlAPs5gSJLU4sFL0nyft3-UxpkgXgaSfm+SmNAYapQLto8lwu4pi9fuwcGBVZ87siXP0nyefDFhabawpj32GS-NB6CaafaKLaVj2M7soWaUjcGzHZdwSaRVa1VajYt8Nla0IEKdYfrtFnlaqX-n35yVFXJqxSKXZHaknbnJJtsX1Rt1LHpev3iRU4kTakHIcvdMHeYJdvVjixwml8XgBwjHAZZNrJbxr-xoRKLcNQoQzv30lQrtKuGNnV0nJ+1JxgO0a0wx3M7Vj1nUMaI71irg0lSC6QxsVbJQnHkttAgMDiLwIlafAHRRzK7NmMC73EOPF9q3D7v14mH4rE9+fIcnwIiyYxk7wRHeYwkPacL+Ofiwezy9pQ4qw075+hGeKZ+37J5NnmajqUo72lYk9nXLZIfa9+FXen5WlCCno3sViwtnX6D+5PrgqbdKFMWopmWKPF4SQl0jQP7hCqvt08xTYyKURFDT3u2tGu4jPN0DEER-tuHA4XU+5Gd3n9H0DVZcSvW4RSKHK1K9FdKEWYla6cRRb6mK4KEk6AqZsHbqy0cM7bELdLkPjHDY1fdToMieAH15t9oLkMeHQFGpmUc4yj+j57eauedqczzjiGw+3qXtxvznkKw9P2GuQs+tW+LzrD7JwI2wz4jhdrDRHprJ1LHFkSTe5oZZiu+9iKQyULeUJkw0UGFC3NGxln7++4YIs-Z44KZtxynPlROmDWoDrt4+6mpZL7IItihI2H9hQ1WjVsREv2awu1JS5Ja4FEYTTKm850qbl-WoT3KVk0yeQC6NbtPRmNYswzZFRsE2mmve7gVOvDF7GB61Kvg2G30QCzj6NpRnOOK8WIaDHoavFdlBUJ0Gwko2JuXs87kDj1mGrPrP3ps2TqeXcT4SrnbWvhV+zFkWu-2usswHsNrB0+c046+TBPtIi14uADPECCVqHQbZrzhswDH-uD5rkWEx3g78oQHybZjA46sUb6b+SZaf9PtCwK3AHCmS6+874NmFpRQ41rv0JTygXCOZ4txG0l4nCGBXt-gFPuIPirjUg1YSHiGI04ncTbiTFONJsk5RQ7tj3KRSAXYoPP7nAjAQ9FvUzfXrdm9Z4U+sQnsXiyY4gc3Nb3Wz1MvlxFmGAs4Dk4IyB4giRY-BWq1jHQeg0Jsd6kiwLGJ0zSbpYZLGp1KoT8mz6NC7q5P6qkxICjhZSnobdqRNZWb5srFNvdpDFmGbRDiKKxdLb1SC+fzjKxY3cBqCce0si90w+tVozvSpkQQEngtWpmiEaUi0xts1vCnGgqJzCAxKZXHqvrHAqZ2u9g5e2lyuSocJQaYVZJzZNVW9zlp-YKAzjEP8YkDV6gtNCuw9xrpTklRiuCdM8LP1rLYMq9mONbV3tOCi+nrPSS8VNzai1gZjbu73OcoRFmgFZ+iYZS9-2pfKxbrlixkSwPVcGwJzoO8Rrye9ywiWJfuiTw0S5papkkYntRgT1kqoBOvAMotNJTqf2002zp1otUIHTAqRoipk1jI5s1zb2OQRX7yqMvqk9jg7HwpK+9QxxUtPq0tK8+dthdhwx8T0wal+MoJsBPVo-Ey3R1UGHhFuPciIdPCVrDBb833OFys74WdRgTOa09y6btFrOiTOzdQj1yeBeiVSlGdZ8MaJgbfF8OUqL-cODN3WEKFI0Cvc8jGB5FTT1VnIYceXESEVYAkZ8uKmq1ui6dA0MrFodlRQFKZh+yn5Z1YU44DMV22cj-BUB+SOzA0+YpFdOwlKjLWM78QGiUY4pYSCU6oPcQRBCPdGXhJmDc1mqS57dJUS7OCUZxkolAjqHdL81LFZFNoVsHTg-MuJko9EVaWbincfh8U+EfPGXy3a2r8U65iGxDcnYjcU3KArpxXjnQf3-gbEg8ik7Jmee8FcAaM3PP-NYYXg9EBY4NAWp1+u6uPQvwF2v3vQokLnX7wj-ADMa3otAP6obbZUdY8ibExwnBtn8pHG+5NLRtlLCI67OoUM6Oql1yj4BBvjG3UUaqYt9YngFEG9-tVeu4YXst+n5dyNdc5r+BugTlItVdaEVIt7HuOY0m6v7J2LqEa-YfcLpvEoFn32RFKt990SfM6v0M0ubImT0IsH84DUmblUiM4N5d9nr01P85yY17uWZKWM7xR9RC2NXdwjGWVkinLRiS7aso6rwilUNLQvF8Wfa41Pzf+qMAYXNtf+Bw-KLRreh6aBMYizLDhfD7rpaoEFmUAMHPv08OOV0+o-lBmi3Wdx0FRvZasVBW4ZQiCpUihedBe1bMC+iLREsKJULhMT6bXS2U-u8WkrBglRxUsVBAT6iNKLBdf+x09eIYNKSfHd1W8YiM92Nx+v9e0IC-KQvQokIOk5QtBEoY6oylvVa4U-3Cs9mp0Vs0kMYV34TvBP6h74E26qg4p5m61cv62CDX9KB553j7f5GK7cAkEBqURE2x4-+ii97niLrqiIo+k1RJb9Pe-46uPfcYwJ9iHqifLLPs6PJms3JPJ5xB-CPB3keC4xp5itgkiiCTsY70gjQiZB8irBYiiX4MYWlo90irCpo9pi9RtgTXZpowblr6ki8r089nofi159FPsBdPxUmXi9MYx+299M3MfDzr+9uiMK2XCxi8rLB9qoDBI+eABZfL2ikuniPkrNiur1jizp1C51LqhSNrvKSPPBjXLHL8gTm4fiShiueNLgktRjUR1Rh+9DBoPePijiWBTB3BB6o2ir5p6iPkikiHiOGi+i0gzpeqoFiGoeG2Fa9orfiIi7krgBsibI-Yikpn29HiLoDPrZBrpPqmEiTi1+eniqkbM35iHe8Grai+BM+xvRnhtD93iii1+YqPBd69s8O7r4ovDwe0D9RinHi69Pp3p5Bigp1ezQ9kLPzoSKK5FAIM+RpGBTBCG7Fn5bKUp+Hq3Cu1OStD99ofG9rr4kU+RAo1TnqpujKLrleHi+Bc5sLKZUSN2oCGRDk2-oZocP0k10bSN1kCYRoHpHPZowh2lidRSN1f9yp3VjEeSieit89EiIU2kCUiei1oiLi6i7p9Pi8Ut89Pieies9hpy157nM0U6pT9Og1r8M9hpdEqHxNIGh9H9bpuDrLuRpqU1+b86U+DHbyr9oiDNzBsXriSgp4unkiZoDqTf-FEFILvxcpSNii9H8Pnmmhpyr-29MB2ieo+iYDr4k+YRb9iP+HR8rp7ija8r4-csjii1PnpqEiKKPp3o1ReWKUxlF9Tpii13yo+ii",
+    "response": {
+      "url": "https://ukdevilz.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/883a1f27d85f/0.6618262222057628:1778670382:3eEWlEhztsOoPhB2Bbwa5KVvs1rGHtdvCgjgg3_f2As/9fb15ba49992cf27",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "timing-allow-origin": "https://ukdevilz.com",
+        "cf-ray": "9fb15bab08512af7-SJC",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "server-timing": "cfExtPri",
+        "content-length": "0",
+        "cf-chl-out-s": "cQpGmFbOadefb1r43QJNKRPdl+hGVowHJjvuDmXZjpQ5otEUyp22GNWv8uQ3DT//NQ5PUOtYMlQf4lINtejU0yzcVxwYBevNWCLn/8ITiCKVjslGJUfW51+DgEyT5ZQ/qVuN6cdRfMH98JQExt3vPv7R58dEiNMFZP3m8NC1+t0NC3EXesXhKlIabDRy5Mj5EeZMXwsIaFRqtj5YDC2wVBRcMhPD+e6FrdfiDlfRogomX66E5gknmr+DmYKut4AtVU6aBVVy2z4rvez/j7dwnzMnTzgetjaAXCZxssVM8dcZ6W3m2cA15D2OH6KsTre3Jg9o2yeEC8+BtYvYhvYfXPCRGRrGIQwAeDcL4Cn+oiJRaHtmb/OK34cEJptJEhg5ts8FDy2i9br00oZtudr4akm0grf5NcetLLNpdpLw5GkikIuQXX65pTf5F6RAKkdLHDgYva2JvISOSSNsgWnUobmJ45GNc8E1h0lHAHX+0pLvE0iRau8F6tAv1QXwwt/9koxobuKmawFTvCL2L/uc8QHrhqrisoX1c2YB2xSGn88pfX3rA6sGe2I8asD6+bC7h0Bs83ry8Jp8rnE2JFWOkm2AxI8OIhriqdcTRzpXD2582Pv9xToiZUTi+ZMP7ziteZcR1PFRtB8Md0K8XDzjZpX/+MbgiVPmcb1yUjRFupUu/pjHnQMg6VNLbI1Ag/ZJu8UJsn8iv/oSqXl2zPx0zoqcht005XJBdpmDoRQ/dk5nK5HJrOhGhplIPcjv0wlK9L72Z05EYIl9rEfM84XIE4OSzHomATTaJn/vVFfZISXAx9Sh6zRfm7L7js0QTUnxVnKL93oWIkAqPIzhpeYo9mPQD1aWy7MetWniTR31lO1zcr0KZikra7wAswDw79rA1q+OthtligLHHJwQsAhdgsCunrWIsgk8nJxCC1knoH224PU5KZBWYmKTw37g0y869kL5jrcss4aoHa6IrXYZYIvEQCMjbJ0yc2Dnhqf2gHCuqBkytGAtL5wvrWsOOp95$rw6BUdrpDrj15Wlt8kuUxg==",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "text/plain; charset=UTF-8",
+        "server": "cloudflare",
+        "priority": "u=1,i"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2244,
+    "response_body_file": "network/bodies/0040_xhr.txt",
+    "response_body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "response_body_size": 0,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 17100,
+      "requestHeadersSize": 1409,
+      "responseBodySize": 1426,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109286.154,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.296,
+      "responseStart": 9.173,
+      "responseEnd": 10.282
+    }
+  },
+  {
+    "id": 41,
+    "started_ms": 2279,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-86818244/456247631/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-86818244/456247631/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"3440cbd5e96fd9b21d501bc8e1b6fb76\"",
+        "age": "512",
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=6290",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Thu, 21 Nov 2024 12:49:54 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bab6e13e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "6290",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2300,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 698,
+      "responseBodySize": 6470,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109343.168,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 1.362,
+      "responseStart": 17.057,
+      "responseEnd": 19.203
+    }
+  },
+  {
+    "id": 42,
+    "started_ms": 2280,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-219382335/456239921/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-219382335/456239921/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"79f1903963c0d0b3dbfbc1bd8316fe92\"",
+        "age": "3097",
+        "cf-bgj": "h2pri,csam-hash,imgq:85",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "webp_bigger",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Tue, 22 Jul 2025 01:16:57 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(301;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bab6e15e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "12059",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2303,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 12255,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109343.441,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 1.146,
+      "responseStart": 13.934,
+      "responseEnd": 16.041
+    }
+  },
+  {
+    "id": 43,
+    "started_ms": 2280,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-86818244/456250344/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-86818244/456250344/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"e9daad1efa4a8723c79008fddba38618\"",
+        "age": "392",
+        "cf-bgj": "h2pri,csam-hash,imgq:85",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=7518",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Thu, 21 Nov 2024 07:26:51 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bab6e18e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "7518",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2295,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 698,
+      "responseBodySize": 7717,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109343.6301,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.988,
+      "responseStart": 12.029,
+      "responseEnd": 14.125
+    }
+  },
+  {
+    "id": 44,
+    "started_ms": 2280,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-181505716/456239023/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-181505716/456239023/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"d1021d78751c888899803f0fbd222b36\"",
+        "age": "6349",
+        "cf-bgj": "imgq:85,h2pri,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=15234",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/webp",
+        "last-modified": "Wed, 17 Dec 2025 01:30:53 GMT",
+        "vary": "accept, accept-encoding",
+        "priority": "u=1;i=?0,cf-chb=(260;u=3;i=?0 1955;u=5;i=?0 6542;u=6;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bab6e1ae6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "10746",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2308,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 10985,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109343.843,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.813,
+      "responseStart": 23.844,
+      "responseEnd": 25.912
+    }
+  },
+  {
+    "id": 45,
+    "started_ms": 2281,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-172454327/456253485/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-172454327/456253485/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"e8a745c18babdb59e1f27d47f75d1c2a\"",
+        "age": "6782",
+        "cf-bgj": "imgq:85,h2pri,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=7215",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Thu, 21 Nov 2024 22:22:27 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(195;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bab6e1ce6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "7215",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2310,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 7377,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109344.044,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.647,
+      "responseStart": 19.454,
+      "responseEnd": 23.606
+    }
+  },
+  {
+    "id": 46,
+    "started_ms": 2281,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-113656837/456241810/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-113656837/456241810/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"2768f4475fe76558a936b6e760175655\"",
+        "age": "4162",
+        "cf-bgj": "imgq:85,h2pri,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=8448",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Fri, 22 Nov 2024 18:05:06 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(196;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bab6e1ee6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "8448",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2306,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 700,
+      "responseBodySize": 8604,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109344.232,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.495,
+      "responseStart": 13.402,
+      "responseEnd": 16.915
+    }
+  },
+  {
+    "id": 47,
+    "started_ms": 2281,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-88277731/170874111/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-88277731/170874111/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"98eba1355cf0a7ef9ed0b56b8f0e384c\"",
+        "age": "1853",
+        "cf-bgj": "imgq:85,csam-hash,h2pri",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "webp_bigger",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/jpeg",
+        "last-modified": "Fri, 22 Nov 2024 12:59:49 GMT",
+        "vary": "Accept-Encoding",
+        "priority": "u=5;i,cf-chb=(239;u=5;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bab6e20e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "13686",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2310,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 698,
+      "responseBodySize": 13877,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109344.399,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.352,
+      "responseStart": 24.681,
+      "responseEnd": 27.225
+    }
+  },
+  {
+    "id": 48,
+    "started_ms": 2284,
+    "method": "GET",
+    "url": "https://mc.yandex.ru/watch/95033046/1?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&charset=utf-8&uah=chu%0A%22HeadlessChrome%22%3Bv%3D%22147%22%2C%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%22Chromium%22%3Bv%3D%22147%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A147.0.7727.15%0Achl%0A%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%22Chromium%22%3Bv%3D%22147.0.7727.15%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A10.0&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A1%3Adp%3A0%3Als%3A1650534586680%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A489787193%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Arqnl%3A1%3Ast%3A1778672109%3At%3AKendra%20sunderland%20%7C%20Ukdevilz.com&t=clt%2879%29gdpr%2814%29clc%280-0-0%29rqnt%281%29aw%281%29rcm%281%29cdl%28na%29eco%2842009088%29ti%281%29&redirnss=1",
+    "resource_type": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.yandex.ru/watch/95033046/1?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&charset=utf-8&uah=chu%0A%22HeadlessChrome%22%3Bv%3D%22147%22%2C%22Not.A%2FBrand%22%3Bv%3D%228%22%2C%22Chromium%22%3Bv%3D%22147%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A147.0.7727.15%0Achl%0A%22HeadlessChrome%22%3Bv%3D%22147.0.7727.15%22%2C%22Not.A%2FBrand%22%3Bv%3D%228.0.0.0%22%2C%22Chromium%22%3Bv%3D%22147.0.7727.15%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A10.0&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A1%3Adp%3A0%3Als%3A1650534586680%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A489787193%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Arqnl%3A1%3Ast%3A1778672109%3At%3AKendra%20sunderland%20%7C%20Ukdevilz.com&t=clt%2879%29gdpr%2814%29clc%280-0-0%29rqnt%281%29aw%281%29rcm%281%29cdl%28na%29eco%2842009088%29ti%281%29&redirnss=1",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "cache-control": "private, no-cache, no-store, must-revalidate, max-age=0",
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "pragma": "no-cache",
+        "access-control-allow-credentials": "true",
+        "x-content-type-options": "nosniff",
+        "expires": "Wed, 13-May-2026 11:35:09 GMT",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "content-length": "704",
+        "x-xss-protection": "1; mode=block",
+        "last-modified": "Wed, 13-May-2026 11:35:09 GMT",
+        "content-type": "application/json; charset=utf-8"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2487,
+    "response_body_file": "network/bodies/0048_fetch.json",
+    "response_body_sha256": "286ff771ec0a934f3d8d61abc7871200dace81e53ed2cf9e0c24c0d2648be755",
+    "response_body_size": 704,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1874,
+      "responseBodySize": 892,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109347.5417,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.215,
+      "responseStart": 202.548,
+      "responseEnd": 204.412
+    }
+  },
+  {
+    "id": 49,
+    "started_ms": 2285,
+    "method": "GET",
+    "url": "https://mc.yandex.ru/watch/3/1?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&page-ref&charset=utf-8&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A2%3Adp%3A0%3Als%3A1589612115006%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A993397561%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Ast%3A1778672109&t=clc%280-0-0%29rqnt%281%29aw%281%29rcm%281%29cdl%28na%29eco%2865536%29ti%281%29&redirnss=1",
+    "resource_type": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.yandex.ru/watch/3/1?wmode=7&page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&page-ref&charset=utf-8&browser-info=pv%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A2%3Adp%3A0%3Als%3A1589612115006%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113508%3Aet%3A1778672109%3Ac%3A1%3Arn%3A993397561%3Arqn%3A1%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Awv%3A2%3Ads%3A31%2C19%2C226%2C156%2C0%2C0%2C%2C41%2C%2C%2C%2C%2C%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Ans%3A1778672108205%3Ast%3A1778672109&t=clc%280-0-0%29rqnt%281%29aw%281%29rcm%281%29cdl%28na%29eco%2865536%29ti%281%29&redirnss=1",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "cache-control": "private, no-cache, no-store, must-revalidate, max-age=0",
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "pragma": "no-cache",
+        "access-control-allow-credentials": "true",
+        "x-content-type-options": "nosniff",
+        "expires": "Wed, 13-May-2026 11:35:09 GMT",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "content-length": "525",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "application/json; charset=utf-8",
+        "last-modified": "Wed, 13-May-2026 11:35:09 GMT"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2494,
+    "response_body_file": "network/bodies/0049_fetch.json",
+    "response_body_sha256": "ebbc87caf42d7f9d93201705410a6673244d8f7e407a149dc3ae3c6ba2491d1d",
+    "response_body_size": 525,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1442,
+      "responseBodySize": 560,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109348.691,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.218,
+      "responseStart": 204.449,
+      "responseEnd": 206.941
+    }
+  },
+  {
+    "id": 50,
+    "started_ms": 2314,
+    "method": "POST",
+    "url": "https://ukdevilz.com/cdn-cgi/rum?",
+    "resource_type": "xhr",
+    "headers": {
+      "sec-ch-ua-full-version-list": "\"HeadlessChrome\";v=\"147.0.7727.15\", \"Not.A/Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"147.0.7727.15\"",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://ukdevilz.com/video/kendra%20sunderland",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-bitness": "\"64\"",
+      "sec-ch-ua-model": "\"\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-arch": "\"x86\"",
+      "sec-ch-ua-full-version": "\"147.0.7727.15\"",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "content-type": "application/json",
+      "sec-ch-ua-platform-version": "\"10.0\""
+    },
+    "post_data": "{\"memory\":{\"totalJSHeapSize\":10000000,\"usedJSHeapSize\":10000000,\"jsHeapSizeLimit\":3760000000},\"resources\":[],\"referrer\":\"\",\"eventType\":1,\"firstPaint\":292,\"firstContentfulPaint\":496,\"startTime\":1778672108205.5,\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.2.0\",\"timings\":2},\"pageloadId\":\"f88a1e04-8116-41ce-8135-1ca3872a78c0\",\"location\":\"https://ukdevilz.com/video/kendra%20sunderland\",\"nt\":\"navigate\",\"timingsV2\":{\"nextHopProtocol\":\"h2\",\"domainLookupStart\":1.3999999999650754,\"domainLookupEnd\":31.599999999976717,\"connectStart\":31.599999999976717,\"connectEnd\":51.20000000001164,\"requestStart\":51.5,\"responseStart\":278.20000000001164,\"responseEnd\":433.79999999998836,\"domInteractive\":474.5999999999767,\"domComplete\":1166.2000000000116,\"loadEventStart\":1166.7000000000116,\"loadEventEnd\":1166.899999999965,\"finalResponseHeadersStart\":278.20000000001164,\"firstInterimResponseStart\":0,\"transferSize\":23446,\"decodedBodySize\":79339},\"dt\":\"\",\"siteToken\":\"d0ee89c151bf4ca192b0d29318bac336\",\"st\":2}",
+    "response": {
+      "url": "https://ukdevilz.com/cdn-cgi/rum?",
+      "status": 204,
+      "status_text": "",
+      "headers": {
+        "access-control-max-age": "86400",
+        "access-control-allow-credentials": "true",
+        "access-control-allow-methods": "POST,OPTIONS",
+        "cf-ray": "9fb15bab996d2af7-SJC",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "server-timing": "cfExtPri",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "text/plain",
+        "vary": "Origin, accept-encoding",
+        "server": "cloudflare",
+        "priority": "u=1,i"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2318,
+    "response_body_file": "network/bodies/0050_xhr.txt",
+    "response_body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "response_body_size": 0,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 982,
+      "requestHeadersSize": 1887,
+      "responseBodySize": 194,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109377.332,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.268,
+      "responseStart": 4.461,
+      "responseEnd": 6.754
+    }
+  },
+  {
+    "id": 51,
+    "started_ms": 2411,
+    "method": "GET",
+    "url": "https://cdn2.pvvstream.pro/videos/-56506295/456239217/preview_320.jpg",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://cdn2.pvvstream.pro/videos/-56506295/456239217/preview_320.jpg",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "cf-cache-status": "HIT",
+        "etag": "\"e6c181f508409a49419633f418bb5f05\"",
+        "age": "1535",
+        "cf-bgj": "h2pri,imgq:85,csam-hash",
+        "x-content-type-options": "nosniff",
+        "expires": "Sat, 13 Jun 2026 11:35:09 GMT",
+        "cf-polished": "ok, orig_size=7533",
+        "date": "Wed, 13 May 2026 11:35:09 GMT",
+        "content-type": "image/webp",
+        "last-modified": "Thu, 21 Nov 2024 01:48:21 GMT",
+        "vary": "accept, accept-encoding",
+        "priority": "u=1;i=?0,cf-chb=(259;u=3;i=?0 1349;u=5;i=?0 6755;u=6;i=?0)",
+        "cache-control": "public, max-age=2678400",
+        "cf-ray": "9fb15bac3f75e6fa-SJC",
+        "accept-ranges": "bytes",
+        "content-length": "5700",
+        "server": "cloudflare"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2426,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 698,
+      "responseBodySize": 5923,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109475.983,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.287,
+      "responseStart": 13.193,
+      "responseEnd": 14.825
+    }
+  },
+  {
+    "id": 52,
+    "started_ms": 2497,
+    "method": "GET",
+    "url": "https://mc.webvisor.org/sync_cookie_image_check?scid=d55de991-a82f-6fce-5147-df72f8399746&cid=95033046",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.webvisor.org/sync_cookie_image_check?scid=d55de991-a82f-6fce-5147-df72f8399746&cid=95033046",
+      "status": 302,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "x-xss-protection": "1; mode=block",
+        "location": "https://mc.yandex.ru/sync_cookie_image_start?cid=95033046&redirect_domain=mc.webvisor.org&scid=d55de991-a82f-6fce-5147-df72f8399746&token=11030.tugcOmoJxRrTnhkmSYI5YiA1MXjrWdFpZZfISeJ-eqj39pqJpjHXw1wSZ5ADrco8.HwK1Iukp6dwJREHo7ydu-2A15B8%2C"
+      }
+    },
+    "failure": null,
+    "finished_ms": 3304,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 582,
+      "responseBodySize": 0,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672109562.648,
+      "domainLookupStart": 0.221,
+      "domainLookupEnd": 217.359,
+      "connectStart": 217.469,
+      "secureConnectionStart": 411.251,
+      "connectEnd": 608.07,
+      "requestStart": 608.235,
+      "responseStart": 805.759,
+      "responseEnd": 806.6870000000108
+    }
+  },
+  {
+    "id": 53,
+    "started_ms": 3305,
+    "method": "GET",
+    "url": "https://mc.yandex.ru/sync_cookie_image_start?cid=95033046&redirect_domain=mc.webvisor.org&scid=d55de991-a82f-6fce-5147-df72f8399746&token=11030.tugcOmoJxRrTnhkmSYI5YiA1MXjrWdFpZZfISeJ-eqj39pqJpjHXw1wSZ5ADrco8.HwK1Iukp6dwJREHo7ydu-2A15B8%2C",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.yandex.ru/sync_cookie_image_start?cid=95033046&redirect_domain=mc.webvisor.org&scid=d55de991-a82f-6fce-5147-df72f8399746&token=11030.tugcOmoJxRrTnhkmSYI5YiA1MXjrWdFpZZfISeJ-eqj39pqJpjHXw1wSZ5ADrco8.HwK1Iukp6dwJREHo7ydu-2A15B8%2C",
+      "status": 302,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "x-xss-protection": "1; mode=block",
+        "location": "https://mc.webvisor.org/sync_cookie_image_decide?cid=95033046&scid=d55de991-a82f-6fce-5147-df72f8399746&token=11030.UNwFywedIKZajLEgiQneMLSjpUgX-bUCVR-sd3pODn09BAkwI2jJRy70AGFxy6cgm4U6paItrIpAhkyKs2b1bOJia0rOvWsnXfOi9h28S7fr9dV-6oZ9fO-vx811aGTaizZi-c5S-z9aWUKW7MzxaholEKUe6pBc_3VncAwOPpIc-RaXi9YS90Fg4CwRwz_JO6fM1QQdl5okohg3hGxeTraA-h74tmHbcYiVJFp28zY%2C.cZe80-fgvDuQw15_6E1trcpjQMA%2C"
+      }
+    },
+    "failure": null,
+    "finished_ms": 3507,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1058,
+      "responseBodySize": 0,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672110369.2578,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.324,
+      "responseStart": 202.364,
+      "responseEnd": 203.22799999996732
+    }
+  },
+  {
+    "id": 54,
+    "started_ms": 3508,
+    "method": "GET",
+    "url": "https://mc.webvisor.org/sync_cookie_image_decide?cid=95033046&scid=d55de991-a82f-6fce-5147-df72f8399746&token=11030.UNwFywedIKZajLEgiQneMLSjpUgX-bUCVR-sd3pODn09BAkwI2jJRy70AGFxy6cgm4U6paItrIpAhkyKs2b1bOJia0rOvWsnXfOi9h28S7fr9dV-6oZ9fO-vx811aGTaizZi-c5S-z9aWUKW7MzxaholEKUe6pBc_3VncAwOPpIc-RaXi9YS90Fg4CwRwz_JO6fM1QQdl5okohg3hGxeTraA-h74tmHbcYiVJFp28zY%2C.cZe80-fgvDuQw15_6E1trcpjQMA%2C",
+    "resource_type": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.webvisor.org/sync_cookie_image_decide?cid=95033046&scid=d55de991-a82f-6fce-5147-df72f8399746&token=11030.UNwFywedIKZajLEgiQneMLSjpUgX-bUCVR-sd3pODn09BAkwI2jJRy70AGFxy6cgm4U6paItrIpAhkyKs2b1bOJia0rOvWsnXfOi9h28S7fr9dV-6oZ9fO-vx811aGTaizZi-c5S-z9aWUKW7MzxaholEKUe6pBc_3VncAwOPpIc-RaXi9YS90Fg4CwRwz_JO6fM1QQdl5okohg3hGxeTraA-h74tmHbcYiVJFp28zY%2C.cZe80-fgvDuQw15_6E1trcpjQMA%2C",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "content-length": "43",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "image/gif"
+      }
+    },
+    "failure": null,
+    "finished_ms": 3707,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 964,
+      "responseBodySize": 505,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672110572.407,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.251,
+      "responseStart": 198.087,
+      "responseEnd": 199.698
+    }
+  },
+  {
+    "id": 55,
+    "started_ms": 16680,
+    "method": "POST",
+    "url": "https://mc.yandex.ru/watch/95033046?page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&charset=utf-8&hidv2=2570298182922928423&hittoken=1778672109_7079cc33d908deecfec9c99336013d361ba52b91682d2b42d1d0d502152fa556&browser-info=nb%3A1%3Acl%3A827%3Aar%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A1%3Adp%3A1%3Als%3A1650534586680%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113523%3Aet%3A1778672124%3Ac%3A1%3Arn%3A868518266%3Arqn%3A2%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Afp%3A496%3Awv%3A2%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C1%2C1166%2C1167%2C0%2C976%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Aeu%3A2%3Ans%3A1778672108205%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1778672124&t=gdpr(14)clc(0-0-0)rqnt(2)aw(1)rcm(1)cdl(na)eco(42009088)prs(2)wss(2)w2s(0)evt(827)ti(0)&force-urlencoded=1",
+    "resource_type": "ping",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://mc.yandex.ru/watch/95033046?page-url=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%2520sunderland&charset=utf-8&hidv2=2570298182922928423&hittoken=1778672109_7079cc33d908deecfec9c99336013d361ba52b91682d2b42d1d0d502152fa556&browser-info=nb%3A1%3Acl%3A827%3Aar%3A1%3Avf%3Apudvqnsfv6ib5kxc1pnb69wofel0f%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A2500%3Acn%3A1%3Adp%3A1%3Als%3A1650534586680%3Ahid%3A927653858%3Az%3A0%3Ai%3A20260513113523%3Aet%3A1778672124%3Ac%3A1%3Arn%3A868518266%3Arqn%3A2%3Au%3A1778672109926888880%3Aw%3A1365x900%3As%3A1365x900x24%3Ask%3A1%3Afp%3A496%3Awv%3A2%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C1%2C1166%2C1167%2C0%2C976%3Aco%3A0%3Ahdl%3A1%3Antf%3A1%3Aeu%3A2%3Ans%3A1778672108205%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1778672124&t=gdpr(14)clc(0-0-0)rqnt(2)aw(1)rcm(1)cdl(na)eco(42009088)prs(2)wss(2)w2s(0)evt(827)ti(0)&force-urlencoded=1",
+      "status": 200,
+      "status_text": "",
+      "headers": {
+        "strict-transport-security": "max-age=31536000",
+        "cache-control": "private, no-cache, no-store, must-revalidate, max-age=0",
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "pragma": "no-cache",
+        "access-control-allow-credentials": "true",
+        "expires": "Wed, 13-May-2026 11:35:23 GMT",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "content-length": "43",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "image/gif",
+        "last-modified": "Wed, 13-May-2026 11:35:23 GMT"
+      }
+    },
+    "failure": null,
+    "finished_ms": 16884,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "binary body skipped",
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 1680,
+      "responseBodySize": 228,
+      "responseHeadersSize": 0
+    },
+    "timing": {
+      "startTime": 1778672123745.2131,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.355,
+      "responseStart": 201.771,
+      "responseEnd": 203.714
+    }
+  },
+  {
+    "id": 56,
+    "started_ms": 24496,
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-KPD810F16S&gtm=45je6581v871006809za200zd871006809&_p=1778672108648&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=2102443982.1778672109&frm=0&pscdl=noapi&rcb=3&sr=1365x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=0~115938466~115938468~118463262~118494633&sid=1778672108&sct=1&seg=1&dl=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%20sunderland&dt=Kendra%20sunderland%20%7C%20Ukdevilz.com&en=scroll&epn.percent_scrolled=90&_et=17739&tfd=23355",
+    "resource_type": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "referer": "https://ukdevilz.com/"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-KPD810F16S&gtm=45je6581v871006809za200zd871006809&_p=1778672108648&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=2102443982.1778672109&frm=0&pscdl=noapi&rcb=3&sr=1365x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=2&tag_exp=0~115938466~115938468~118463262~118494633&sid=1778672108&sct=1&seg=1&dl=https%3A%2F%2Fukdevilz.com%2Fvideo%2Fkendra%20sunderland&dt=Kendra%20sunderland%20%7C%20Ukdevilz.com&en=scroll&epn.percent_scrolled=90&_et=17739&tfd=23355",
+      "status": 204,
+      "status_text": "",
+      "headers": {
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "pragma": "no-cache",
+        "cross-origin-resource-policy": "cross-origin",
+        "access-control-allow-credentials": "true",
+        "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:138:0",
+        "report-to": "{\"group\":\"ascnsrsggc:138:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:138:0\"}],}",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "access-control-allow-origin": "https://ukdevilz.com",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:138:0",
+        "content-length": "0",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "date": "Wed, 13 May 2026 11:35:31 GMT",
+        "content-type": "text/plain",
+        "server": "Golfe2"
+      }
+    },
+    "failure": "net::ERR_ABORTED",
+    "finished_ms": 24515,
+    "response_body_file": null,
+    "response_body_sha256": null,
+    "response_body_size": null,
+    "response_body_truncated": false,
+    "response_body_note": "body unavailable: Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+  }
+]
