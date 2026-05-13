@@ -1,0 +1,44 @@
+flat assembler
+Open source assembly language compiler.
+
+The flat assembler (abbreviated to fasm, intentionally stylized with lowercase letters) is a fast assembler running in a variety of operating systems, in continued development since 1999. It was designed primarily for the assembly of x86 instructions and it supports x86 and x86-64 instructions sets with extensions like MMX, 3DNow!, SSE up to SSE4, AVX, AVX2, XOP, and AVX-512. It can produce output in plain binary, MZ, PE, COFF or ELF format. It includes a powerful but simple macroinstruction system and does multiple passes to optimize the size of instruction codes. The flat assembler is self-hosting and complete source code is included.
+
+The only difference between flat assembler versions included in the following packages is the operating system on which they can be run. For any given source text each version is going to generate exactly the same output file, therefore every one of the following releases can be used to compile programs for any operating system.
+
+ 
+	The flat assembler is made by a single person - Tomasz Grysztar - as a hobby project. Although it is an open-source freeware, donations are appreciated to help cover cost and time-loss. It is a great help in maintaining this project. If you would like to make a donation to the author, please click the button beside.
+flat assembler 1.73.35 for Windows
+size: 1038 kilobytes
+last update: 24 Feb 2026 12:13:17 UTC	Apart from the command line version for Windows console this package contains the one with integrated syntax-highlighting editor, so you can edit, compile and execute your programs from one place. It also contains the set of includes with equates and macroinstructions for Windows programming and some examples of Windows programs created with help of them. The provided documentation is in PDF format.
+flat assembler 1.73.35 for Linux
+size: 345 kilobytes
+last update: 24 Feb 2026 12:13:26 UTC	This is a version for the Linux systems running on x86 or x64 compatible processors. Includes the documentation in pure ASCII format and some examples of Linux programs.
+flat assembler 1.73.35 for DOS
+size: 450 kilobytes
+last update: 24 Feb 2026 12:13:17 UTC	This version can be executed from command line of any operating system compatible with DOS and contains few tiny examples of DOS programs. It also contains the documentation in text format using DOS character set. If you want to use flat assembler from the command line of Windows system, you should use the Windows console version instead of this one.
+flat assembler 1.73.35 for Unix/libc
+size: 277 kilobytes
+last update: 24 Feb 2026 12:13:27 UTC	This is version for all platforms that have support for the ELF object format and the C library, like OpenBSD or Zeta. The object file provided in this package can be linked with the 32-bit C library to create the final executable for any such system. The documentation in pure ASCII format is included.
+
+flat assembler 2 is now available as a set of scripts and headers based on flat assembler g. Except for the macroinstruction syntax, it is largely compatible with flat assembler 1, while adding several new features. See the dedicated thread for more information.
+
+flat assembler 2
+size: 568 kilobytes
+last update: 22 Apr 2026 18:21:00 UTC	This package (in continuous development) contains fasmg executables for Windows and 64-bit Linux, with fasm2 shell scripts for both systems. It also includes a version with integrated editor for Windows, automatically configured to use fasm2 headers.
+
+flat assembler g (abbreviated to fasmg) is a new assembly engine designed as a successor of the one used by flat assembler 1. Instead of having a built-in support for x86 instructions, it implements them through additional packages and in the same way it can be adapted to assemble for different architectures and purposes. With the included example packages it is capable of generating all the output formats that flat assembler 1 could and additional ones, like Mach-O or Intel HEX.
+
+flat assembler g l5p0
+size: 538 kilobytes
+last update: 22 Apr 2026 18:12:26 UTC	This release contains executables for Linux, Windows and MacOS. It is packaged with examples of macroinstructions that allow assembly of simple programs for the architectures like x86, x64, 8052, AVR, or Java Virtual Machine. More examples and instructions set definitions for other architectures can be found in the further sections of this website.
+
+The following are third-party products based on flat assembler, available to download from their respective websites.
+
+FASMARM
+	A cross-assembler for ARM architectures based on flat assembler 1, available in versions for Windows and Linux.
+
+Main index Download Documentation Examples Message board
+
+Copyright © 1999-2026, Tomasz Grysztar. Also on GitHub, YouTube.
+
+Website powered by rwasa.

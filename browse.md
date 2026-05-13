@@ -6,3 +6,4 @@
 - [flatassembler.net_docs.php (20260513_015203)](pages/flatassembler.net/flatassembler.net_docs.php/20260513_015203/index.md) — 1 offline assets, 2 network requests
 - [flatassembler.net_docs.php_article_fasmg (20260513_020003)](pages/flatassembler.net/flatassembler.net_docs.php_article_fasmg/20260513_020003/index.md) — 1 offline assets, 2 network requests
 - [flatassembler.net_docs.php_article_fasmg_manual (20260513_020219)](pages/flatassembler.net/flatassembler.net_docs.php_article_fasmg_manual/20260513_020219/index.md) — 1 offline assets, 2 network requests
+- [flatassembler.net_download.php (20260513_020913)](pages/flatassembler.net/flatassembler.net_download.php/20260513_020913/index.md) — 3 offline assets, 6 network requests

@@ -1,0 +1,198 @@
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+  <meta charset="utf-8">
+  <title>flat assembler</title>
+  <meta name="twitter:card" content="summary">
+  <meta property="og:title" content="flat assembler">
+  <meta property="og:image" content="http://flatassembler.net/images/flatassembler.gif">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="alternate" type="application/atom+xml" title="flat assembler" href="http://flatassembler.net/atom.php">
+  <link rel="stylesheet" href="fasm.css" type="text/css">
+  <style>
+    body { background-color: #A8D4A8; }
+  </style>
+</head>
+
+<body>
+
+  <p class="mediumtext">
+    <span class="maintitle">flat assembler</span><br>Open source assembly language compiler.
+  </p>
+
+  <div class="container">
+    <p class="largetext">
+The flat assembler (abbreviated to fasm, intentionally stylized with lowercase letters) is a fast assembler running in a variety of operating systems, in continued development since 1999.
+It was designed primarily for the assembly of x86 instructions and it supports x86 and x86-64 instructions sets with extensions like MMX, 3DNow!, SSE up to SSE4, AVX, AVX2, XOP, and AVX-512. It can produce output in plain binary, MZ, PE, COFF or ELF format.
+It includes a powerful but simple macroinstruction system and does <a href="https://board.flatassembler.net/topic.php?t=20249">multiple passes</a> to optimize the size of instruction codes.
+The flat assembler is self-hosting and complete source code is included.
+</p>
+
+<p class="largetext">
+The only difference between flat assembler versions included in the following packages is the operating system on which they can be run.
+For any given source text each version is going to generate exactly the same output file, therefore every one of the following releases can be used to compile programs for any operating system.
+</p>
+
+<div class="links">
+<table style="width: 90%;">
+
+  <colgroup>
+    <col style="width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="2VQMJQNVTWD58" style="">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+    </td>
+    <td>
+The flat assembler is made by a single person - Tomasz Grysztar - as a hobby project. Although it is an open-source freeware, donations are appreciated to help cover cost and time-loss.
+It is a great help in maintaining this project.
+If you would like to make a donation to the author, please click the button beside.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class="boldlink" href="fasmw17335.zip">flat assembler 1.73.35 for Windows</a><br>
+      <span class="smalltext">size: 1038 kilobytes</span><br>
+      <span class="smalltext">last update: 24 Feb 2026 12:13:17 UTC</span>
+    </td>
+    <td>Apart from the command line version for Windows console this package contains the one with integrated syntax-highlighting editor,
+so you can edit, compile and execute your programs from one place. It also contains the set of includes
+with equates and macroinstructions for Windows programming and some examples of Windows programs created with
+help of them. The provided documentation is in PDF format.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class="boldlink" href="fasm-1.73.35.tgz">flat assembler 1.73.35 for Linux</a><br>
+      <span class="smalltext">size: 345 kilobytes</span><br>
+      <span class="smalltext">last update: 24 Feb 2026 12:13:26 UTC</span>
+    </td>
+    <td>This is a version for the Linux systems running on x86 or x64 compatible processors.
+Includes the documentation in pure ASCII format and some examples of Linux programs.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class="boldlink" href="fasm17335.zip">flat assembler 1.73.35 for DOS</a><br>
+      <span class="smalltext">size: 450 kilobytes</span><br>
+      <span class="smalltext">last update: 24 Feb 2026 12:13:17 UTC</span>
+    </td>
+    <td>This version can be executed from command line of any operating system compatible with DOS and contains
+few tiny examples of DOS programs. It also contains the documentation in text format using DOS character set.
+If you want to use flat assembler from the command line of Windows system, you should use the Windows console version instead of this one.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class="boldlink" href="fasm-1.73.35.tar.gz">flat assembler 1.73.35 for Unix/libc</a><br>
+      <span class="smalltext">size: 277 kilobytes</span><br>
+      <span class="smalltext">last update: 24 Feb 2026 12:13:27 UTC</span>
+    </td>
+    <td>This is version for all platforms that have support for the ELF object format and the C library, like OpenBSD or Zeta.
+The object file provided in this package can be linked with the 32-bit C library to create the final executable
+for any such system. The documentation in pure ASCII format is included.</td>
+  </tr>
+
+</tbody></table>
+</div>
+
+<p class="largetext">
+flat assembler 2 is now available as a set of scripts and headers based on flat assembler g. Except for the macroinstruction syntax, it is largely compatible with flat assembler 1, while adding several new features.
+See the <a href="https://board.flatassembler.net/topic.php?t=22855">dedicated thread</a> for more information.
+</p>
+
+
+<div class="links">
+<table style="width: 90%;">
+
+  <colgroup>
+    <col style="width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class="boldlink" href="fasm2.zip">flat assembler 2 </a><br>
+      <span class="smalltext">size: 568 kilobytes</span><br>
+      <span class="smalltext">last update: 22 Apr 2026 18:21:00 UTC</span>
+    </td>
+    <td>This package (in continuous development) contains fasmg executables for Windows and 64-bit Linux, with fasm2 shell scripts for both systems. It also includes a version with integrated editor for Windows, automatically configured to use fasm2 headers.</td>
+  </tr>
+
+</tbody></table>
+</div>
+
+<p class="largetext">
+flat assembler g (abbreviated to fasmg) is a new assembly engine designed as a successor of the one used by flat assembler 1.
+Instead of having a built-in support for x86 instructions, it implements them through additional packages and in the same way it can be adapted to assemble for <a href="https://board.flatassembler.net/topic.php?t=19389">different architectures and purposes</a>.
+With the included example packages it is capable of generating all the output formats that flat assembler 1 could and additional ones, like Mach-O or Intel HEX.
+</p>
+
+<div class="links">
+<table style="width: 90%;">
+
+  <colgroup>
+    <col style="width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class="boldlink" href="fasmg.l5p0.zip">flat assembler g l5p0</a><br>
+      <span class="smalltext">size: 538 kilobytes</span><br>
+      <span class="smalltext">last update: 22 Apr 2026 18:12:26 UTC</span>
+    </td>
+    <td>This release contains executables for Linux, Windows and MacOS. It is packaged with examples of macroinstructions that allow assembly of simple programs for the architectures like x86, x64, 8052, AVR, or Java Virtual Machine. More examples and instructions set definitions for other architectures can be found in the further sections of this website.</td>
+  </tr>
+
+</tbody></table>
+</div>
+
+<p class="largetext">
+The following are third-party products based on flat assembler, available to download from their respective websites.
+</p>
+
+<div class="links">
+<table style="width: 90%;">
+
+  <colgroup>
+    <col style="width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class="boldlink" href="http://arm.flatassembler.net" target="_blank">FASMARM</a><br>
+    </td>
+    <td>A cross-assembler for ARM architectures based on flat assembler 1, available in versions for Windows and Linux.</td>
+  </tr>
+
+</tbody></table>
+</div>
+  </div>
+
+  <p class="navigation">
+    <a class="boldlink" href="index.php">Main&nbsp;index</a>
+    <a class="boldlink" href="download.php">Download</a>
+    <a class="boldlink" href="docs.php">Documentation</a>
+    <a class="boldlink" href="examples.php">Examples</a>
+    <a class="boldlink" href="http://board.flatassembler.net/">Message&nbsp;board</a>
+  </p>
+
+  <p>
+     Copyright © 1999-2026, <a href="mailto:tgrysztar@flatassembler.net">Tomasz Grysztar</a>. Also on <a href="https://github.com/tgrysztar">GitHub</a>, <a href="http://www.youtube.com/c/flatassembler">YouTube</a>.
+  </p>
+
+  <p>
+     Website powered by <a href="https://2ton.com.au/rwasa/" title="rwasa web server">rwasa</a>.
+  </p>
+
+
+
+
+</body></html>

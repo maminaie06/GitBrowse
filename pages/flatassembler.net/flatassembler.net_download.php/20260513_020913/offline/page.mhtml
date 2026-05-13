@@ -1,0 +1,432 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://flatassembler.net/download.php
+Subject: flat assembler
+Date: Wed, 13 May 2026 02:09:30 +0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--HDmBmnEfmCCDyba2kvcGGVo2Fny0U0buQsAygI0TfU----"
+
+
+------MultipartBoundary--HDmBmnEfmCCDyba2kvcGGVo2Fny0U0buQsAygI0TfU----
+Content-Type: text/html
+Content-ID: <frame-C4412AA77C2F0898F9FD323DC6A0F1F2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://flatassembler.net/download.php
+
+<!DOCTYPE html><html dir=3D"ltr" lang=3D"en"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"cid:css-deb1e26d-be1f-47a6-a94c-066b169e22a9@mhtml=
+.blink" />
+ =20
+  <title>flat assembler</title>
+  <meta name=3D"twitter:card" content=3D"summary">
+  <meta property=3D"og:title" content=3D"flat assembler">
+  <meta property=3D"og:image" content=3D"http://flatassembler.net/images/fl=
+atassembler.gif">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">
+  <link rel=3D"alternate" type=3D"application/atom+xml" title=3D"flat assem=
+bler" href=3D"http://flatassembler.net/atom.php">
+  <link rel=3D"stylesheet" href=3D"https://flatassembler.net/fasm.css" type=
+=3D"text/css">
+ =20
+</head>
+
+<body>
+
+  <p class=3D"mediumtext">
+    <span class=3D"maintitle">flat assembler</span><br>Open source assembly=
+ language compiler.
+  </p>
+
+  <div class=3D"container">
+    <p class=3D"largetext">
+The flat assembler (abbreviated to fasm, intentionally stylized with lowerc=
+ase letters) is a fast assembler running in a variety of operating systems,=
+ in continued development since 1999.
+It was designed primarily for the assembly of x86 instructions and it suppo=
+rts x86 and x86-64 instructions sets with extensions like MMX, 3DNow!, SSE =
+up to SSE4, AVX, AVX2, XOP, and AVX-512. It can produce output in plain bin=
+ary, MZ, PE, COFF or ELF format.
+It includes a powerful but simple macroinstruction system and does <a href=
+=3D"https://board.flatassembler.net/topic.php?t=3D20249">multiple passes</a=
+> to optimize the size of instruction codes.
+The flat assembler is self-hosting and complete source code is included.
+</p>
+
+<p class=3D"largetext">
+The only difference between flat assembler versions included in the followi=
+ng packages is the operating system on which they can be run.
+For any given source text each version is going to generate exactly the sam=
+e output file, therefore every one of the following releases can be used to=
+ compile programs for any operating system.
+</p>
+
+<div class=3D"links">
+<table style=3D"width: 90%;">
+
+  <colgroup>
+    <col style=3D"width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+<form action=3D"https://www.paypal.com/donate" method=3D"post" target=3D"_t=
+op">
+
+<input type=3D"image" src=3D"https://www.paypal.com/en_US/i/btn/btn_donate_=
+LG.gif" border=3D"0" name=3D"submit" title=3D"PayPal - The safer, easier wa=
+y to pay online!" alt=3D"Donate with PayPal button" style=3D"">
+<img alt=3D"" border=3D"0" src=3D"https://www.paypal.com/en_US/i/scr/pixel.=
+gif" width=3D"1" height=3D"1">
+</form>
+    </td>
+    <td>
+The flat assembler is made by a single person - Tomasz Grysztar - as a hobb=
+y project. Although it is an open-source freeware, donations are appreciate=
+d to help cover cost and time-loss.
+It is a great help in maintaining this project.
+If you would like to make a donation to the author, please click the button=
+ beside.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/fasmw17335.zi=
+p">flat assembler 1.73.35 for Windows</a><br>
+      <span class=3D"smalltext">size: 1038 kilobytes</span><br>
+      <span class=3D"smalltext">last update: 24 Feb 2026 12:13:17 UTC</span=
+>
+    </td>
+    <td>Apart from the command line version for Windows console this packag=
+e contains the one with integrated syntax-highlighting editor,
+so you can edit, compile and execute your programs from one place. It also =
+contains the set of includes
+with equates and macroinstructions for Windows programming and some example=
+s of Windows programs created with
+help of them. The provided documentation is in PDF format.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/fasm-1.73.35.=
+tgz">flat assembler 1.73.35 for Linux</a><br>
+      <span class=3D"smalltext">size: 345 kilobytes</span><br>
+      <span class=3D"smalltext">last update: 24 Feb 2026 12:13:26 UTC</span=
+>
+    </td>
+    <td>This is a version for the Linux systems running on x86 or x64 compa=
+tible processors.
+Includes the documentation in pure ASCII format and some examples of Linux =
+programs.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/fasm17335.zip=
+">flat assembler 1.73.35 for DOS</a><br>
+      <span class=3D"smalltext">size: 450 kilobytes</span><br>
+      <span class=3D"smalltext">last update: 24 Feb 2026 12:13:17 UTC</span=
+>
+    </td>
+    <td>This version can be executed from command line of any operating sys=
+tem compatible with DOS and contains
+few tiny examples of DOS programs. It also contains the documentation in te=
+xt format using DOS character set.
+If you want to use flat assembler from the command line of Windows system, =
+you should use the Windows console version instead of this one.</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/fasm-1.73.35.=
+tar.gz">flat assembler 1.73.35 for Unix/libc</a><br>
+      <span class=3D"smalltext">size: 277 kilobytes</span><br>
+      <span class=3D"smalltext">last update: 24 Feb 2026 12:13:27 UTC</span=
+>
+    </td>
+    <td>This is version for all platforms that have support for the ELF obj=
+ect format and the C library, like OpenBSD or Zeta.
+The object file provided in this package can be linked with the 32-bit C li=
+brary to create the final executable
+for any such system. The documentation in pure ASCII format is included.</t=
+d>
+  </tr>
+
+</tbody></table>
+</div>
+
+<p class=3D"largetext">
+flat assembler 2 is now available as a set of scripts and headers based on =
+flat assembler g. Except for the macroinstruction syntax, it is largely com=
+patible with flat assembler 1, while adding several new features.
+See the <a href=3D"https://board.flatassembler.net/topic.php?t=3D22855">ded=
+icated thread</a> for more information.
+</p>
+
+
+<div class=3D"links">
+<table style=3D"width: 90%;">
+
+  <colgroup>
+    <col style=3D"width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/fasm2.zip">fl=
+at assembler 2 </a><br>
+      <span class=3D"smalltext">size: 568 kilobytes</span><br>
+      <span class=3D"smalltext">last update: 22 Apr 2026 18:21:00 UTC</span=
+>
+    </td>
+    <td>This package (in continuous development) contains fasmg executables=
+ for Windows and 64-bit Linux, with fasm2 shell scripts for both systems. I=
+t also includes a version with integrated editor for Windows, automatically=
+ configured to use fasm2 headers.</td>
+  </tr>
+
+</tbody></table>
+</div>
+
+<p class=3D"largetext">
+flat assembler g (abbreviated to fasmg) is a new assembly engine designed a=
+s a successor of the one used by flat assembler 1.
+Instead of having a built-in support for x86 instructions, it implements th=
+em through additional packages and in the same way it can be adapted to ass=
+emble for <a href=3D"https://board.flatassembler.net/topic.php?t=3D19389">d=
+ifferent architectures and purposes</a>.
+With the included example packages it is capable of generating all the outp=
+ut formats that flat assembler 1 could and additional ones, like Mach-O or =
+Intel HEX.
+</p>
+
+<div class=3D"links">
+<table style=3D"width: 90%;">
+
+  <colgroup>
+    <col style=3D"width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/fasmg.l5p0.zi=
+p">flat assembler g l5p0</a><br>
+      <span class=3D"smalltext">size: 538 kilobytes</span><br>
+      <span class=3D"smalltext">last update: 22 Apr 2026 18:12:26 UTC</span=
+>
+    </td>
+    <td>This release contains executables for Linux, Windows and MacOS. It =
+is packaged with examples of macroinstructions that allow assembly of simpl=
+e programs for the architectures like x86, x64, 8052, AVR, or Java Virtual =
+Machine. More examples and instructions set definitions for other architect=
+ures can be found in the further sections of this website.</td>
+  </tr>
+
+</tbody></table>
+</div>
+
+<p class=3D"largetext">
+The following are third-party products based on flat assembler, available t=
+o download from their respective websites.
+</p>
+
+<div class=3D"links">
+<table style=3D"width: 90%;">
+
+  <colgroup>
+    <col style=3D"width: 40%; max-width: 275px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class=3D"boldlink" href=3D"http://arm.flatassembler.net/" target=
+=3D"_blank">FASMARM</a><br>
+    </td>
+    <td>A cross-assembler for ARM architectures based on flat assembler 1, =
+available in versions for Windows and Linux.</td>
+  </tr>
+
+</tbody></table>
+</div>
+  </div>
+
+  <p class=3D"navigation">
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/index.php">Main=
+&nbsp;index</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/download.php">D=
+ownload</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php">Docum=
+entation</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/examples.php">E=
+xamples</a>
+    <a class=3D"boldlink" href=3D"http://board.flatassembler.net/">Message&=
+nbsp;board</a>
+  </p>
+
+  <p>
+     Copyright =C2=A9 1999-2026, <a href=3D"mailto:tgrysztar@flatassembler.=
+net">Tomasz Grysztar</a>. Also on <a href=3D"https://github.com/tgrysztar">=
+GitHub</a>, <a href=3D"http://www.youtube.com/c/flatassembler">YouTube</a>.
+  </p>
+
+  <p>
+     Website powered by <a href=3D"https://2ton.com.au/rwasa/" title=3D"rwa=
+sa web server">rwasa</a>.
+  </p>
+
+
+
+
+</body></html>
+------MultipartBoundary--HDmBmnEfmCCDyba2kvcGGVo2Fny0U0buQsAygI0TfU----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.paypal.com/en_US/i/scr/pixel.gif
+
+R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------MultipartBoundary--HDmBmnEfmCCDyba2kvcGGVo2Fny0U0buQsAygI0TfU----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif
+
+R0lGODlhXAAaAPfbANmmMNqnMP7DOf7EOVpFFP7DOIpqHuWwM3ZaGv/DOYNkHRQPBPW8NtqnMQQD
+AIRlHXVZGuqzNEMzDv/KTuSvMmVNFv3COPG5NT4vDSogCRwVBgMCAAEAAMqbLQoHAuq0NP/PXph0
+If/RZV1HFPrAOP/OW//Zfv/Yffm+N/W8N5RxIXFWGeeyM9ypMSEZB35gHPrGUP/GPXldG41sH/vI
+S//HRP/HRe22NAsIAv/JTPvAOP/KTffAQffBQf7COfK6NhsUBvzMVvK5N2tSF/i+N4tqH+KtMt+s
+MQYEAey1NfC4NfzEQko4EP/FPKN9JFlEE+CrMiYdCGhPFwUDASshCUExDg0JAkU1DzMnCzgrDBEN
+A/vITuu1NBAMAwcFAfzKUT8wDv7Tav/KTPXCSv/WduWxMvrAN+u0NOiyNOWxM/TGWhINBPzBOGFK
+Ff/VcyIaB//bhjUoCzosDPzMW92pMfK/Ri4jCt2rMl5IFV9JFU07EaiBJZFvINCfLnxfGxcRBSge
+CN2pMLOJKJ96I+63NraLKOawMyUcCOy2NfK5NeKvMmlQF9uoMks5EC8kCvnJVjQnC7mOKfK/RfW7
+NuGsMiAYB+CsMf3FQUIyDi0iCuq0NeGtMhUQBNynMOKtMfC5PP7IS4FjHE88Eeq0Nq2EJvm/Nywh
+CbuPKTImCxYQBN2qMvvLWu63NWxTGCkfCWdPF3dbGv7JTfS7NvjIVe21NZNwIPG5PBMOBEY1D/W+
+Pv7OXW9VGM6eLtimMN+qMW5UGPO6NvrHS2RMFuGuM9uoMPnHSkAxDvW/PjElClVBE3RZGd6qMf7N
+XP7FQjkrDB4XBhgSBdakLw4KA9elMA8LA9ypMDYpDMaYLP/cigAAAP/EOQAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAANsALAAAAABcABoA
+QAj/ALcJHDgQhJgaMQQI0LZQ2wCHDx8yZChgQEWLFitedKhNWwGPBQSEXNiwo0mTHwsUGLASo8IY
+NcSAIEhzW66TOHPiJJAtmwM7i27oHEoUp6wIDIoqHXpMoJClQ3ka0GZmRDZIBYxw8AJM255sWbQd
+yLag44NsELS9yCZDW6RsEjrKyKbM5IxsTKAWFVJToCpfmlKQ8KG3sOHDJ32QmBRhWaC+A4utKoG4
+suXLHUvMCTaQUALLUk1ay0ZKbbYpmXzyEtsTB7Ke0bT1yXYozoZs17QZeJMtCpNd2kpFyQbmWbap
+iBMgEujpA+bn0At/UNQ3yJIwJ0RMsNEkuvfCTWxM/xBxIsySIH155PjOvn0OHgIl6QB9XJshDNka
+sUeQTUF7HXUkwQZ9yGlTSTZOnJINFh1Rkk0XrJWlzVlpaXOBCnlgAVdH/PnXkTDZVPHEEzhYURkb
+SWyTRlKI8eRTBm0cYBIDUniRTSpOdDSWhBRqowQYHFCzQjaOdEQEAR5wYEpHxFxxGzShIJZCGjRB
+gUZJ7WVpmABoQAHZQLE0o4sbJsCBzZlopqnmmmy26eabcMJhghvMXALKlwLR8AUZE2jpJ1QTkPEF
+DTU9AsMOfyZa2A4wzDLQGFsoKmlhW4yxjRo90LcGED1p0Mt+/bXXgxqfWEBgRxQ4kM00HtVChTTG
+dP/QUQQZOFMEIFqs0NEFCLjigQsKfITALdlwkkEysxLwxxt+fISYBbZw8VlloXWkRzYznIHEBgFo
+U0Q2uLDWRVKh3QBAR3xk8wuHoXYUQjatWOgAFZUlwMUoKJyqDR09dSBINhh0dEY2HhSwo1loaWOE
+BlNIIMqG2nRoEh7ZXFHBxUNUhsIH27BAnwtZWJGNFrJq00Y2QIyARDaFRIhwWiqEGIIc2WDS0SDZ
+rPFKwD9okA0qsAwhRWUsDFQGlt6ZQUFhEZiaEwNK4ETE0ogJUAZNm7Ay6dY60TIMZEdYksi0XP+Z
+wA9H3IEnTZ200EAAAbzdQAMA0A1AAHfjjffdefMaDcDff+utd+B5ww2334L7DTjfcDPSQjV4BgQA
+Ow==
+
+------MultipartBoundary--HDmBmnEfmCCDyba2kvcGGVo2Fny0U0buQsAygI0TfU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://flatassembler.net/fasm.css
+
+@charset "utf-8";
+
+html { overflow: auto; scrollbar-gutter: stable; }
+
+body { width: 800px; margin-left: auto; margin-right: auto; font-family: Ve=
+rdana, Helvetica, sans-serif; font-size: 10px; color: rgb(0, 0, 32); text-a=
+lign: center; }
+
+p, pre, h1, h2, h3, h4, h5 { padding: 5px; margin: 0px; }
+
+.tinytext, .smalltext, .mediumtext, .largetext { font-family: Verdana, Helv=
+etica, sans-serif; color: rgb(0, 0, 32); }
+
+.tinytext { font-size: 10px; }
+
+.smalltext { font-size: 11px; }
+
+.mediumtext { font-size: 12px; }
+
+.largetext { font-size: 13px; }
+
+pre, code, .smallcode, .mediumcode, .largecode { font-family: "Courier New"=
+, Courier, monospace; color: rgb(0, 0, 112); overflow-x: auto; }
+
+.smallcode, pre.smalltext, .smalltext pre, .smalltext code { font-size: 11p=
+x; }
+
+.mediumcode, pre.mediumtext, .mediumtext pre, .mediumtext code { font-size:=
+ 12px; }
+
+.largecode, pre.largetext, .largetext pre, .largetext code { font-size: 13p=
+x; }
+
+.announcement { font-size: 12px; color: rgb(226, 62, 62); }
+
+a, a:link, a:active, a:visited { color: rgb(0, 0, 32); font-family: Verdana=
+, Helvetica, sans-serif; }
+
+a:hover { text-decoration: underline; color: rgb(226, 62, 62); font-family:=
+ Verdana, Helvetica, sans-serif; }
+
+a.boldlink, a.boldlink:link, a.boldlink:visited, a.boldlink:active { font-w=
+eight: bold; text-decoration: none; color: rgb(0, 0, 32); font-family: Verd=
+ana, Helvetica, sans-serif; }
+
+a.boldlink:hover { font-weight: bold; text-decoration: underline; color: rg=
+b(226, 62, 62); font-family: Verdana, Helvetica, sans-serif; }
+
+.maintitle, h1, h2 { font-weight: bold; font-size: 22px; font-family: "Treb=
+uchet MS", Verdana, Helvetica, sans-serif; text-decoration: none; line-heig=
+ht: 120%; color: rgb(0, 0, 0); }
+
+.navigation a { padding-left: 4px; padding-right: 4px; }
+
+.container { width: 760px; margin-left: auto; margin-right: auto; backgroun=
+d-color: rgb(248, 248, 248); border: 1px solid black; padding: 12px; text-a=
+lign: left; }
+
+.links { text-align: center; }
+
+.links table { width: 85%; margin-left: auto; margin-right: auto; }
+
+.links td { text-align: left; font-family: Verdana, Helvetica, sans-serif; =
+font-size: 11px; padding: 8px; }
+
+.doctable { width: 100%; border-collapse: collapse; margin-left: 6px; margi=
+n-bottom: 6px; border: 1px solid black; }
+
+.doctable td, .doctable th { background-color: white; border: 1px solid bla=
+ck; padding: 1px; }
+
+.intable { border-width: medium; border-style: none; border-color: currentc=
+olor; border-image: initial; margin: 0px; width: 100%; }
+
+.intable td { background-color: white; border-width: medium; border-style: =
+none; border-color: currentcolor; border-image: initial; padding: 0px; }
+
+input, textarea, select { font-family: Verdana, Helvetica, sans-serif; font=
+-size: 10px; }
+
+.bginput, .bgbutton, textarea, select { color: rgb(0, 0, 0); background-col=
+or: rgb(222, 222, 222); text-indent: 2px; }
+
+@media only screen and (max-width: 800px) {
+  body { width: 100%; }
+  .container { width: 80%; min-width: 240px; }
+}
+
+@view-transition { navigation: auto; }
+------MultipartBoundary--HDmBmnEfmCCDyba2kvcGGVo2Fny0U0buQsAygI0TfU----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-deb1e26d-be1f-47a6-a94c-066b169e22a9@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: rgb(168, 212, 168); }
+------MultipartBoundary--HDmBmnEfmCCDyba2kvcGGVo2Fny0U0buQsAygI0TfU------

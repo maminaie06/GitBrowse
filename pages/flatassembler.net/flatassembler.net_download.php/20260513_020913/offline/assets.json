@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://flatassembler.net/fasm.css",
+    "final_url": "https://flatassembler.net/fasm.css",
+    "status": "saved",
+    "path": "assets/716ffae8a4ebf231_fasm.css",
+    "content_type": "text/css",
+    "size": 3389,
+    "sha256": "7553861b0b8db2ec19203d0e6ceec8f1427eaff88fb27e9af3c4f9c33db64ea0"
+  },
+  {
+    "url": "https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif",
+    "final_url": "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif",
+    "status": "saved",
+    "path": "assets/d94bbce5627604a4_btn_donate_LG.gif",
+    "content_type": "image/gif",
+    "size": 1582,
+    "sha256": "4a289c9f71fb1bb1e08de0f61000167d7824e87ad441c0a0dd8a9c68d0346252"
+  },
+  {
+    "url": "https://www.paypal.com/en_US/i/scr/pixel.gif",
+    "final_url": "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+    "status": "saved",
+    "path": "assets/26ceaf56f1111ccf_pixel.gif",
+    "content_type": "image/gif",
+    "size": 42,
+    "sha256": "0c1ce4dd3afaa97d8627ecebc2e255fe5c1b3c2038f6961a86d10f0381056cc7"
+  }
+]

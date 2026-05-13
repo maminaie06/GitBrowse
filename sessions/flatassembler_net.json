@@ -1,1 +1,1 @@
-{"cookies": [], "origins": []}
+{"cookies": [{"name": "ts_c", "value": "vr%3D1f186cdd19e647e07cde277bfffb83d9%26vt%3D1f186cdd19e647e07cde277bfffb83d8", "domain": ".paypal.com", "path": "/", "expires": 1810174171, "httpOnly": false, "secure": true, "sameSite": "None"}, {"name": "ts", "value": "vreXpYrS%3D1810174171%26vteXpYrS%3D1778639971%26vr%3D1f186cdd19e647e07cde277bfffb83d9%26vt%3D1f186cdd19e647e07cde277bfffb83d8%26vtyp%3Dnew", "domain": ".paypal.com", "path": "/", "expires": 1810174171, "httpOnly": true, "secure": true, "sameSite": "None"}], "origins": []}
