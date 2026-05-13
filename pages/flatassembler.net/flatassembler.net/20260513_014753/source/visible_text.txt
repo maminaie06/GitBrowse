@@ -1,0 +1,19 @@
+flat assembler
+Assembly language resources.
+
+Welcome to the site of the flat assembler! This is a place dedicated to assembly language programming and contains many resources for both beginners and advanced assembly coders.
+
+This site has been slowly growing for more than 20 years already, and hopefully you'll find useful resources here, no matter whether you are learning the assembly language, or just looking for a solution to a particular problem.
+
+The name of flat assembler is intentionally stylized with lowercase letters, this is a nod to its history.
+
+Download	Here you can download the flat assembler - an open source assembly language compiler, packaged for various operating systems.
+Documentation	All the official documentation for flat assembler, and some other official articles about it.
+Examples	Here you can browse and download example projects made with flat assembler, which were shared with full source code by their authors in order to help other people learn from completed projects.
+Message board	A place where you can ask questions about flat assembler after not finding the answers in the documentation, report bugs, or just talk with other assembly language enthusiasts. You can also find several guides and tutorials there.
+
+Main index Download Documentation Examples Message board
+
+Copyright © 1999-2026, Tomasz Grysztar. Also on GitHub, YouTube.
+
+Website powered by rwasa.

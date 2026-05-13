@@ -1,0 +1,251 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://flatassembler.net/
+Subject: flat assembler
+Date: Wed, 13 May 2026 01:48:12 +0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GX6m1OYTG844VGxTwQTt1BXBh1lhNEFQv4hxL4PwN3----"
+
+
+------MultipartBoundary--GX6m1OYTG844VGxTwQTt1BXBh1lhNEFQv4hxL4PwN3----
+Content-Type: text/html
+Content-ID: <frame-9027C6E97CB815636D0AF0A6F7553641@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://flatassembler.net/
+
+<!DOCTYPE html><html dir=3D"ltr" lang=3D"en"><head><meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"cid:css-c440738b-78cf-492d-8c9a-22336234c4b4@mhtml=
+.blink" />
+ =20
+  <title>flat assembler</title>
+  <meta name=3D"twitter:card" content=3D"summary">
+  <meta property=3D"og:title" content=3D"flat assembler">
+  <meta property=3D"og:image" content=3D"http://flatassembler.net/images/fl=
+atassembler.gif">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">
+  <link rel=3D"alternate" type=3D"application/atom+xml" title=3D"flat assem=
+bler" href=3D"http://flatassembler.net/atom.php">
+  <link rel=3D"stylesheet" href=3D"https://flatassembler.net/fasm.css" type=
+=3D"text/css">
+ =20
+</head>
+
+<body>
+
+  <p class=3D"mediumtext">
+    <span class=3D"maintitle">flat assembler</span><br>Assembly language re=
+sources.
+  </p>
+
+  <div class=3D"container">
+   =20
+<p class=3D"largetext">
+Welcome to the site of the flat assembler! This is a place dedicated to ass=
+embly language programming and contains many resources for both beginners a=
+nd advanced assembly coders.
+</p>
+<p class=3D"largetext">
+This site has been slowly growing for more than 20 years already, and hopef=
+ully you'll find useful resources here, no matter whether you are learning =
+the assembly language, or just looking for a solution to a particular probl=
+em.
+</p>
+<p class=3D"largetext">
+The name of flat assembler is intentionally stylized with lowercase letters=
+, this is a nod to its history.
+</p>
+
+
+<div class=3D"links">
+<table style=3D"width: 70%;">
+
+  <colgroup>
+    <col style=3D"width: 30%; max-width: 200px;">
+    <col>
+  </colgroup>
+
+  <tbody><tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/download.php"=
+>Download</a>
+    </td>
+    <td>
+      Here you can download the flat assembler - an open source assembly la=
+nguage compiler, packaged for various operating systems.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php">Doc=
+umentation</a>
+    </td>
+    <td>
+      All the official documentation for flat assembler, and some other off=
+icial articles about it.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"https://flatassembler.net/examples.php"=
+>Examples</a>
+    </td>
+    <td>
+      Here you can browse and download example projects made with flat asse=
+mbler, which were shared with full source code by their authors in order to=
+ help other people learn from completed projects.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a class=3D"boldlink" href=3D"http://board.flatassembler.net/">Messag=
+e board</a>
+    </td>
+    <td>
+      A place where you can ask questions about flat assembler after not fi=
+nding the answers in the documentation, report bugs, or just talk with othe=
+r assembly language enthusiasts. You can also find several guides and tutor=
+ials there.
+    </td>
+  </tr>
+
+</tbody></table>
+</div>
+  </div>
+
+  <p class=3D"navigation">
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/index.php">Main=
+&nbsp;index</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/download.php">D=
+ownload</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/docs.php">Docum=
+entation</a>
+    <a class=3D"boldlink" href=3D"https://flatassembler.net/examples.php">E=
+xamples</a>
+    <a class=3D"boldlink" href=3D"http://board.flatassembler.net/">Message&=
+nbsp;board</a>
+  </p>
+
+  <p>
+     Copyright =C2=A9 1999-2026, <a href=3D"mailto:tgrysztar@flatassembler.=
+net">Tomasz Grysztar</a>. Also on <a href=3D"https://github.com/tgrysztar">=
+GitHub</a>, <a href=3D"http://www.youtube.com/c/flatassembler">YouTube</a>.
+  </p>
+
+  <p>
+     Website powered by <a href=3D"https://2ton.com.au/rwasa/" title=3D"rwa=
+sa web server">rwasa</a>.
+  </p>
+
+
+
+
+</body></html>
+------MultipartBoundary--GX6m1OYTG844VGxTwQTt1BXBh1lhNEFQv4hxL4PwN3----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://flatassembler.net/fasm.css
+
+@charset "utf-8";
+
+html { overflow: auto; scrollbar-gutter: stable; }
+
+body { width: 800px; margin-left: auto; margin-right: auto; font-family: Ve=
+rdana, Helvetica, sans-serif; font-size: 10px; color: rgb(0, 0, 32); text-a=
+lign: center; }
+
+p, pre, h1, h2, h3, h4, h5 { padding: 5px; margin: 0px; }
+
+.tinytext, .smalltext, .mediumtext, .largetext { font-family: Verdana, Helv=
+etica, sans-serif; color: rgb(0, 0, 32); }
+
+.tinytext { font-size: 10px; }
+
+.smalltext { font-size: 11px; }
+
+.mediumtext { font-size: 12px; }
+
+.largetext { font-size: 13px; }
+
+pre, code, .smallcode, .mediumcode, .largecode { font-family: "Courier New"=
+, Courier, monospace; color: rgb(0, 0, 112); overflow-x: auto; }
+
+.smallcode, pre.smalltext, .smalltext pre, .smalltext code { font-size: 11p=
+x; }
+
+.mediumcode, pre.mediumtext, .mediumtext pre, .mediumtext code { font-size:=
+ 12px; }
+
+.largecode, pre.largetext, .largetext pre, .largetext code { font-size: 13p=
+x; }
+
+.announcement { font-size: 12px; color: rgb(226, 62, 62); }
+
+a, a:link, a:active, a:visited { color: rgb(0, 0, 32); font-family: Verdana=
+, Helvetica, sans-serif; }
+
+a:hover { text-decoration: underline; color: rgb(226, 62, 62); font-family:=
+ Verdana, Helvetica, sans-serif; }
+
+a.boldlink, a.boldlink:link, a.boldlink:visited, a.boldlink:active { font-w=
+eight: bold; text-decoration: none; color: rgb(0, 0, 32); font-family: Verd=
+ana, Helvetica, sans-serif; }
+
+a.boldlink:hover { font-weight: bold; text-decoration: underline; color: rg=
+b(226, 62, 62); font-family: Verdana, Helvetica, sans-serif; }
+
+.maintitle, h1, h2 { font-weight: bold; font-size: 22px; font-family: "Treb=
+uchet MS", Verdana, Helvetica, sans-serif; text-decoration: none; line-heig=
+ht: 120%; color: rgb(0, 0, 0); }
+
+.navigation a { padding-left: 4px; padding-right: 4px; }
+
+.container { width: 760px; margin-left: auto; margin-right: auto; backgroun=
+d-color: rgb(248, 248, 248); border: 1px solid black; padding: 12px; text-a=
+lign: left; }
+
+.links { text-align: center; }
+
+.links table { width: 85%; margin-left: auto; margin-right: auto; }
+
+.links td { text-align: left; font-family: Verdana, Helvetica, sans-serif; =
+font-size: 11px; padding: 8px; }
+
+.doctable { width: 100%; border-collapse: collapse; margin-left: 6px; margi=
+n-bottom: 6px; border: 1px solid black; }
+
+.doctable td, .doctable th { background-color: white; border: 1px solid bla=
+ck; padding: 1px; }
+
+.intable { border-width: medium; border-style: none; border-color: currentc=
+olor; border-image: initial; margin: 0px; width: 100%; }
+
+.intable td { background-color: white; border-width: medium; border-style: =
+none; border-color: currentcolor; border-image: initial; padding: 0px; }
+
+input, textarea, select { font-family: Verdana, Helvetica, sans-serif; font=
+-size: 10px; }
+
+.bginput, .bgbutton, textarea, select { color: rgb(0, 0, 0); background-col=
+or: rgb(222, 222, 222); text-indent: 2px; }
+
+@media only screen and (max-width: 800px) {
+  body { width: 100%; }
+  .container { width: 80%; min-width: 240px; }
+}
+
+@view-transition { navigation: auto; }
+------MultipartBoundary--GX6m1OYTG844VGxTwQTt1BXBh1lhNEFQv4hxL4PwN3----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c440738b-78cf-492d-8c9a-22336234c4b4@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: rgb(168, 188, 224); }
+------MultipartBoundary--GX6m1OYTG844VGxTwQTt1BXBh1lhNEFQv4hxL4PwN3------

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "started_ms": 1944,
+    "method": "GET",
+    "url": "https://flatassembler.net/",
+    "resource_type": "document",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://flatassembler.net/",
+      "status": 200,
+      "status_text": "She'll be apples",
+      "headers": {
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "1348",
+        "content-type": "text/html;charset=UTF-8",
+        "date": "Wed, 13 May 2026 01:47:55 GMT",
+        "server": "HeavyThing",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "x-nb": "8d5eea20e7be7f3ff7300375a141e3a2e3df13cfc0",
+        "x-powered-by": "PHP/7.4.33"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2311,
+    "response_body_file": "network/bodies/0001_document.html",
+    "response_body_sha256": "7fb76bc8cdd19ae3afeea64ea2228d35d3257cd14d7d7ee4535665710193950a",
+    "response_body_size": 3387,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 632,
+      "responseBodySize": 1348,
+      "responseHeadersSize": 339
+    },
+    "timing": {
+      "startTime": 1778636875287.101,
+      "domainLookupStart": 0.517,
+      "domainLookupEnd": 132.516,
+      "connectStart": 132.677,
+      "secureConnectionStart": 184.673,
+      "connectEnd": 301.558,
+      "requestStart": 301.751,
+      "responseStart": 360.15,
+      "responseEnd": 362.481
+    }
+  },
+  {
+    "id": 2,
+    "started_ms": 2310,
+    "method": "GET",
+    "url": "https://flatassembler.net/fasm.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://flatassembler.net/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://flatassembler.net/fasm.css",
+      "status": 200,
+      "status_text": "She'll be apples",
+      "headers": {
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "cache-control": "no-transform,public,max-age=300",
+        "content-encoding": "gzip",
+        "etag": "\"lmXm3aRyFFMmMbv7u9CJpNywsO8tA3/tCIBs\"",
+        "connection": "keep-alive",
+        "content-length": "901",
+        "x-nb": "523e7a0d7975bc718d9113e3ba7d55a91c6ade2aacded9d8a3a1aeb22ef1c5f6b5b4b4d06257899e533f753ac759507a",
+        "date": "Wed, 13 May 2026 01:47:55 GMT",
+        "content-type": "text/css",
+        "last-modified": "Thu, 29 May 2025 16:58:46 GMT",
+        "server": "HeavyThing"
+      }
+    },
+    "failure": null,
+    "finished_ms": 2362,
+    "response_body_file": "network/bodies/0002_stylesheet.css",
+    "response_body_sha256": "7553861b0b8db2ec19203d0e6ceec8f1427eaff88fb27e9af3c4f9c33db64ea0",
+    "response_body_size": 3389,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 513,
+      "responseBodySize": 901,
+      "responseHeadersSize": 491
+    },
+    "timing": {
+      "startTime": 1778636875652.149,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.198,
+      "responseStart": 51.759,
+      "responseEnd": 53.533
+    }
+  }
+]
