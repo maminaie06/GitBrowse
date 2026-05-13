@@ -1,0 +1,1154 @@
+[
+  {
+    "url": "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
+    "final_url": "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
+    "status": "saved",
+    "path": "assets/ffb10f7b85980083_5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3d.png",
+    "content_type": "image/png",
+    "size": 1183,
+    "sha256": "a33c77e8a70dcb331c0d1bd0de200c589d79c80356e838dde45f7aa3b40b35e8"
+  },
+  {
+    "url": "https://urish.medium.com/osd.xml",
+    "final_url": "https://urish.medium.com/osd.xml",
+    "status": "saved",
+    "path": "assets/1f6f748cc6dff93a_osd.xml",
+    "content_type": "application/opensearchdescription+xml",
+    "size": 710,
+    "sha256": "4052e19fa88818f44835b2968f71a9039d0b0b3900cc6aa34922dfe49c2c7e90"
+  },
+  {
+    "url": "https://urish.medium.com/manifest.json",
+    "final_url": "https://urish.medium.com/manifest.json",
+    "status": "saved",
+    "path": "assets/a86a93573552dafa_manifest.json",
+    "content_type": "application/json",
+    "size": 483,
+    "sha256": "d42f07629be6fd2b8ec4128ef3343e5fca617bb8f22c28e45045f835e57778c9"
+  },
+  {
+    "url": "https://glyph.medium.com/font/81d2bf1/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/81d2bf1/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-400-italic.woff",
+    "status": "saved",
+    "path": "assets/3cf749d1a4ad9de1_charter-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 10772,
+    "sha256": "dfa730ee6b8958b8eec826a26d21c9f4a1d231fd3c2c95fa349e05cd935c3e19"
+  },
+  {
+    "url": "https://glyph.medium.com/font/81d2bf1/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/81d2bf1/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-italic.woff",
+    "status": "saved",
+    "path": "assets/dfcbd0bb150a5782_charter-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 33032,
+    "sha256": "4956f63822ad087330c0e8366bc12144c6721dc5d74e7f901106042de09e738b"
+  },
+  {
+    "url": "https://glyph.medium.com/font/be78681/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/be78681/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-400-normal.woff",
+    "status": "saved",
+    "path": "assets/8bf7aa50b233a14f_charter-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 15332,
+    "sha256": "a3231d9c5077d6423b7ab05c50dbb1c953d5213c24ac287793b8217985743321"
+  },
+  {
+    "url": "https://glyph.medium.com/font/be78681/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/be78681/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-normal.woff",
+    "status": "saved",
+    "path": "assets/442941236130dfb4_charter-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 19764,
+    "sha256": "30378af3d9c987f12f4a8a716e64851546894135ab12adf6bc8480708e681a50"
+  },
+  {
+    "url": "https://glyph.medium.com/font/77a0c0c/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/77a0c0c/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-italic.woff",
+    "status": "saved",
+    "path": "assets/a1b39f3496e79bb9_charter-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 10944,
+    "sha256": "94b87866f3ec8183e875d5b4d3ef175c8d28855391582d4b6bd090934336e738"
+  },
+  {
+    "url": "https://glyph.medium.com/font/77a0c0c/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/77a0c0c/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-italic.woff",
+    "status": "saved",
+    "path": "assets/c38c556f988febdd_charter-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 33528,
+    "sha256": "30e38628e20933499fdca21e902ab1a966e8bf2049c3fecde559c839d1bf1948"
+  },
+  {
+    "url": "https://glyph.medium.com/font/f50d520/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/f50d520/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-normal.woff",
+    "status": "saved",
+    "path": "assets/4ae040a73b835214_charter-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 9932,
+    "sha256": "9bfd3f28384a4fbd08718cdee51430ef2d0d16c98a2491e79b0d7c739bb0593f"
+  },
+  {
+    "url": "https://glyph.medium.com/font/f50d520/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/f50d520/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-normal.woff",
+    "status": "saved",
+    "path": "assets/6a3df239366f8093_charter-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 19688,
+    "sha256": "49c78d554ca308cf6d25ab483c514560b3c4b433f0b65c50e9ffc0abceebee12"
+  },
+  {
+    "url": "https://glyph.medium.com/font/415369b/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/fell-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/415369b/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/fell-400-italic.woff",
+    "status": "saved",
+    "path": "assets/1cd55d9e66569455_fell-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 15195,
+    "sha256": "1fe5ce9f9bff363619f48cc4daf13caf16156aace8167013d5dc0c655ee5f2c8"
+  },
+  {
+    "url": "https://glyph.medium.com/font/415369b/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/fell-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/415369b/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/fell-400-italic.woff",
+    "status": "saved",
+    "path": "assets/21e7e2955c2bd73d_fell-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 19055,
+    "sha256": "86ab3f86a9f26d11f512020eb4a074b3cc83561131c3bb3c6a564838ac071517"
+  },
+  {
+    "url": "https://glyph.medium.com/font/78ce731/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/fell-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/78ce731/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/fell-400-normal.woff",
+    "status": "saved",
+    "path": "assets/2d63b982d5baf205_fell-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 14731,
+    "sha256": "ebca5ce0d1ad5602bfade3aaf73eb732c7b6a3e0e1bceb239d3ab38997b41d52"
+  },
+  {
+    "url": "https://glyph.medium.com/font/78ce731/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/fell-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/78ce731/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/fell-400-normal.woff",
+    "status": "saved",
+    "path": "assets/5d984d50de26fb8e_fell-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 18919,
+    "sha256": "7f5dc0764fa951798b285e38226bdc1643959d85f4b4e10c9466e969e34d0737"
+  },
+  {
+    "url": "https://glyph.medium.com/font/4a44748/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/gt-super-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/4a44748/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/gt-super-400-normal.woff",
+    "status": "saved",
+    "path": "assets/8b9e57d028f47547_gt-super-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 13196,
+    "sha256": "40c05a07ac09c244b63a1755d524e094c32a18072335fb6cfc7f13da9cfe3eb9"
+  },
+  {
+    "url": "https://glyph.medium.com/font/4a44748/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/gt-super-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/4a44748/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/gt-super-400-normal.woff",
+    "status": "saved",
+    "path": "assets/14f53c11877ab37a_gt-super-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 25240,
+    "sha256": "e4b42e8757804dde6fc7e528b74314c999ac1fecc66d8603ccc38f5148988afd"
+  },
+  {
+    "url": "https://glyph.medium.com/font/b6752aa/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/noe-display-500-normal.woff",
+    "final_url": "https://glyph.medium.com/font/b6752aa/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/noe-display-500-normal.woff",
+    "status": "saved",
+    "path": "assets/0f18f4403d1a01b8_noe-display-500-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 14840,
+    "sha256": "5d9881a3d4a7785389e433d79a1c33d2a0368a675201866dd65e88710e648d50"
+  },
+  {
+    "url": "https://glyph.medium.com/font/b6752aa/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/noe-display-500-normal.woff",
+    "final_url": "https://glyph.medium.com/font/b6752aa/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/noe-display-500-normal.woff",
+    "status": "saved",
+    "path": "assets/8b786c4cc79691b0_noe-display-500-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 23124,
+    "sha256": "fe22aad41ce98831c83005c203bc825668da9355dd5ba9be729e947289c1f941"
+  },
+  {
+    "url": "https://glyph.medium.com/font/1c491fd/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/opendyslexic-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/1c491fd/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/opendyslexic-400-italic.woff",
+    "status": "saved",
+    "path": "assets/c6b01708dd892615_opendyslexic-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 11276,
+    "sha256": "7e4d2f52ee934cc988b4268e9b18b7320a871fb972e7c17cf790c089241743e8"
+  },
+  {
+    "url": "https://glyph.medium.com/font/1c491fd/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/opendyslexic-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/1c491fd/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/opendyslexic-400-italic.woff",
+    "status": "saved",
+    "path": "assets/0b446eb6dfc9c9a9_opendyslexic-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 101480,
+    "sha256": "9e9a1486bb1fed3b6c1a3a372c98048fa47f5a4de2d0b887c8ae7c71e51ccfe2"
+  },
+  {
+    "url": "https://glyph.medium.com/font/0a6190b/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/opendyslexic-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/0a6190b/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/opendyslexic-400-normal.woff",
+    "status": "saved",
+    "path": "assets/4e029ea26d91259f_opendyslexic-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 12904,
+    "sha256": "ba63b42f45ed4f4bd2342377130d6a154de1125adf59041c941e18d26610c732"
+  },
+  {
+    "url": "https://glyph.medium.com/font/0a6190b/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/opendyslexic-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/0a6190b/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/opendyslexic-400-normal.woff",
+    "status": "saved",
+    "path": "assets/c7dfd385dba316ab_opendyslexic-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 97036,
+    "sha256": "194715767cecaad1a91d90941e97c32fe6cbdfa692682fc3a0bc67fd4c0a3b39"
+  },
+  {
+    "url": "https://glyph.medium.com/font/51a79f1/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-300-italic.woff",
+    "final_url": "https://glyph.medium.com/font/51a79f1/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-300-italic.woff",
+    "status": "saved",
+    "path": "assets/b09bc99fe23b5de9_sohne-300-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 19165,
+    "sha256": "a1b7be6ef8cc2f2dfb01b72f8ea68aa5ab6a7bbb838676df69da963e5bee4b37"
+  },
+  {
+    "url": "https://glyph.medium.com/font/51a79f1/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-300-italic.woff",
+    "final_url": "https://glyph.medium.com/font/51a79f1/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-300-italic.woff",
+    "status": "saved",
+    "path": "assets/6240eabf692bc44e_sohne-300-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 27849,
+    "sha256": "359868907734de275f0d094b24cb1d90fe0102dade50b314cfc313c8e1c3d7e8"
+  },
+  {
+    "url": "https://glyph.medium.com/font/6fd11d6/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-300-normal.woff",
+    "final_url": "https://glyph.medium.com/font/6fd11d6/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-300-normal.woff",
+    "status": "saved",
+    "path": "assets/2f6971b06eb452ec_sohne-300-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 12649,
+    "sha256": "212fedb2b5a0948f21cdcf26a3e1c066369eabe0803bde90b55ed052d13fd124"
+  },
+  {
+    "url": "https://glyph.medium.com/font/6fd11d6/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-300-normal.woff",
+    "final_url": "https://glyph.medium.com/font/6fd11d6/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-300-normal.woff",
+    "status": "saved",
+    "path": "assets/ef6a024f72529476_sohne-300-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 18025,
+    "sha256": "01723f8c0b15caabf5310e0cb82ca1df45d32da7c93ccb89bb161ad3b26a7962"
+  },
+  {
+    "url": "https://glyph.medium.com/font/3887986/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/3887986/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-400-italic.woff",
+    "status": "saved",
+    "path": "assets/e28152eed57326e1_sohne-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 13109,
+    "sha256": "96f9f2cb68e207a0d8c219646eb827affeef329b5a5059eb52036a0ceb394497"
+  },
+  {
+    "url": "https://glyph.medium.com/font/3887986/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/3887986/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-400-italic.woff",
+    "status": "saved",
+    "path": "assets/5bedb0d1b4c9bfa4_sohne-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 18353,
+    "sha256": "82f93c8f9b4366424daa6757b118ae45e9feaeae767bbe5ad17b834c21eb49bf"
+  },
+  {
+    "url": "https://glyph.medium.com/font/b492c44/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/b492c44/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-400-normal.woff",
+    "status": "saved",
+    "path": "assets/a404c5bf4e68727e_sohne-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 12773,
+    "sha256": "8f6e7bfd316a160cd611c23c79c3d0cf8fcbfe22e16592f4afffd03eedf45756"
+  },
+  {
+    "url": "https://glyph.medium.com/font/b492c44/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/b492c44/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-400-normal.woff",
+    "status": "saved",
+    "path": "assets/2fb0e93ca0c52371_sohne-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 18049,
+    "sha256": "f3272b23b3153d341155b472f35f887eb89608ded27fa536d709622ef421fa95"
+  },
+  {
+    "url": "https://glyph.medium.com/font/54b52d6/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-500-italic.woff",
+    "final_url": "https://glyph.medium.com/font/54b52d6/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-500-italic.woff",
+    "status": "saved",
+    "path": "assets/c732848088edfbd6_sohne-500-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 12973,
+    "sha256": "f6efea2dc3e7cc49be2244f2dcacfc4606b9d68cc0b363aa998ab86fa8a3506e"
+  },
+  {
+    "url": "https://glyph.medium.com/font/54b52d6/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-500-italic.woff",
+    "final_url": "https://glyph.medium.com/font/54b52d6/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-500-italic.woff",
+    "status": "saved",
+    "path": "assets/b44be08a57c6a67a_sohne-500-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 18113,
+    "sha256": "266c7264dcf29ed821a0baa3dbe5efb36c090ac23945356dd7a146320b77545f"
+  },
+  {
+    "url": "https://glyph.medium.com/font/df9ba7f/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-500-normal.woff",
+    "final_url": "https://glyph.medium.com/font/df9ba7f/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-500-normal.woff",
+    "status": "saved",
+    "path": "assets/15d6c4caf52cc011_sohne-500-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 12637,
+    "sha256": "45bd34ce2bf3511cc126b1b12bc1597486e925141c10b05627857cb79810140c"
+  },
+  {
+    "url": "https://glyph.medium.com/font/df9ba7f/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-500-normal.woff",
+    "final_url": "https://glyph.medium.com/font/df9ba7f/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-500-normal.woff",
+    "status": "saved",
+    "path": "assets/537799dffc2e6307_sohne-500-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 17817,
+    "sha256": "d62ada2179c773cc9942a4025e19a50ac1d5ae44fe467185d4b281df70527ac6"
+  },
+  {
+    "url": "https://glyph.medium.com/font/9da4d76/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/9da4d76/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-700-italic.woff",
+    "status": "saved",
+    "path": "assets/5e165c3ba928660a_sohne-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 13017,
+    "sha256": "4caa246acd1ef6a4b51778951dee7bcbdeace24ad02fc164ddeacf19b9e2eda7"
+  },
+  {
+    "url": "https://glyph.medium.com/font/9da4d76/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/9da4d76/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-700-italic.woff",
+    "status": "saved",
+    "path": "assets/282bcfe2548ceec1_sohne-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 18485,
+    "sha256": "798e90cf3b3e6456052d40aa83ca2d226f18a54978a24d79ce31d5be15e93a82"
+  },
+  {
+    "url": "https://glyph.medium.com/font/cf896f3/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/cf896f3/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-700-normal.woff",
+    "status": "saved",
+    "path": "assets/23de23718801a00e_sohne-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 12829,
+    "sha256": "0d63477fd28c0476d71f7d94269d37ebc13ee81002807b40bdcee28351da2019"
+  },
+  {
+    "url": "https://glyph.medium.com/font/cf896f3/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/cf896f3/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/sohne-700-normal.woff",
+    "status": "saved",
+    "path": "assets/94ab7c4754382c43_sohne-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 18133,
+    "sha256": "4e2f5dae6e68d982ce0401cd8c80e19fc939b0554bf0bc615249ed7bf192643a"
+  },
+  {
+    "url": "https://glyph.medium.com/font/07894b4/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/07894b4/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-400-italic.woff",
+    "status": "saved",
+    "path": "assets/4eb2f016c01d3b39_source-code-pro-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 7368,
+    "sha256": "9a5eb4a890078b221a449cd5320be02328acbc1528a15aa83c806eb9a07e5a38"
+  },
+  {
+    "url": "https://glyph.medium.com/font/07894b4/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/07894b4/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-400-italic.woff",
+    "status": "saved",
+    "path": "assets/cc8e3e7edf50c1bd_source-code-pro-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 7216,
+    "sha256": "f60c8e582ed3acd3024e1f367bb84a35180ae9c9936a59fee14b925141e6dca7"
+  },
+  {
+    "url": "https://glyph.medium.com/font/3bd49b7/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/3bd49b7/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-400-normal.woff",
+    "status": "saved",
+    "path": "assets/0f50c371f5b2525d_source-code-pro-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 6932,
+    "sha256": "07e3ee7afcbc3462ebf2164763c7f050fc4195d5efa4b039646ae0192c49e2fb"
+  },
+  {
+    "url": "https://glyph.medium.com/font/3bd49b7/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/3bd49b7/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-400-normal.woff",
+    "status": "saved",
+    "path": "assets/d40c32c5e859e188_source-code-pro-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 6708,
+    "sha256": "1d769507c49a3bd2675ceb3f1fb9bbd6cdbaa2537f3d8c895a97d32779fd4006"
+  },
+  {
+    "url": "https://glyph.medium.com/font/15b127a/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/15b127a/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-700-italic.woff",
+    "status": "saved",
+    "path": "assets/111f2d74ba50ae5b_source-code-pro-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 7452,
+    "sha256": "e52ed5a4fa17d2f11a29da8199a3d39c602617070e202a1487ddfa0c38a7d0d4"
+  },
+  {
+    "url": "https://glyph.medium.com/font/15b127a/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/15b127a/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-700-italic.woff",
+    "status": "saved",
+    "path": "assets/ae76d59d924e5f61_source-code-pro-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 7280,
+    "sha256": "1b9067c847e14471962862c7476217365fda7197d021c594a697787aa5d3e04a"
+  },
+  {
+    "url": "https://glyph.medium.com/font/a9cd261/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/a9cd261/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-code-pro-700-normal.woff",
+    "status": "saved",
+    "path": "assets/6ed2b7b7b82bf653_source-code-pro-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 6896,
+    "sha256": "8ed9ffd0607f63bb2030024abc5225df6b2fa2a081774e13744d04b12a9be6ba"
+  },
+  {
+    "url": "https://glyph.medium.com/font/a9cd261/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/a9cd261/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-code-pro-700-normal.woff",
+    "status": "saved",
+    "path": "assets/5064aa8bf2e782b0_source-code-pro-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 6664,
+    "sha256": "25869033ddf8cb03451da252ccc8ddf616d24a2d5bc4d1d7ac24a88db54d2258"
+  },
+  {
+    "url": "https://glyph.medium.com/font/76c214a/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/76c214a/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-400-italic.woff",
+    "status": "saved",
+    "path": "assets/acde4fbb9557e4f7_source-serif-pro-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 12656,
+    "sha256": "7725f2e70b6a54d4e4f93c2ea20bdc4ac549a289a806828e73dfcd3a2969b870"
+  },
+  {
+    "url": "https://glyph.medium.com/font/76c214a/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-400-italic.woff",
+    "final_url": "https://glyph.medium.com/font/76c214a/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-400-italic.woff",
+    "status": "saved",
+    "path": "assets/5b3157073e01d9e2_source-serif-pro-400-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 56008,
+    "sha256": "1e5cc836b4d02671a20c9099d1a12a2fe643aa7de63051345907657b6feb60d6"
+  },
+  {
+    "url": "https://glyph.medium.com/font/8e059b2/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/8e059b2/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-400-normal.woff",
+    "status": "saved",
+    "path": "assets/8ced81c3bf1b9482_source-serif-pro-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 11936,
+    "sha256": "7cb0607a963a4d571ab612d010e4c124c2bb4cc0fd27048efa5f92eedab98ebe"
+  },
+  {
+    "url": "https://glyph.medium.com/font/8e059b2/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-400-normal.woff",
+    "final_url": "https://glyph.medium.com/font/8e059b2/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-400-normal.woff",
+    "status": "saved",
+    "path": "assets/70fb6568c843edb1_source-serif-pro-400-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 58012,
+    "sha256": "202a8c194cdbd74e42b1fc8c8e48b741204e6c7b368af1147740855268887dbe"
+  },
+  {
+    "url": "https://glyph.medium.com/font/7f2eb60/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/7f2eb60/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-700-italic.woff",
+    "status": "saved",
+    "path": "assets/94598d735c39e3eb_source-serif-pro-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 13328,
+    "sha256": "977eec4907b2febc92ad36328ad86edf074e4a4e2d8476a2db9a2001b9a6cadb"
+  },
+  {
+    "url": "https://glyph.medium.com/font/7f2eb60/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-700-italic.woff",
+    "final_url": "https://glyph.medium.com/font/7f2eb60/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-700-italic.woff",
+    "status": "saved",
+    "path": "assets/03ee3f09598466f8_source-serif-pro-700-italic.woff",
+    "content_type": "application/font-woff",
+    "size": 58224,
+    "sha256": "e5e74cf06b73498f8cce706d2b70b88e89cb31b5ae7cc6d36053eb008ecc3ffa"
+  },
+  {
+    "url": "https://glyph.medium.com/font/b156742/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/b156742/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/source-serif-pro-700-normal.woff",
+    "status": "saved",
+    "path": "assets/7e34e7698b67942d_source-serif-pro-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 12476,
+    "sha256": "b579cb06b725609666aeb9fec66152efd7e687c9ba13096c2ce7c1db44c82558"
+  },
+  {
+    "url": "https://glyph.medium.com/font/b156742/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-700-normal.woff",
+    "final_url": "https://glyph.medium.com/font/b156742/3k-4f_4h-52_54-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/source-serif-pro-700-normal.woff",
+    "status": "saved",
+    "path": "assets/e86fef75ab65b7d0_source-serif-pro-700-normal.woff",
+    "content_type": "application/font-woff",
+    "size": 59684,
+    "sha256": "22b1e3d96dbe51bcea1b62698ba7950e255e9594b4f3afc57a0b091b4f80986d"
+  },
+  {
+    "url": "https://glyph.medium.com/css/unbound.css",
+    "final_url": "https://glyph.medium.com/css/unbound.css",
+    "status": "saved",
+    "path": "assets/01f6f02d84110f99_unbound.css",
+    "content_type": "text/css",
+    "size": 15462,
+    "sha256": "05170fdccd6c1848a38b287575ae7c42c7bcd0314df75a192093e21757ebc247"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/Br0hYqpfWeFzYCAXLD4UuCIV/recaptcha__en.js",
+    "final_url": "https://www.gstatic.com/recaptcha/releases/Br0hYqpfWeFzYCAXLD4UuCIV/recaptcha__en.js",
+    "status": "saved",
+    "path": "assets/bb2b14036a6911ff_recaptcha__en.js",
+    "content_type": "text/javascript",
+    "size": 876736,
+    "sha256": "8a975b9c76ea9dbe7a07a093bbcff9b2bead51aff6d01e46e559b69c10752b7a"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise.js?render=6Le-uGgpAAAAAPprRaokM8AKthQ9KNGdoxaGUvVp",
+    "final_url": "https://www.google.com/recaptcha/enterprise.js?render=6Le-uGgpAAAAAPprRaokM8AKthQ9KNGdoxaGUvVp",
+    "status": "saved",
+    "path": "assets/11b3c452b1a1f884_enterprise.js",
+    "content_type": "text/javascript",
+    "size": 1731,
+    "sha256": "132233fe38082ca57bcd0efff647d93f363f28f0f92237945c22590ebf00162d"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:152:152/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "final_url": "https://miro.medium.com/v2/resize:fill:152:152/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "status": "saved",
+    "path": "assets/1d2c8d235562e97d_10fd5c419ac61637245384e7099e131627900034828f4f386b.png",
+    "content_type": "image/png",
+    "size": 6084,
+    "sha256": "32324d2a99654f1e9fbe759f77ebf7973aaa1dc06ded0ebd394ab16fd981e99b"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "final_url": "https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "status": "saved",
+    "path": "assets/a2a57e4135410d99_10fd5c419ac61637245384e7099e131627900034828f4f386b.png",
+    "content_type": "image/png",
+    "size": 4692,
+    "sha256": "1da90a4f348d873168d679743a7668bd14033457a63de2bdc05a9f2d5bc1534f"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:76:76/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "final_url": "https://miro.medium.com/v2/resize:fill:76:76/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "status": "saved",
+    "path": "assets/d34a336fd09207bc_10fd5c419ac61637245384e7099e131627900034828f4f386b.png",
+    "content_type": "image/png",
+    "size": 2990,
+    "sha256": "97c2c681329cd827415276e9bed6f05ff85d79669b3029f1abdea646693c4a26"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:60:60/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "final_url": "https://miro.medium.com/v2/resize:fill:60:60/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "status": "saved",
+    "path": "assets/5e0e99f09ba5b3b7_10fd5c419ac61637245384e7099e131627900034828f4f386b.png",
+    "content_type": "image/png",
+    "size": 2297,
+    "sha256": "92f2b3a2b23c0171f54d757bdbc25b4ce9c932345998cb19599df91535ba11b6"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:500:500/7*GAOKVe--MXbEJmV9230oOQ.png",
+    "final_url": "https://miro.medium.com/v2/resize:fill:500:500/7*GAOKVe--MXbEJmV9230oOQ.png",
+    "status": "saved",
+    "path": "assets/b1b94c4cb8cc5f1e_7_GAOKVe--MXbEJmV9230oOQ.png",
+    "content_type": "image/png",
+    "size": 22494,
+    "sha256": "88a26740120586edc3cce26529aafe3fd68a02ddaab737df1a127f80572c89fd"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-7JY7T788PK",
+    "final_url": "https://www.googletagmanager.com/gtag/js?id=G-7JY7T788PK",
+    "status": "saved",
+    "path": "assets/df473cffd9a6801f_js",
+    "content_type": "application/javascript",
+    "size": 439961,
+    "sha256": "ec5ccaa9a2277fc9e316ce319b4ea52f4ef58a02138dc7a3ccd16ec01e3fc00f"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fill:32:32/1*dmbNkD5D-u45r44go_cf0g.png",
+    "status": "saved",
+    "path": "assets/a603d677c2dfcfa9_1_dmbNkD5D-u45r44go_cf0g.png",
+    "content_type": "image/png",
+    "size": 838,
+    "sha256": "42790bdec1d4c142b7a889c4005eb750d48a9c37e76ba8616dae9ced3ff30567"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:32:32/1*Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fill:32:32/1*Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "status": "saved",
+    "path": "assets/a87108f1f3b6a165_1_Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "content_type": "image/jpeg",
+    "size": 864,
+    "sha256": "59c576fff43aa38ca73c264e3bb191456ddac3d739ed7c0c03269b5b8fde7417"
+  },
+  {
+    "url": "https://urish.medium.com/media/75392c2ac810e6d13838ea1571b675e7",
+    "final_url": "https://urish.medium.com/media/75392c2ac810e6d13838ea1571b675e7",
+    "status": "saved",
+    "path": "assets/22e614c9a4c86db1_75392c2ac810e6d13838ea1571b675e7.html",
+    "content_type": "text/html",
+    "size": 2174,
+    "sha256": "950fc45a1b3d7f431806913c11540c92567373d2457b63aa9f6565822d09ffc6"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/517113010a08b723_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/webp",
+    "size": 35206,
+    "sha256": "9f755209739aceda6913b19a8d867d94c0bb2517cf636e82fb4790acd2421043"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/81f9be908973fabe_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/webp",
+    "size": 42662,
+    "sha256": "970e212ce8d9ba18e41f8f913a7b94e1d3c7d68e117c68d9021b3adefe431daf"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:750/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:750/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/80e35a3861ca92be_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/webp",
+    "size": 48070,
+    "sha256": "5f4e7264814f575ca4fb224ba6177fa6fe79d97c0e5d9b58464da5bd5be0342a"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/afae508df4962fbe_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/webp",
+    "size": 50042,
+    "sha256": "6b29e1ab82bb3659d4e6b372faa183b20c48dea9a9ea6578647a170146d2016b"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/b4fddf214a67d5af_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/webp",
+    "size": 55300,
+    "sha256": "fe6f63e44d83393c8a6c9caaebc7cc8bdb15fb343161d29942a6f212251173e2"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/c4413eaeaace49fd_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/webp",
+    "size": 66674,
+    "sha256": "0de2cf7cb0824e1ce5d7f05ba724859306c00becf6622f5515365ed3fac92984"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/8a3f00d1318998ef_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/webp",
+    "size": 66674,
+    "sha256": "0de2cf7cb0824e1ce5d7f05ba724859306c00becf6622f5515365ed3fac92984"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:640/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:640/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/977feb70ac6991de_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 178213,
+    "sha256": "f109fd6fff1de506997b053266fa33b2632055138daa70a24cd2c7e8add2d169"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:720/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:720/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/016b7512dd9ffc26_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 207245,
+    "sha256": "43afcafecfc250603215fb7167fdc1f5a1ea8f07aedb114b68864b55f885ea8d"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:750/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:750/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/a87d36c1902e5466_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 219273,
+    "sha256": "02f6f5a31c5a63a3c954b62ed3bd7884146880d7b72d6e55a3155c5820888b84"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:786/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:786/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/c74fb8be9e40481c_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 235398,
+    "sha256": "14e51815233a3b946bb53cff8f04cacdd4d73d538b5e07bd98034cdb60645e43"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:828/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:828/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/0174b5c86cd520ec_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 250668,
+    "sha256": "b144f4b79cfa75339eda167f2b66517e1eb48d1f471d57ab8a9aa5492e204907"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1100/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1100/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/933fac0f2390005b_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 77353,
+    "sha256": "48e10ae503129d01d934f0358129783617e920840e2630343ef0d584d2f44a98"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1400/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1400/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/f1f9e039b7ebc202_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 77353,
+    "sha256": "48e10ae503129d01d934f0358129783617e920840e2630343ef0d584d2f44a98"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:700/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "final_url": "https://miro.medium.com/v2/resize:fit:700/1*DQo_fGCE-nsJsaGDGCJy3g.png",
+    "status": "saved",
+    "path": "assets/3a681e95a8798892_1_DQo_fGCE-nsJsaGDGCJy3g.png",
+    "content_type": "image/png",
+    "size": 198957,
+    "sha256": "ac1afabd564d8dbb8fd9b76a99fe43ecdd8b05332c7d76f5ea2b326c19645074"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/a5c293d1c437eb5e_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/webp",
+    "size": 11020,
+    "sha256": "844bf283cc47d8788b211744a2dd8ebc2c5327209f015264c89bfefb2a5f60db"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/70d0293a384a0f20_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/webp",
+    "size": 12718,
+    "sha256": "c61db650e2e4825738da9c022191c183e7861b6772d29a67d00110456f3e4312"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:750/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:750/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/f0aa9f9321a367ff_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/webp",
+    "size": 13504,
+    "sha256": "b1dfe238c79ede3f644045cfb77a55fdfaa3877a57be824bfe964a39e556cf47"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:786/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/545c3f3093d96a66_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/webp",
+    "size": 14300,
+    "sha256": "1cccb48866b27788846c8423bd2aa100fc46794508c63d965d0a855805795638"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/a907bc6c854aac43_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/webp",
+    "size": 15242,
+    "sha256": "3c3ba079ba99cf2c30b0ec3d870af989edc637b1676e4a514bd58c614c7c6832"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/459f123decf6c804_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/webp",
+    "size": 22738,
+    "sha256": "b246b18dcdac6272e011b3328d2ae566a9a6afb3b00cf359d39a51e00f544707"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/7a14450af1cd7f81_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/webp",
+    "size": 32428,
+    "sha256": "6ee549f25ac211e20dedde807199768be6708daae8e0cc02e0997664532ec10f"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:640/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:640/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/aee6d5581e8505da_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 21803,
+    "sha256": "3bc7c96b5b0218566ed6920b26643e42934bc8ca560eb591aad5af99d36a5816"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:720/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:720/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/80a09a19ef03ae5c_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 26086,
+    "sha256": "ca104df9d190f2d9797dce5153ab6b684324694173aa0a3ec5ca9017e029a540"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:750/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:750/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/7cf9399610beb575_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 27926,
+    "sha256": "b775a29460573d63ad6d4e296ed7ff99471975250a58a91fea0feb3a01440e54"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:786/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:786/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/223a4b8a84677b9d_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 29963,
+    "sha256": "9d556c9a87ad3b62fb86c2f0093eb6fc4e39c7d9eeb450bbb3044a0625caa0fc"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:828/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:828/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/3bfb9d9033b50247_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 32231,
+    "sha256": "47db1d2eb4ecba9a91a01c97cdbef7d6b414114762534f5ea2a4c23f5285ac8e"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1100/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1100/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/3b8939a16d3eabd7_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 51104,
+    "sha256": "f75394c7340648c434468dcbed226b251a6a1c812e949e15d2531cd414a3cdb3"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1400/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:1400/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/95e197225b928a8e_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 75827,
+    "sha256": "4ee3558b5e2cf76fdb49947dd50e333dedb4e87adfb887e12f1525b4e58ec4e1"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:700/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fit:700/1*M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "status": "saved",
+    "path": "assets/8b5b80636997014b_1_M81LD9WX5nPtPSO9W2nptg.jpeg",
+    "content_type": "image/jpeg",
+    "size": 25220,
+    "sha256": "11cdd931e9639fc3919485a8edfa2a8c878b0929fcce15ed196a6bfdb690fd3a"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:48:48/1*Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fill:48:48/1*Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "status": "saved",
+    "path": "assets/7d3fbeea1cb801b2_1_Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "content_type": "image/jpeg",
+    "size": 1200,
+    "sha256": "490adb5bb13077dd471fe1eaa945e1ec00690c9ccb0f7aa18ed2446af0d7a1be"
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fill:64:64/1*Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "final_url": "https://miro.medium.com/v2/resize:fill:64:64/1*Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "status": "saved",
+    "path": "assets/807e8273655834a2_1_Eue5o9nV1YB3JdkeduFCLQ.jpeg",
+    "content_type": "image/jpeg",
+    "size": 1567,
+    "sha256": "d4642f2478e9aa098d06ba154b919cc82e528331a9221ab5a9c923ab9a86cef8"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/manifest.b96b2263.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/manifest.b96b2263.js",
+    "status": "saved",
+    "path": "assets/8c806a4384b72665_manifest.b96b2263.js",
+    "content_type": "application/javascript",
+    "size": 13019,
+    "sha256": "1d639495dbf76cfcdd4d07787cd8ea62193f2b44ff2110b091d7c3d3fff4c9c4"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/9906.484ea143.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/9906.484ea143.js",
+    "status": "saved",
+    "path": "assets/e4f009522400cf36_9906.484ea143.js",
+    "content_type": "application/javascript",
+    "size": 857630,
+    "sha256": "8721db4595a32190e85d4968c0cd6783a9c1500fb1c852f9bfb59820994f68d8"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/main.664c86ce.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/main.664c86ce.js",
+    "status": "saved",
+    "path": "assets/9adf0e9a84c2aa38_main.664c86ce.js",
+    "content_type": "application/javascript",
+    "size": 1178456,
+    "sha256": "e4bdcefb4af08118043f4bc7cb5b351981a43affce2c6e83d3ac3f6ca8079a35"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/instrumentation.bbc70038.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/instrumentation.bbc70038.chunk.js",
+    "status": "saved",
+    "path": "assets/77be5263750f2cbf_instrumentation.bbc70038.chunk.js",
+    "content_type": "application/javascript",
+    "size": 2809,
+    "sha256": "59aa4fd788b38f042841d27c1d45459ffe8a77d90798e9da578de8fc962eede6"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/628.add32a62.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/628.add32a62.chunk.js",
+    "status": "saved",
+    "path": "assets/cd7aa8a621bf3d5f_628.add32a62.chunk.js",
+    "content_type": "application/javascript",
+    "size": 5477,
+    "sha256": "44f0638032633d87c08fc317ae6609890625bb70f023521ee2720a833efb3e6e"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/6062.c3638afc.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/6062.c3638afc.chunk.js",
+    "status": "saved",
+    "path": "assets/c4efe582f4cd891b_6062.c3638afc.chunk.js",
+    "content_type": "application/javascript",
+    "size": 3347,
+    "sha256": "1356d39438f410c0683bd2588a44121adeabf78998e2c126044744b76154a059"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/3927.ee35b633.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/3927.ee35b633.chunk.js",
+    "status": "saved",
+    "path": "assets/60d28f0ee9ae72e5_3927.ee35b633.chunk.js",
+    "content_type": "application/javascript",
+    "size": 12811,
+    "sha256": "7250dc2bfee5aa359521bcaed3f21aa3679429a8ee788b0e79dd68e46344489e"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/9356.25c0892e.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/9356.25c0892e.chunk.js",
+    "status": "saved",
+    "path": "assets/a187048133e6ce91_9356.25c0892e.chunk.js",
+    "content_type": "application/javascript",
+    "size": 28291,
+    "sha256": "e1a61829f768dc3eda493a1abc1c478a51323f68fdf28537305cc49220bf9a12"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/4491.f083b3ce.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/4491.f083b3ce.chunk.js",
+    "status": "saved",
+    "path": "assets/03b013a67e754b05_4491.f083b3ce.chunk.js",
+    "content_type": "application/javascript",
+    "size": 20975,
+    "sha256": "0615a55ca2b09596ebae59ae79b687c6bb89a223534c4d2db017418aa5694a1b"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/6372.9524c174.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/6372.9524c174.chunk.js",
+    "status": "saved",
+    "path": "assets/7448bfdbd664dd44_6372.9524c174.chunk.js",
+    "content_type": "application/javascript",
+    "size": 23919,
+    "sha256": "5256582e07f0f0333e19cbf480f635c4eab716d0a4a3a99ddf56a6231d73be28"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/7578.832601c5.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/7578.832601c5.chunk.js",
+    "status": "saved",
+    "path": "assets/1074d8f4d3cf91a6_7578.832601c5.chunk.js",
+    "content_type": "application/javascript",
+    "size": 21140,
+    "sha256": "3f9bda7be24831405e5d18bc8d259446a97f59f01e5082c3362e4287409f2301"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/5429.91381076.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/5429.91381076.chunk.js",
+    "status": "saved",
+    "path": "assets/bad4f82d2b432f21_5429.91381076.chunk.js",
+    "content_type": "application/javascript",
+    "size": 29995,
+    "sha256": "2a9c6ecb7c421be8becbff77d3098533dd698cb320682b1e2ae9fe0620ec64d2"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/6919.86f69f03.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/6919.86f69f03.chunk.js",
+    "status": "saved",
+    "path": "assets/ebafe2b996906c5e_6919.86f69f03.chunk.js",
+    "content_type": "application/javascript",
+    "size": 18206,
+    "sha256": "f1a76cf9aa681559edeac80edcd3baecf2041001893903e9a76edc592db20b5b"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/8160.8b82d3a4.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/8160.8b82d3a4.chunk.js",
+    "status": "saved",
+    "path": "assets/a4882284797642c0_8160.8b82d3a4.chunk.js",
+    "content_type": "application/javascript",
+    "size": 56542,
+    "sha256": "3f1bd798340529c661e97e4c11f4fd59e1afb94df4285f8c7d1fbe3dcc9fe884"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/273.4053bb7a.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/273.4053bb7a.chunk.js",
+    "status": "saved",
+    "path": "assets/fed60f53f5050955_273.4053bb7a.chunk.js",
+    "content_type": "application/javascript",
+    "size": 161002,
+    "sha256": "eab15b2fb08abfb90d13cf0f28047702af3426eceab27dda28f630a882facd80"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/6834.88ea9ad9.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/6834.88ea9ad9.chunk.js",
+    "status": "saved",
+    "path": "assets/edfd89ba5d4d2d64_6834.88ea9ad9.chunk.js",
+    "content_type": "application/javascript",
+    "size": 28804,
+    "sha256": "0466972681c43e7a5bfc7c2b7a694e0c0f852113ee7d906a2f6b0ce92a59ac2e"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/7979.16057cc7.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/7979.16057cc7.chunk.js",
+    "status": "saved",
+    "path": "assets/3151c79f1dd79ca7_7979.16057cc7.chunk.js",
+    "content_type": "application/javascript",
+    "size": 26372,
+    "sha256": "4a33c9e4a5f74956c475d692482207bc54a52df1568d89ac1224c6e07f3da06c"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/7975.404b14c1.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/7975.404b14c1.chunk.js",
+    "status": "saved",
+    "path": "assets/b68b1aefa664d77e_7975.404b14c1.chunk.js",
+    "content_type": "application/javascript",
+    "size": 14677,
+    "sha256": "ad8edbbdf9d49b681247c9dadef21637c2b723919d5c11ee8029646e24d001d8"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/3877.e527e4b3.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/3877.e527e4b3.chunk.js",
+    "status": "saved",
+    "path": "assets/5a8bb430bcbd2bee_3877.e527e4b3.chunk.js",
+    "content_type": "application/javascript",
+    "size": 18396,
+    "sha256": "fa98b817e37f471f005aab1fa8f81468f638cfb4d64b6c207d6edd5883a4de11"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/9256.37639d87.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/9256.37639d87.chunk.js",
+    "status": "saved",
+    "path": "assets/030b92ef075ef2a1_9256.37639d87.chunk.js",
+    "content_type": "application/javascript",
+    "size": 14140,
+    "sha256": "8feb886606da59223fbb9a36e9f4d7e239d4df684ef1ce896a63ea12e12d512b"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/1839.3fc5564b.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/1839.3fc5564b.chunk.js",
+    "status": "saved",
+    "path": "assets/9cef9f18c8d89b88_1839.3fc5564b.chunk.js",
+    "content_type": "application/javascript",
+    "size": 261936,
+    "sha256": "0130011bfca8fef098664de8ff8200f1e5ed7d3fd85e4736ea8f3a89d89afebb"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/8768.55ce865d.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/8768.55ce865d.chunk.js",
+    "status": "saved",
+    "path": "assets/690d5d1570762760_8768.55ce865d.chunk.js",
+    "content_type": "application/javascript",
+    "size": 33924,
+    "sha256": "89d469fb340251d8e7c105cd4e26822364b18f1bfa99599755d9f51ac3273964"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/1137.7df6bc29.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/1137.7df6bc29.chunk.js",
+    "status": "saved",
+    "path": "assets/93f9742bdfadaac9_1137.7df6bc29.chunk.js",
+    "content_type": "application/javascript",
+    "size": 32169,
+    "sha256": "52c9077d5c719c9449485505fa74e12863a768dee328b5dde7c162331e684839"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/6082.14902518.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/6082.14902518.chunk.js",
+    "status": "saved",
+    "path": "assets/c74d28ed5c4d262e_6082.14902518.chunk.js",
+    "content_type": "application/javascript",
+    "size": 30701,
+    "sha256": "c8557ebc3698ade12f9512b675f56ff063343081bf374f7ed0ee221371867fe9"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/4283.13b0e79a.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/4283.13b0e79a.chunk.js",
+    "status": "saved",
+    "path": "assets/06bc43c84c716a94_4283.13b0e79a.chunk.js",
+    "content_type": "application/javascript",
+    "size": 13431,
+    "sha256": "42439aa6cfaf99ffe6f780993b74e60df074f6621467157e6aaebd6718517feb"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/4269.b172cadd.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/4269.b172cadd.chunk.js",
+    "status": "saved",
+    "path": "assets/7efd8ba6be721ceb_4269.b172cadd.chunk.js",
+    "content_type": "application/javascript",
+    "size": 8455,
+    "sha256": "e498829c861c0bc80c7bee739357099273f20d97f832fd5f074fee653aa5f99e"
+  },
+  {
+    "url": "https://cdn-client.medium.com/lite/static/js/PostPage.MainContent.b6f83199.chunk.js",
+    "final_url": "https://cdn-client.medium.com/lite/static/js/PostPage.MainContent.b6f83199.chunk.js",
+    "status": "saved",
+    "path": "assets/8a3623a2f463cf2c_PostPage.MainContent.b6f83199.chunk.js",
+    "content_type": "application/javascript",
+    "size": 272420,
+    "sha256": "a39f5cb763ee874c7247c0b82b6dcb992f4bb7b57f9f6fa8ebd64ab92ab13ba7"
+  },
+  {
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+    "final_url": "https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516",
+    "status": "saved",
+    "path": "assets/74e5f95576698b99_v8c78df7c7c0f484497ecbca7046644da1771523124516.js",
+    "content_type": "text/javascript",
+    "size": 31169,
+    "sha256": "4b77eae349a8cbcea7133cf3640a64ebf1f69d54d8f6469d7be6fdc188ca4ca4"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6Le-uGgpAAAAAPprRaokM8AKthQ9KNGdoxaGUvVp&co=aHR0cHM6Ly91cmlzaC5tZWRpdW0uY29tOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=as4yenwcd4xe",
+    "final_url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6Le-uGgpAAAAAPprRaokM8AKthQ9KNGdoxaGUvVp&co=aHR0cHM6Ly91cmlzaC5tZWRpdW0uY29tOjQ0Mw..&hl=en&v=Br0hYqpfWeFzYCAXLD4UuCIV&size=invisible&anchor-ms=20000&execute-ms=30000&cb=as4yenwcd4xe",
+    "status": "saved",
+    "path": "assets/b5677594b275b9b5_anchor.html",
+    "content_type": "text/html",
+    "size": 54859,
+    "sha256": "f2334376636a6b5b9531229e0c87b29acb6d5481d89c566b12b8f3cfb7c91bd6"
+  }
+]

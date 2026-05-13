@@ -10,3 +10,4 @@
 - [www.eporner.com_pornstar_kendra-sunderland (20260513_111417)](pages/eporner.com/www.eporner.com_pornstar_kendra-sunderland/20260513_111417/index.md) — 23 offline assets, 7 network requests
 - [www.youtube.com_channel_UCs_OWSjmFntZqjzSpgJoBhA_videos (20260513_112712)](pages/youtube.com/www.youtube.com_channel_UCs_OWSjmFntZqjzSpgJoBhA_videos/20260513_112712/index.md) — 176 offline assets, 156 network requests
 - [ukdevilz.com_video_kendra_20sunderland (20260513_113507)](pages/ukdevilz.com/ukdevilz.com_video_kendra_20sunderland/20260513_113507/index.md) — 48 offline assets, 56 network requests
+- [urish.medium.com_writing-your-first-android-app-in-assembly-30e8e0f8c3fe (20260513_211057)](pages/urish.medium.com/urish.medium.com_writing-your-first-android-app-in-assembly-30e8e0f8c3fe/20260513_211057/index.md) — 128 offline assets, 96 network requests

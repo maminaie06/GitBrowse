@@ -1,0 +1,159 @@
+Get app
+Write
+
+Sign up
+
+Sign in
+
+Writing Your First Android App, in Assembly
+Have You Ever Stopped to Wonder How The Internals of Your Phone Work?
+Uri Shaked
+Follow
+7 min read
+·
+Oct 14, 2018
+
+12
+
+In this post I am going to share with you a different perspective about getting started with writing code for Android. The standard approach is installing Android Studio and building a simple “Hello World” app in Java or Kotlin. But it can also be done differently, as you will shortly see. But first, a little background story —
+
+How Does my Android Phone Work?
+
+One evening my life partner 
+Ariella Eliassaf
+ asked me: How does my smartphone work? What’s inside it? How does it electricity, ones and zeroes, make it all work?
+
+Ariella wasn’t foreign to programming. In fact, she even did some Arduino projects which involved both programming and electronics. Perhaps that’s what made her hungry to know more. Luckily, one of the Computer Science courses in the university addressed exactly this — or, at least, gave me enough background to research a good answer.
+
+We spent the next couple of weeks going from the very basics — how microscopic impurities in silicon lattice alter their properties, turning them into semi-conductors, and the way electron flow through this semi conductors can be controlled, forming a transistors. We then went one level higher, I showed her how logic gates such as NAND and NOR can be built by combining transistors in a specific way.
+
+We continued exploring different kind of logic gates, and combining them to do calculations (such as adding two binary numbers) and memory cells (flip-flops). Once we had that nailed, we designed a simple, imaginary CPU that contained two general purpose registers, and a couple of simple instructions (like adding two registers), and wrote a simple program that would multiply these two numbers.
+
+If you wish to get familiar with the above, check out the 8-bit computer from scratch tutorial — it explains pretty much everything from the basics. I wish I knew about it back then!
+
+Hello, Android!
+
+At this point, I felt she had enough background to explore how the CPU of her smartphone worked. She had a Galaxy S6 Edge device, which is based on the ARM architecture (like the majority of the smartphones do). It was time to write “Hello, World”, her first Android app ever, but in assembly:
+
+If you have never seen assembly code before, this program can be quite intimidating, but don’t worry — we’ll go over it together.
+
+The program is divided into two sections: text , which contains the machine code instructions, and data, starting in line 15, which contains variables, strings and other data. The .text section is usually read-only, whereas the .data section can also be written to.
+
+In line 2, we define a global function called _start. This is the entry point of the program. In other words, the operating system will start running you code from this point. The actual definition of the function is in line number 4.
+
+The function does two things: line 5–9 print the message to the screen, and lines 11–13 terminate the program. You could actually remove lines 11–13 and the program will string print “Hello, World” and exit, but it wouldn’t be a clean exit — it will just crash trying to execute some random invalid instruction which happens to be next in memory.
+
+Printing to the screen is done by calling a system call. A system call is a function provided by the operating system. We call the write() system call, which we indicate by loading the value 4 into a CPU register called r7 (line 8), and then execute the swi $0 instruction (line 9), which jumps right into the Linux kernel running inside Android.
+
+The parameters for the system call are passed through the other registers: r0 indicates the number of the file descriptor we want to print to. We put there the value 1 (line 5), which indicated stdout, the standard output, or in other words — printing to the screen.
+
+r1 indicates the memory address of the data we want to write, so we load there the address of the “Hello, World” string (line 6), and r2 tells Android how many bytes we want to write. We set it to the value of message_len (line 7), which is calculated in line 18 using a special syntax: the dot symbol denotes the current memory address, so . - message means the current memory address minus the address of message. Since we define message_len immediately after message, this evaluates to the length of message.
+
+So to sum up, the code in lines 5–9 is the equivalent of the following c code:
+
+#define message "Hello, World\n"
+write(1, message, sizeof(message));
+
+Terminating the program is much simpler — we simply need to load the exit code into r0 (line 11), and then we load the value 1, which is the number of the exit() system call, into r7 (line 12), and call the kernel again (line 13).
+
+Get Uri Shaked’s stories in your inbox
+
+Join Medium for free to get updates from this writer.
+
+Subscribe
+
+Remember me for faster sign in
+
+You can find the complete list of Android system calls and their numbers in the operating system’s source code. You can also find there the implementation of the write() and exit() functions, which call the respective system calls, just like we did.
+
+Building Your Program
+
+In order to compile your assembly program, you will need the Android NDK, the Native Development Kit, which contains a set of compilers and build tools for the ARM platform. You can get download it directly from the official site, or install it through Android Studio:
+
+Press enter or click to view image in full size
+Go to “SDK Tools” and check “NDK”, then click “OK”. Also note the Android SDK Location
+
+After getting the NDK, you will need to search for a file called arm-linux-androideabi-as, the assembler for the ARM platform. If you downloaded it through Android Studio, look for it inside the Android SDK Location. On my machine I found the file in the following location inside the SDK:
+
+ndk-bundle\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin
+
+As you can imagine, it will slightly change based on your exact NDK version and operating system. The important thing is that it has the ARM assembler inside.
+
+One you located the assembler, save your source code into a file called hello.s (s is a commonly used extension for assembly files in GNU systems). Then run the following command to convert it into machine code:
+
+arm-linux-androideabi-as -o hello.o hello.s
+
+This will create an object file called hello.o. Only one more step is needed to convert this into an ELF binary that can run on your device — calling the linker:
+
+arm-linux-androideabi-ld -o hello hello.o
+
+That’s it! You now have a file called hello that contains your program, ready to run.
+
+Running The Program on Your Device
+
+Android programs are usually distributed in APK format. This is a special kind of ZIP file, which Android expect to be constructed in a specific way, and should include Java classes (you can write parts of your app using native C/C++ code, but the entry point still needs to be Java).
+
+I wanted to avoid this complexity when running our app, so we used adb to copy it over to the temp folder of her Android device, and then adb shell to run the app and see the output:
+
+adb push hello /data/local/tmp/hello
+adb shell chmod +x /data/local/tmp/hello
+
+And finally, ran the app:
+
+adb shell /data/local/tmp/hello
+Press enter or click to view image in full size
+Hooray, it works!
+What Will You Build?
+
+At this point you should have a working development environment, similar to what Ariella had. She spent a few days learning ARM assembly and came up with a simple project she wanted to code: a simple Seven-Boom game. Seven-boom is an Israeli variation of Fizz Buzz. Players take turns counting incrementally, and whenever a number is divisible by seven or contains the digit 7, they need to say “Boom”.
+
+Completing this game was quite a challenge as she had to write a method that would print numbers to screen, one digit at a time — as the idea was to write everything from scratch using Assembly code and without calling any standard C library functions. But after a few days of tinkering and hard work she did it!
+
+You can find her first Android program, the 7-boom, here. Some of the identifiers in the code are actually hebrew words (like _sifra_ahrona, which means “Last digits” — she found it more fun this way, and I found it cute).
+
+Writing assembly code for your Android device is a great way to familiarize yourself with the ARM architecture, and get a better understanding of the inner-workings of a device you use on a daily basis.
+
+I challenge you to go ahead and write a small assembly program for your Android phone. It could be a simple Bulls and Cows game, a hangman clone, or whatever you like — when you finish, please share the code with me, I’d love to see how creative you can get!
+
+This is the 14th post in my Postober Challenge — writing something new every single day throughout October.
+
+I will tweet whenever I publish a new post, promise! ✍
+
+Android
+Technology
+Programming
+Software Development
+Assembly
+
+Some rights reserved
+
+12
+
+Written by Uri Shaked
+6.4K followers
+·
+789 following
+
+Google Developer Expert for Web Technologies, Maker and Public Speaker
+
+Follow
+
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Rules
+
+Terms
+
+Text to speech

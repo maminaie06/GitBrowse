@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "automation",
+    "action": "auto_scroll",
+    "max_scrolls": 18,
+    "time": "2026-05-13T21:11:31.896834+00:00"
+  },
+  {
+    "kind": "popup",
+    "round": 1,
+    "rule": "Close modal button",
+    "action": "click",
+    "time": "2026-05-13T21:12:14.857068+00:00",
+    "frame_url": "https://urish.medium.com/writing-your-first-android-app-in-assembly-30e8e0f8c3fe"
+  },
+  {
+    "kind": "offline",
+    "action": "capture_mhtml",
+    "status": "ok",
+    "path": "offline/page.mhtml"
+  }
+]
