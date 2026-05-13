@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCs_OWSjmFntZqjzSpgJoBhA"/>
+ <id>yt:channel:s_OWSjmFntZqjzSpgJoBhA</id>
+ <yt:channelId>s_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+ <title>flat assembler</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA"/>
+ <author>
+  <name>flat assembler</name>
+  <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+ </author>
+ <published>2013-10-22T12:40:40+00:00</published>
+ <entry>
+  <id>yt:video:BA0LZx2JYRM</id>
+  <yt:videoId>BA0LZx2JYRM</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>flat assembler 2 is here!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BA0LZx2JYRM"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2024-03-12T11:11:33+00:00</published>
+  <updated>2026-04-28T20:03:39+00:00</updated>
+  <media:group>
+   <media:title>flat assembler 2 is here!</media:title>
+   <media:content url="https://www.youtube.com/v/BA0LZx2JYRM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BA0LZx2JYRM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>15 years late, but still fun.
+
+Get it from https://flatassembler.net/download.php
+
+The ideas for fasm 2 design presented on fasmcon 2009: https://youtu.be/nqPGWN6D1dI
+
+Corrections:
+07:40 The aarch64 headers were made by tthsqe, not jacobly. My apologies for mixing them up.</media:description>
+   <media:community>
+    <media:starRating count="287" average="5.00" min="1" max="5"/>
+    <media:statistics views="4162"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xpXd5wiPdh0</id>
+  <yt:videoId>xpXd5wiPdh0</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 11: 64-bit mode and calling convention</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xpXd5wiPdh0"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2020-06-11T17:11:58+00:00</published>
+  <updated>2026-05-04T22:13:15+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 11: 64-bit mode and calling convention</media:title>
+   <media:content url="https://www.youtube.com/v/xpXd5wiPdh0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xpXd5wiPdh0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Quick introduction to x64 programming, with complete translation of the example code written during previous installments.
+
+How to set up x64dbg: https://youtu.be/7GSp-ZIMqxc
+Windows x64 calling convention: https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms235286(v=vs.100)
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8</media:description>
+   <media:community>
+    <media:starRating count="75" average="5.00" min="1" max="5"/>
+    <media:statistics views="3629"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KVtg9JglYh8</id>
+  <yt:videoId>KVtg9JglYh8</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 10: MULtiplication and DIVision</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=KVtg9JglYh8"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2020-06-05T18:58:41+00:00</published>
+  <updated>2026-04-29T04:30:33+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 10: MULtiplication and DIVision</media:title>
+   <media:content url="https://www.youtube.com/v/KVtg9JglYh8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KVtg9JglYh8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A very basic description of MUL/IMUL and DIV/IDIV instructions.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8</media:description>
+   <media:community>
+    <media:starRating count="28" average="5.00" min="1" max="5"/>
+    <media:statistics views="3368"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7GSp-ZIMqxc</id>
+  <yt:videoId>7GSp-ZIMqxc</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>How to experiment with 64-bit assembly instructions (fasm and x64dbg)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7GSp-ZIMqxc"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2020-06-05T15:57:08+00:00</published>
+  <updated>2026-04-15T00:09:37+00:00</updated>
+  <media:group>
+   <media:title>How to experiment with 64-bit assembly instructions (fasm and x64dbg)</media:title>
+   <media:content url="https://www.youtube.com/v/7GSp-ZIMqxc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7GSp-ZIMqxc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A quick demonstration of how to use just-in-time debugging feature of x64dbg to easily experiment with 64-bit assembly instructions.
+
+How to download and set up fasm: https://youtu.be/HCfwIG8ZzI0
+How to experiment with 32-bit assembly instructions using OllyDbg: https://youtu.be/tre6wc81XG8
+Get x64dbg at: https://x64dbg.com</media:description>
+   <media:community>
+    <media:starRating count="75" average="5.00" min="1" max="5"/>
+    <media:statistics views="4822"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FyhxH-QuEhM</id>
+  <yt:videoId>FyhxH-QuEhM</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Making a real-time assembler with fasmg.DLL (Unedited live session)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FyhxH-QuEhM"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2020-05-11T22:37:22+00:00</published>
+  <updated>2026-04-21T20:53:26+00:00</updated>
+  <media:group>
+   <media:title>Making a real-time assembler with fasmg.DLL (Unedited live session)</media:title>
+   <media:content url="https://www.youtube.com/v/FyhxH-QuEhM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FyhxH-QuEhM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I show how to tweak a calculator example from my GitHub repository (which uses fasmg.DLL under the hood) to make a simple real-time assembler. Unfortunately, in the second half of the session my microphone failed and I have not noticed it in time, so the final portion of the commentary has been lost. You can still see the entire process of getting a working prototype, though.
+
+The original calculator sources: https://github.com/tgrysztar/fasmg/tree/master/packages/x86/projects/calculator
+
+Streamed on May 11th 2020. Watch live at https://www.twitch.tv/grysztar</media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="1179"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2K8mpX_kWN0</id>
+  <yt:videoId>2K8mpX_kWN0</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>How to run TetrOS in DOSBox and kelvar in Bochs (Unedited live session)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2K8mpX_kWN0"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-12-13T11:30:52+00:00</published>
+  <updated>2026-05-05T03:38:33+00:00</updated>
+  <media:group>
+   <media:title>How to run TetrOS in DOSBox and kelvar in Bochs (Unedited live session)</media:title>
+   <media:content url="https://www.youtube.com/v/2K8mpX_kWN0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2K8mpX_kWN0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I played around with running one my earliest examples for flat assembler, which is quite hard to get working outside of some old DOS-running PCs.
+
+Streamed on Dec 13th 2019. Watch live at https://www.twitch.tv/grysztar</media:description>
+   <media:community>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="1224"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WceSGixAWSg</id>
+  <yt:videoId>WceSGixAWSg</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 9: Shifting and rotating</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WceSGixAWSg"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-12-02T11:54:28+00:00</published>
+  <updated>2026-05-04T23:58:39+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 9: Shifting and rotating</media:title>
+   <media:content url="https://www.youtube.com/v/WceSGixAWSg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WceSGixAWSg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>How to display hexadecimal numbers with help of shifts or rotations.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8</media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="1378"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eLgCuf1wEuk</id>
+  <yt:videoId>eLgCuf1wEuk</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 8: Little-endianness and bit operations</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eLgCuf1wEuk"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-11-21T11:06:14+00:00</published>
+  <updated>2026-04-22T19:37:58+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 8: Little-endianness and bit operations</media:title>
+   <media:content url="https://www.youtube.com/v/eLgCuf1wEuk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eLgCuf1wEuk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This episode explains the issue of x86 being little-endian and introduces some basic instructions operating on individual bits.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8</media:description>
+   <media:community>
+    <media:starRating count="32" average="5.00" min="1" max="5"/>
+    <media:statistics views="2229"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aQ7KfxQAKhs</id>
+  <yt:videoId>aQ7KfxQAKhs</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 7: Accessing array with SIB addressing</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aQ7KfxQAKhs"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-11-14T12:07:51+00:00</published>
+  <updated>2026-04-30T00:06:14+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 7: Accessing array with SIB addressing</media:title>
+   <media:content url="https://www.youtube.com/v/aQ7KfxQAKhs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aQ7KfxQAKhs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Reading values from a table with help of advanced x86 addressing modes.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8</media:description>
+   <media:community>
+    <media:starRating count="41" average="5.00" min="1" max="5"/>
+    <media:statistics views="1945"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iZUHXsAOW3o</id>
+  <yt:videoId>iZUHXsAOW3o</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>2-adic numbers for x86 programmers, part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iZUHXsAOW3o"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-11-07T10:44:49+00:00</published>
+  <updated>2026-05-04T23:51:17+00:00</updated>
+  <media:group>
+   <media:title>2-adic numbers for x86 programmers, part 2</media:title>
+   <media:content url="https://www.youtube.com/v/iZUHXsAOW3o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iZUHXsAOW3o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In the second part of this mini-series I show how to multiply and divide 2-adic numbers, with some implications for x86 coding.</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="493"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eQZlibAzUic</id>
+  <yt:videoId>eQZlibAzUic</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>2-adic numbers for x86 programmers, part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eQZlibAzUic"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-10-28T15:56:16+00:00</published>
+  <updated>2025-06-12T10:43:33+00:00</updated>
+  <media:group>
+   <media:title>2-adic numbers for x86 programmers, part 1</media:title>
+   <media:content url="https://www.youtube.com/v/eQZlibAzUic?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eQZlibAzUic/hqdefault.jpg" width="480" height="360"/>
+   <media:description>While two's complement encoding of integer numbers can be explained using various approaches, I find the 2-adic one especially comfortable to use. I hope that this first video manages to demonstrate it at least a bit.
+
+In the next part I'm going to show 2-adic multiplication and again try to give simple explanations of some not necessarily obvious details of CPU implementation.
+
+If you'd like to learn more, there's also a forum thread where I have been sharing my thoughts on 2-adic fractions and division: https://board.flatassembler.net/topic.php?t=20938</media:description>
+   <media:community>
+    <media:starRating count="49" average="5.00" min="1" max="5"/>
+    <media:statistics views="1438"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:G5KBWseejYo</id>
+  <yt:videoId>G5KBWseejYo</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 6: Interpreting binary values, signed and unsigned numbers</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=G5KBWseejYo"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-10-21T10:51:04+00:00</published>
+  <updated>2026-05-05T11:14:40+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 6: Interpreting binary values, signed and unsigned numbers</media:title>
+   <media:content url="https://www.youtube.com/v/G5KBWseejYo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/G5KBWseejYo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A quick look at signed interpretation of binary values.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8
+
+For a detailed explanation of sign extension and OF (Overflow Flag) see my mini-series about 2-adic numbers for assembly programmers: https://www.youtube.com/playlist?list=PLXIsc9dApNXocHwPXoWBduhpAg_qjRvo8</media:description>
+   <media:community>
+    <media:starRating count="36" average="5.00" min="1" max="5"/>
+    <media:statistics views="1774"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9BnWGmUdA5E</id>
+  <yt:videoId>9BnWGmUdA5E</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 5: CoMParing numbers</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9BnWGmUdA5E"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-10-14T09:51:59+00:00</published>
+  <updated>2025-10-23T16:58:25+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 5: CoMParing numbers</media:title>
+   <media:content url="https://www.youtube.com/v/9BnWGmUdA5E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9BnWGmUdA5E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Some basic uses of CMP instruction.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8</media:description>
+   <media:community>
+    <media:starRating count="49" average="5.00" min="1" max="5"/>
+    <media:statistics views="2874"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RL3H90V6mTY</id>
+  <yt:videoId>RL3H90V6mTY</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 4: Calling conventions</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RL3H90V6mTY"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-10-11T09:04:03+00:00</published>
+  <updated>2026-04-28T23:24:42+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 4: Calling conventions</media:title>
+   <media:content url="https://www.youtube.com/v/RL3H90V6mTY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RL3H90V6mTY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Discussion of calling conventions on x86, with explanation of specialized instructions ENTER and LEAVE. Then, as a bonus, calling some 32-bit Windows API functions.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8
+
+My advanced PE format tutorial: https://board.flatassembler.net/topic.php?t=20690</media:description>
+   <media:community>
+    <media:starRating count="98" average="5.00" min="1" max="5"/>
+    <media:statistics views="4001"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dPow7Pd-tkc</id>
+  <yt:videoId>dPow7Pd-tkc</yt:videoId>
+  <yt:channelId>UCs_OWSjmFntZqjzSpgJoBhA</yt:channelId>
+  <title>Introduction to x86 assembly, part 3: The stack</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dPow7Pd-tkc"/>
+  <author>
+   <name>flat assembler</name>
+   <uri>https://www.youtube.com/channel/UCs_OWSjmFntZqjzSpgJoBhA</uri>
+  </author>
+  <published>2019-10-07T10:34:42+00:00</published>
+  <updated>2026-04-22T18:18:41+00:00</updated>
+  <media:group>
+   <media:title>Introduction to x86 assembly, part 3: The stack</media:title>
+   <media:content url="https://www.youtube.com/v/dPow7Pd-tkc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dPow7Pd-tkc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A demonstration of x86 stack and its most basic uses. This should allow discussion of calling conventions next time.
+
+Start from part 1: https://youtu.be/gvYEQ4F_qp8</media:description>
+   <media:community>
+    <media:starRating count="84" average="5.00" min="1" max="5"/>
+    <media:statistics views="3255"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

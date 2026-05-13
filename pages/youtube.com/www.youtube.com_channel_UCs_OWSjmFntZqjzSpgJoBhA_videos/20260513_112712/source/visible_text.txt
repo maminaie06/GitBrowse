@@ -1,0 +1,185 @@
+Skip navigation
+Sign in
+Home
+Shorts
+Subscriptions
+You
+History
+Sign in to like videos, comment, and subscribe.
+Sign in
+Explore
+Shopping
+Music
+Movies & TV
+Show more
+More from YouTube
+YouTube Premium
+YouTube TV
+YouTube Music
+YouTube Kids
+Report history
+AboutPressCopyrightContact usCreatorsAdvertiseDevelopers
+TermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket
+© 2026 Google LLC
+flat assembler
+@flatassembler
+•
+2.27K subscribers
+•
+45 videos
+My name is Tomasz Grysztar and I'm the creator of flat assembler, a self-hosting assembler for x86 architectures in continuous development since 1999. 
+...more
+flatassembler.net
+and 1 more link
+Subscribe
+Home
+Videos
+Courses
+Playlists
+Latest
+Popular
+Oldest
+10:40
+flat assembler 2 is here!
+4.1K views
+•
+2 years ago
+21:19
+Introduction to x86 assembly, part 11: 64-bit mode and calling convention
+3.6K views
+•
+5 years ago
+11:27
+Introduction to x86 assembly, part 10: MULtiplication and DIVision
+3.3K views
+•
+5 years ago
+5:30
+How to experiment with 64-bit assembly instructions (fasm and x64dbg)
+4.8K views
+•
+5 years ago
+33:53
+Making a real-time assembler with fasmg.DLL (Unedited live session)
+1.1K views
+•
+6 years ago
+27:18
+How to run TetrOS in DOSBox and kelvar in Bochs (Unedited live session)
+1.2K views
+•
+6 years ago
+21:25
+Introduction to x86 assembly, part 9: Shifting and rotating
+1.3K views
+•
+6 years ago
+16:33
+Introduction to x86 assembly, part 8: Little-endianness and bit operations
+2.2K views
+•
+6 years ago
+11:18
+Introduction to x86 assembly, part 7: Accessing array with SIB addressing
+1.9K views
+•
+6 years ago
+22:41
+2-adic numbers for x86 programmers, part 2
+493 views
+•
+6 years ago
+30:47
+2-adic numbers for x86 programmers, part 1
+1.4K views
+•
+6 years ago
+19:28
+Introduction to x86 assembly, part 6: Interpreting binary values, signed and unsigned numbers
+1.7K views
+•
+6 years ago
+14:15
+Introduction to x86 assembly, part 5: CoMParing numbers
+2.8K views
+•
+6 years ago
+27:18
+Introduction to x86 assembly, part 4: Calling conventions
+4K views
+•
+6 years ago
+14:38
+Introduction to x86 assembly, part 3: The stack
+3.2K views
+•
+6 years ago
+17:20
+Introduction to x86 assembly, part 2: ADDing and SUBtracting, with a few JuMPs
+5.5K views
+•
+6 years ago
+12:46
+Introduction to x86 assembly, part 1: MOVing numbers around
+16K views
+•
+6 years ago
+8:17
+How to experiment with assembly instructions (fasm and OllyDbg)
+8K views
+•
+6 years ago
+6:55
+8051 example with fasmg
+1.5K views
+•
+6 years ago
+10:32
+How to set up fasmg on Windows
+3K views
+•
+6 years ago
+23:06
+How to use fasm in DOS
+4.1K views
+•
+6 years ago
+6:44
+How to download and set up flat assembler (fasm)
+13K views
+•
+6 years ago
+12:07
+20 years of flat assembler development (Unedited live session)
+2.7K views
+•
+7 years ago
+57:29
+Setting up protected mode on 80286, part 5: TSS and LDT (Unedited live session)
+482 views
+•
+7 years ago
+53:25
+Setting up protected mode on 80286, part 4: Privilege levels (Unedited live session)
+662 views
+•
+7 years ago
+47:52
+Setting up protected mode on 80286, part 3: Helpful macros (Unedited live session)
+260 views
+•
+7 years ago
+24:40
+Setting up protected mode on 80286, part 2: Interrupt descriptors (Unedited live session)
+667 views
+•
+7 years ago
+53:53
+Setting up protected mode on 80286, part 1: Segment descriptors (Unedited live session)
+1.5K views
+•
+7 years ago
+ 
+ 
+ 
+ 

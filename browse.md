@@ -8,3 +8,4 @@
 - [flatassembler.net_docs.php_article_fasmg_manual (20260513_020219)](pages/flatassembler.net/flatassembler.net_docs.php_article_fasmg_manual/20260513_020219/index.md) — 1 offline assets, 2 network requests
 - [flatassembler.net_download.php (20260513_020913)](pages/flatassembler.net/flatassembler.net_download.php/20260513_020913/index.md) — 3 offline assets, 6 network requests
 - [www.eporner.com_pornstar_kendra-sunderland (20260513_111417)](pages/eporner.com/www.eporner.com_pornstar_kendra-sunderland/20260513_111417/index.md) — 23 offline assets, 7 network requests
+- [www.youtube.com_channel_UCs_OWSjmFntZqjzSpgJoBhA_videos (20260513_112712)](pages/youtube.com/www.youtube.com_channel_UCs_OWSjmFntZqjzSpgJoBhA_videos/20260513_112712/index.md) — 176 offline assets, 156 network requests
