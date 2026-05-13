@@ -118,10 +118,16 @@
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [get-cookies.txt-locally_v0.7.2_chrome](https://github.com/maminaie06/GitBrowse/tree/main/downloads/get-cookies.txt-locally_v0.7.2_chrome)
+1. [fasm2](https://github.com/maminaie06/GitBrowse/tree/main/downloads/fasm2)
 
-2. [watch](https://github.com/maminaie06/GitBrowse/tree/main/downloads/watch)
+2. [fasmg.l5p0](https://github.com/maminaie06/GitBrowse/tree/main/downloads/fasmg.l5p0)
+
+3. [get-cookies.txt-locally_v0.7.2_chrome](https://github.com/maminaie06/GitBrowse/tree/main/downloads/get-cookies.txt-locally_v0.7.2_chrome)
+
+4. [watch](https://github.com/maminaie06/GitBrowse/tree/main/downloads/watch)
 
 ---
