@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "started_ms": 964,
+    "method": "GET",
+    "url": "https://flatassembler.net/docs.php?article=fasmg_manual",
+    "resource_type": "document",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://flatassembler.net/docs.php?article=fasmg_manual",
+      "status": 200,
+      "status_text": "She'll be apples",
+      "headers": {
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-length": "37058",
+        "content-type": "text/html;charset=UTF-8",
+        "date": "Wed, 13 May 2026 02:02:20 GMT",
+        "server": "HeavyThing",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "x-nb": "4454cefadce4750de1af5abf66b277465b28a161225adf5b6037db6d6ea44adc",
+        "x-powered-by": "PHP/7.4.33"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1256,
+    "response_body_file": "network/bodies/0001_document.html",
+    "response_body_sha256": "ae8cb534442d461a53f8c7fb93965f41b9dd3c77a8810e56306dbab28e0846c1",
+    "response_body_size": 131009,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 640,
+      "responseBodySize": 37058,
+      "responseHeadersSize": 362
+    },
+    "timing": {
+      "startTime": 1778637740648.481,
+      "domainLookupStart": 0.386,
+      "domainLookupEnd": 153.609,
+      "connectStart": 153.749,
+      "secureConnectionStart": 173.129,
+      "connectEnd": 227.915,
+      "requestStart": 228.042,
+      "responseStart": 284.059,
+      "responseEnd": 287.092
+    }
+  },
+  {
+    "id": 2,
+    "started_ms": 1254,
+    "method": "GET",
+    "url": "https://flatassembler.net/fasm.css",
+    "resource_type": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://flatassembler.net/docs.php?article=fasmg_manual",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "response": {
+      "url": "https://flatassembler.net/fasm.css",
+      "status": 200,
+      "status_text": "She'll be apples",
+      "headers": {
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "cache-control": "no-transform,public,max-age=300",
+        "content-encoding": "gzip",
+        "etag": "\"lmXm3aRyFFMmMbv7u9CJpNywsO8tA3/tCIBs\"",
+        "connection": "keep-alive",
+        "content-length": "901",
+        "x-nb": "3d23cfa741cf2241af07288472db9945ac63ce8909a22354b27d5c8c0c479a22e4eca87f049dac7e4b0edc82",
+        "date": "Wed, 13 May 2026 02:02:20 GMT",
+        "content-type": "text/css",
+        "last-modified": "Thu, 29 May 2025 16:58:46 GMT",
+        "server": "HeavyThing"
+      }
+    },
+    "failure": null,
+    "finished_ms": 1274,
+    "response_body_file": "network/bodies/0002_stylesheet.css",
+    "response_body_sha256": "7553861b0b8db2ec19203d0e6ceec8f1427eaff88fb27e9af3c4f9c33db64ea0",
+    "response_body_size": 3389,
+    "response_body_truncated": false,
+    "response_body_note": null,
+    "sizes": {
+      "requestBodySize": 0,
+      "requestHeadersSize": 542,
+      "responseBodySize": 901,
+      "responseHeadersSize": 483
+    },
+    "timing": {
+      "startTime": 1778637740938.114,
+      "domainLookupStart": -1,
+      "domainLookupEnd": -1,
+      "connectStart": -1,
+      "secureConnectionStart": -1,
+      "connectEnd": -1,
+      "requestStart": 0.181,
+      "responseStart": 19.639,
+      "responseEnd": 21.388
+    }
+  }
+]
