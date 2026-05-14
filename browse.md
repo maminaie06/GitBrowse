@@ -11,3 +11,4 @@
 - [www.youtube.com_channel_UCs_OWSjmFntZqjzSpgJoBhA_videos (20260513_112712)](pages/youtube.com/www.youtube.com_channel_UCs_OWSjmFntZqjzSpgJoBhA_videos/20260513_112712/index.md) — 176 offline assets, 156 network requests
 - [ukdevilz.com_video_kendra_20sunderland (20260513_113507)](pages/ukdevilz.com/ukdevilz.com_video_kendra_20sunderland/20260513_113507/index.md) — 48 offline assets, 56 network requests
 - [urish.medium.com_writing-your-first-android-app-in-assembly-30e8e0f8c3fe (20260513_211057)](pages/urish.medium.com/urish.medium.com_writing-your-first-android-app-in-assembly-30e8e0f8c3fe/20260513_211057/index.md) — 128 offline assets, 96 network requests
+- [www.kindpng.com_imgv_ihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro (20260514_084144)](pages/kindpng.com/www.kindpng.com_imgv_ihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro/20260514_084144/index.md) — 156 offline assets, 139 network requests

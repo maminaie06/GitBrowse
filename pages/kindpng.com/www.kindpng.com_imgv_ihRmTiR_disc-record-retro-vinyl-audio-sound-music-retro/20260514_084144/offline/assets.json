@@ -1,0 +1,1476 @@
+[
+  {
+    "url": "https://www.kindpng.com/css/style.css?v=1.21",
+    "final_url": "https://www.kindpng.com/css/style.css?v=1.21",
+    "status": "saved",
+    "path": "assets/f9af02c853f971f3_style.css",
+    "content_type": "text/css",
+    "size": 30219,
+    "sha256": "3801006475b0d07b3d68562507a4c7daeca047c342636d9e989cac036341c8fd"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-brands-400.eot",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-brands-400.woff2",
+    "final_url": "https://www.kindpng.com/webfonts/fa-brands-400.woff2",
+    "status": "saved",
+    "path": "assets/dd99d3bf29eeb05b_fa-brands-400.woff2",
+    "content_type": "text/html",
+    "size": 74524,
+    "sha256": "975714c6cb70ba105bfa87d2415df2fddde4a46c1d3ab9d0cf45465e56cba97d"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-brands-400.woff",
+    "final_url": "https://www.kindpng.com/webfonts/fa-brands-400.woff",
+    "status": "saved",
+    "path": "assets/71ad28787a8bcf33_fa-brands-400.woff",
+    "content_type": "application/x-font-woff",
+    "size": 87520,
+    "sha256": "4ad88e6a32db51a41cff1741970ca95b3e433fbfb8be269c72f881a42f2b88c6"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-brands-400.ttf",
+    "final_url": "https://www.kindpng.com/webfonts/fa-brands-400.ttf",
+    "status": "saved",
+    "path": "assets/8e36a2aeb373e153_fa-brands-400.ttf",
+    "content_type": "application/x-font-ttf",
+    "size": 129284,
+    "sha256": "7fc88295dbb8337fcf84c0d4fec815e08f68a22f19346b93a0455ce44796b307"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-brands-400.svg",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-regular-400.eot",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-regular-400.woff2",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-regular-400.woff",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-regular-400.ttf",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-regular-400.svg",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-solid-900.eot",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-solid-900.woff2",
+    "final_url": "https://www.kindpng.com/webfonts/fa-solid-900.woff2",
+    "status": "saved",
+    "path": "assets/bb279c1b89b48c1b_fa-solid-900.woff2",
+    "content_type": "text/html",
+    "size": 75408,
+    "sha256": "80fe90cb559538158bc235f4e539d9bcae203e19fab7c6970aad37b0154348ff"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-solid-900.woff",
+    "final_url": "https://www.kindpng.com/webfonts/fa-solid-900.woff",
+    "status": "saved",
+    "path": "assets/08a853087f41ef1d_fa-solid-900.woff",
+    "content_type": "application/x-font-woff",
+    "size": 98016,
+    "sha256": "00bca6a9271b5e1cbb3965a74f48c1ce0b72bcbf08790aa2cab95f8dc5362153"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-solid-900.ttf",
+    "final_url": "https://www.kindpng.com/webfonts/fa-solid-900.ttf",
+    "status": "saved",
+    "path": "assets/3515b49616f2053f_fa-solid-900.ttf",
+    "content_type": "application/x-font-ttf",
+    "size": 191836,
+    "sha256": "b6db775363c9cd745cb789d67c3bb3e472f55eee7ab46df6f4798e6c9cbf49f4"
+  },
+  {
+    "url": "https://www.kindpng.com/webfonts/fa-solid-900.svg",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/css/all.min.css?v=2",
+    "final_url": "https://www.kindpng.com/css/all.min.css?v=2",
+    "status": "saved",
+    "path": "assets/b0c567e30d2ac499_all.min.css",
+    "content_type": "text/css",
+    "size": 56550,
+    "sha256": "95d1d26a7463fb465c7b25b6a57f1c7804939b4923b31e5a439f229e6311d292"
+  },
+  {
+    "url": "https://www.kindpng.com/css/indexnew.css?v=2",
+    "final_url": "https://www.kindpng.com/css/indexnew.css?v=2",
+    "status": "saved",
+    "path": "assets/4089ed1d259afda7_indexnew.css",
+    "content_type": "text/css",
+    "size": 14209,
+    "sha256": "826933f87428efcad2cfa219e153bd29153daebdabb90c29b39785c49ef67cf6"
+  },
+  {
+    "url": "https://www.kindpng.com/css/page.css",
+    "final_url": "https://www.kindpng.com/css/page.css",
+    "status": "saved",
+    "path": "assets/d4c8e34ac6042bc1_page.css",
+    "content_type": "text/css",
+    "size": 2122,
+    "sha256": "a590b97a63b6be75222975a50852a9324952bf41f5820737ec7213d1ff178d07"
+  },
+  {
+    "url": "https://www.kindpng.com/css/style-content.css?v=1.2",
+    "final_url": "https://www.kindpng.com/css/style-content.css?v=1.2",
+    "status": "saved",
+    "path": "assets/bed97b4c83171b12_style-content.css",
+    "content_type": "text/css",
+    "size": 12836,
+    "sha256": "261977466094705eb1c0b91cca9f6cf00adfac4aabcf9701831135baddf8ddd1"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+    "status": "saved",
+    "path": "assets/5de87589d5136875_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 54944,
+    "sha256": "f2d92a95ae369af994faeba39e2f987974e7cb1f3f3a984e6538d535f1ff9e9b"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+    "status": "saved",
+    "path": "assets/5c5ce44195fa45cb_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 32016,
+    "sha256": "9dbf8ed5c11ef7e7e80a08cb18d7f7e0e93eea2f77345ee8a73d6e08e122c36e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+    "status": "saved",
+    "path": "assets/8d0ed9b8dde1b408_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 4844,
+    "sha256": "23db8c30fcaf25e39a14a799e776804c7fd541ff0663189db7bb652d15129a73"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+    "status": "saved",
+    "path": "assets/ab79bd0289d88545_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 22920,
+    "sha256": "90e5211e2fa04327726f93c19dc01dffebc18d8def23931848be1213dc826ac3"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+    "status": "saved",
+    "path": "assets/622517e2908cf37f_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 17880,
+    "sha256": "0d3c34da39df0aa6b82347b45364e9e95fcece8029b5d9e7325bcef4e56234f1"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2",
+    "status": "saved",
+    "path": "assets/10e54189e7194b05_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 56528,
+    "sha256": "b011091d0c5f7c3c5139a40f3120b157f6c4b587164ff66e66a2bccd58a5a91f"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2",
+    "status": "saved",
+    "path": "assets/2fb5de90c38b1c5e_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 26368,
+    "sha256": "be7296389be234abc22997275b6b7d056a0e6ff9d6e7dd63cfe7d3232aac9dac"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+    "status": "saved",
+    "path": "assets/ab98884ed822e5f2_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 17212,
+    "sha256": "7a79d808ca680f3d672a68aa28098ad9ca9d4a93ae24a04b4b00c07f4ab67d40"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+    "status": "saved",
+    "path": "assets/1c3c6b1aef373a53_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+    "content_type": "font/woff2",
+    "size": 37752,
+    "sha256": "a6fa0e8ac2a665c121a19c2e2434fb286e3afdef7b9288739a73c7cb6849108c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+    "status": "saved",
+    "path": "assets/a191d2071c4ed31d_memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+    "content_type": "font/woff2",
+    "size": 50216,
+    "sha256": "186836b74ceac07b2764c07c0379420e3014efb30fe918461c235e0ef6cbc4a2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+    "status": "saved",
+    "path": "assets/ae22f6ac58db5725_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 49268,
+    "sha256": "95dd03b930aca04ab393f625101f7367e3abc83b3b09e6074de1fc081ba6fd1c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+    "status": "saved",
+    "path": "assets/8fc95f2ca2c14a85_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 26588,
+    "sha256": "2809606237a64bd9c1461e727f369ddfd77a350e4900fffe64e8bfe16a2b3454"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+    "status": "saved",
+    "path": "assets/558b1f62e8d6f605_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 4504,
+    "sha256": "197ef1e4874d6f8f59bcb8f303029b7fd40aebd7a23aa96c1b649b3faea5d57c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+    "status": "saved",
+    "path": "assets/c6314d3022f844de_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 21332,
+    "sha256": "08ea4cf0a7c61077656395aa7dc728a6d184ee4bdae03a1bc34c17ee97e8f31c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+    "status": "saved",
+    "path": "assets/2221a648fb3ce0bc_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 16920,
+    "sha256": "7abb700b280437b795e68b3a85a1dcbfdf04bb815555762033ade4f7894f2554"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+    "status": "saved",
+    "path": "assets/11d8cb2dc8249eea_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 51912,
+    "sha256": "a093b888254afd7deb8e37cccfd434e7d06ed47d22cfed9621631d80e1e81554"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+    "status": "saved",
+    "path": "assets/d0384628c307ba15_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 26596,
+    "sha256": "8f80f993e523f2e6c2d097552740fd26331658da23ffad31d26edcdd3aeec370"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+    "status": "saved",
+    "path": "assets/c42c7e9c7332d350_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 16496,
+    "sha256": "cc762462ea67b7815649ea3cc005699e3b95b3244b59eb2ce2d22e3ad33497c2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+    "status": "saved",
+    "path": "assets/2edf4c3bea99d624_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+    "content_type": "font/woff2",
+    "size": 35156,
+    "sha256": "d5bab8e28732fe3d10dcef4f77b9c248605bbb2a87d289a2539251ceafab536a"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "final_url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": "saved",
+    "path": "assets/0e8b7e344973e4d9_memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "content_type": "font/woff2",
+    "size": 48320,
+    "sha256": "d8e4fe0452aa2076429a9bb5d8757d00a994dd95986cf950e9a1a371b9a072a0"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap",
+    "final_url": "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap",
+    "status": "saved",
+    "path": "assets/c68a8e1b5eadbc4a_css.css",
+    "content_type": "text/css",
+    "size": 23154,
+    "sha256": "36816c4ed050b5bd448fc3a603986d2d1175dc0e1fda2776969869b7d61e7f16"
+  },
+  {
+    "url": "https://www.kindpng.com/img/sprites.png?a",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/img/sprites.svg?a",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/img/social_icons.svg",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/css/c68a8e1b5eadbc4a_css.css",
+    "status": "failed",
+    "reason": "HTTP 404"
+  },
+  {
+    "url": "https://www.kindpng.com/css/base-list.css",
+    "final_url": "https://www.kindpng.com/css/base-list.css",
+    "status": "saved",
+    "path": "assets/ef88c6196e097884_base-list.css",
+    "content_type": "text/css",
+    "size": 66785,
+    "sha256": "ab4ad65e9a7bbf854d14b52121699a5afc8de93d774af8cb9b5fcaf6920dd40f"
+  },
+  {
+    "url": "https://www.kindpng.com/css/bootstrap.min.css",
+    "final_url": "https://www.kindpng.com/css/bootstrap.min.css",
+    "status": "saved",
+    "path": "assets/e66f2ed49349a6a6_bootstrap.min.css",
+    "content_type": "text/css",
+    "size": 144867,
+    "sha256": "cfa7dd112591a96f00be3ba2f85a1eadfd471ed6bf31faff471da6ec577001c4"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202605110101/reactive_library_fy2021.js",
+    "final_url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202605110101/reactive_library_fy2021.js",
+    "status": "saved",
+    "path": "assets/dd2f5ec3069041c0_reactive_library_fy2021.js",
+    "content_type": "text/javascript",
+    "size": 198007,
+    "sha256": "3085c9b0fb1142239afce1952f7dc1fa71188ae3a05f8b560794396c71fc16c8"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202605110101/show_ads_impl_fy2021.js",
+    "final_url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202605110101/show_ads_impl_fy2021.js",
+    "status": "saved",
+    "path": "assets/d04a381530f8091d_show_ads_impl_fy2021.js",
+    "content_type": "text/javascript",
+    "size": 542324,
+    "sha256": "2c31d88f7a6ef397950583697520d045b0854cf4ff74f4c2322451ee9432d15c"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    "final_url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    "status": "saved",
+    "path": "assets/de30d705b9d76250_adsbygoogle.js",
+    "content_type": "text/javascript",
+    "size": 159222,
+    "sha256": "d33961fbf1efa4effd32f056e636fc4ac16ca99adf67e7efe1ad3e1b99b5cf46"
+  },
+  {
+    "url": "https://fundingchoicesmessages.google.com/i/ca-pub-7597197106102937?href=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro&ers=2",
+    "final_url": "https://fundingchoicesmessages.google.com/i/ca-pub-7597197106102937?href=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro&ers=2",
+    "status": "saved",
+    "path": "assets/a5f6e35604a33270_ca-pub-7597197106102937",
+    "content_type": "application/javascript",
+    "size": 221494,
+    "sha256": "578fbd036146be4638337a8b7b2013495f0d0289cd0e6be792ea79665db5bb98"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl1pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl1pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/1148cd52e104e272_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9804,
+    "sha256": "0f688252bea43cce5259acbcd94cdff5196cfb6a169b78c188f356c0f40681b1"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl3pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl3pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/fbec1726cde90614_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 43524,
+    "sha256": "533966fa209f37c8711345c50cc8f5eb455081ce4325b01139fd5b9b0644d674"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlKpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlKpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/0eaf8acfbeae78f8_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 1804,
+    "sha256": "713f3297db0094bc6293c13647e8b03aa24e01c5961e14a1f38b45720bc3f3a5"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlopynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlopynSEg.woff2",
+    "status": "saved",
+    "path": "assets/637844d588217f3a_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9624,
+    "sha256": "688bcdaf7655e3c6893c534847b943267e38c442cee3f332760df2eb771b24d8"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlhpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlhpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/aff11ed72a13531e_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9416,
+    "sha256": "954d168a0473d75d8f90814e917f65bc19fc3c9f515ddf14288caa3d3b1f3fca"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlkpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlkpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/8ad59a15e38bf568_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 29112,
+    "sha256": "7a6ad3006201d6128d402bad4357d815ae6ed2521c3815c3a153edbb66dc4ab2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl0pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl0pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/8c527293f3711040_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 82884,
+    "sha256": "6c3920054c0f8764c82b2e4e42b6318a66d2578017bedb4259927d6988a64637"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl6pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl6pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/ac161936614150b8_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 10052,
+    "sha256": "0f64d4ac7e9a2a588c0273240794282382cf09160c183a330441dd23c317197d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlppynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlppynSEg.woff2",
+    "status": "saved",
+    "path": "assets/b057e658dedce20d_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 5340,
+    "sha256": "fd6ab88a1ad59e91b2ccb5ff5a4d53c02f8423b9583db0dc2952f9e330c7678b"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlmpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlmpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/8b323ea0fd3a39e1_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 5700,
+    "sha256": "ed3797f246347fc40c9f3037af38e637908a720b2cdeedd4e8623f0076d09b49"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl-pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl-pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/9166f8744f0d2727_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 24084,
+    "sha256": "73db9b530bf4bf1b907d2c36081252661f16c3ede278a126c75177343646baae"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlGpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlGpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/833e0452ad6972e5_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 11804,
+    "sha256": "7d795de89febc82b2c4af8edf30fc308a9ce57a4a49faf1abf754ee446469cc9"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlnpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlnpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/8a98a3873812b078_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 8352,
+    "sha256": "5bc4f8391346107b0594da41d8988fea52e318f6c80c02d4f21f13d8b6610fad"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlupynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlupynSEg.woff2",
+    "status": "saved",
+    "path": "assets/b71d77c62d40d26f_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 34312,
+    "sha256": "ee8d768f90d9070d3cef198269ccfb292f5976b69d0e3755ce78c20529cf4b6d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlspynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlspynSEg.woff2",
+    "status": "saved",
+    "path": "assets/8868ce523485a35f_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9680,
+    "sha256": "98234b259902b89ee0c1962af8a3e0427ffae8274b4bbe47a3b61dd016f58bf8"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl9pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl9pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/1aa49ec120208cb1_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 23400,
+    "sha256": "95a5157da9e9c6e4dfe9b6b27f9adc8d3c15f226a73e55f2bd13c1d3ee2ce6e3"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl8pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl8pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/7e9fdd9cc8f44cce_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 25272,
+    "sha256": "215c93f2ca8419880ec1e7d3641fb3ddcbfad608356a4f439d47e736d3713084"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl4pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl4pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/25cd03f58a1af3a5_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 37420,
+    "sha256": "a38156d22ab41349ed6f786bcff1de526901063bedca95f0cd283c31af91c35a"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJkLpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJkLpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/341115809ca93afd_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 12516,
+    "sha256": "526a20b87a99be8ce297243c7b00b12cace619b6137ebb923e5b7c20260e1dca"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlzpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlzpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/a591753cef3b5c17_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 13428,
+    "sha256": "afb96385f2ee538356c1486dc530fb5d8fe5586a2358dc064a196b633962befb"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl5pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl5pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/3ceddcd219e7bab1_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 34888,
+    "sha256": "6c982c0faac94ff9b14344a53e74da792d22add62e0dccd58cb7383481fb3eb1"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlxpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlxpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/e426c79e991fa4a6_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9712,
+    "sha256": "17e10abb5e3083d3e0b8125ab318b33df76cf4f6689dc56574f2a132f930de84"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlqpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlqpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/be4676fb2214e1c4_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 5364,
+    "sha256": "3b98455e736db216a0aeaa81ce6c8b81e242354cc0a1fc6f472caf09441493de"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlrpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlrpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/71bc342c730742a0_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 13440,
+    "sha256": "f4c78c38c3a5e8fd4677aec6ef384e6cfefba488a2644a6b7955a54b3ca1e01d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyk.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyk.woff2",
+    "status": "saved",
+    "path": "assets/7fa555d1790cacdd_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 22184,
+    "sha256": "d2263711c4bed4e203c88ed278049c80d1d3b1fff690be0b3a516749cbb38c58"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Google%20Sans%3A400",
+    "final_url": "https://fonts.googleapis.com/css?family=Google%20Sans%3A400",
+    "status": "saved",
+    "path": "assets/02a35da1540f52f3_css.css",
+    "content_type": "text/css",
+    "size": 9205,
+    "sha256": "97b9e3ac82ad1b017b9b1d5091c06c42acdd9980a46e995fc11d96a9791ae1be"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l1pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l1pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/63f13f60e5683b70_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9780,
+    "sha256": "74a7c3112bf4ffc42c5242bc2816fe2ee9222e23a5c17728cb5ccf5da8aa7615"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l3pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l3pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/f87ee19eb5b8e339_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 46044,
+    "sha256": "548a59c20bd85bd934335357dfeaee75e0c1ef67d1ec927954195ae90024bb57"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lKpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lKpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/b8d77614e16fbaf4_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 1812,
+    "sha256": "ffa63ebaa73333e326669f638467017c4fe870d750f7b33fdd5c03dd77e66a2e"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lopynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lopynSEg.woff2",
+    "status": "saved",
+    "path": "assets/1b6151422077e13d_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9784,
+    "sha256": "065c1115045a04079af86ad87a8b89333e3b1ef07360c5e744ddfe08ac6c7ed0"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lhpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lhpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/353bb01c0dd176e3_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9544,
+    "sha256": "7be2c4c5654a885fca1b4a7aed2ecc918663fd00e62d412e48807bd9a8c68ea0"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lkpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lkpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/cda7b6c05fcc0724_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 30316,
+    "sha256": "910dcc7bc556feee8bb2797ce39ce429cc535f831ddffc7ab369d9c3adaefa17"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l0pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l0pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/407cf8d9be50ef87_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 89820,
+    "sha256": "fbc268adea74d889daaabe911310ed23d3253eded975d980a98df1a9030f331c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l6pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l6pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/7393d1d6bc992667_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 10188,
+    "sha256": "5b933b938314ab3e051f07ffef0582f68c5a3afd5302b4f7f320669575f7c552"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lppynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lppynSEg.woff2",
+    "status": "saved",
+    "path": "assets/9afb2f3ceeb2c15b_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 5340,
+    "sha256": "e3a7ad8d9a0a20d5d6963dcd599eea639bfa1a70f3691b99a1dade29fd5c9259"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lmpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lmpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/373cb0045a8d3f6c_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 5784,
+    "sha256": "708fa529ca4c6cffe838374e516ec53ba2adb9edffc0c90e8f83b9541470c9f3"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l-pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l-pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/0a9f2eebf8eeaf63_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 25592,
+    "sha256": "f3977bef391b7845f289b281620074ceb0fb2bb5c45c04ac2eea0b0b0cf6c806"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lGpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lGpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/493d426690137e3b_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 11984,
+    "sha256": "8983a44531574ae04ec536eea7fd01fb9705b99dff822f806496cb28b231b537"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lnpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lnpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/6aa99de4edf721ec_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 8312,
+    "sha256": "288fe52aa1334fd0214b076b72b7b8cbce0f5ac2bee45b50ce441e04de1edefd"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lupynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lupynSEg.woff2",
+    "status": "saved",
+    "path": "assets/46f247c418e1bc57_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 34736,
+    "sha256": "7daf953640030543679b06d2d352472b137967b957e05882e53806e2b790ea8f"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lspynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lspynSEg.woff2",
+    "status": "saved",
+    "path": "assets/9357f4c9407a2787_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 10096,
+    "sha256": "e62791875094bba6837aa0c45add592de879b3949f0277af3e0626dca682c565"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l9pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l9pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/f5b94bad5aa09b9b_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 25516,
+    "sha256": "8b5e5fbf026922bcf498fb7b29f9823bb2f8fa792b356d83a662a549b2ec1a7c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l8pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l8pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/565376d5a4e0d99f_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 27600,
+    "sha256": "e44e0dba9ff1a3a6f16e24dd65ccfb5859daabffecf697d03ad060d3d5adab5d"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l4pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l4pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/8ca875ea899be716_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 43908,
+    "sha256": "fb55540c71ab3445e8797b0ae4be97956b7f90a382efc1dc0ccf2af093d044fb"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5kLpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5kLpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/afc32c80efbf9b2d_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 12580,
+    "sha256": "b85b789e6973e229fdb08d5cbd9e0efe022e803f81bc2cae994d9c1c73e18473"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lzpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lzpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/3ac461f4c7b4fd7a_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 14256,
+    "sha256": "787355218b271790d44ebf56b544aa35a6b96c2e8ba6570fa39ff82d67673041"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l5pynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5l5pynSEg.woff2",
+    "status": "saved",
+    "path": "assets/f5e21c2f2b3f46d1_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 38056,
+    "sha256": "053b1deee424adc3b3d8cc5ac4ca12848aac90720682430ac0ec68d167d10d75"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lxpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lxpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/fa214c2ea2cc5c1f_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 9844,
+    "sha256": "1c90ecde09ab99f9db42965def2119b4075cd5ee14ccd1ebc8371a0c6c521dde"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lqpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lqpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/e2ce51819c7fbd9d_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 5412,
+    "sha256": "05cbfb323e5fb54f95ea612bb50fa329191a91aacfd1d8b4ec69246fa4de5d07"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lrpynSEg.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lrpynSEg.woff2",
+    "status": "saved",
+    "path": "assets/719ba08d43907b44_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 13576,
+    "sha256": "0880ab0672f2d66c6c4b057b02b0acd35687fc3c958469533d8ca0a59299e38c"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5llpyk.woff2",
+    "final_url": "https://fonts.gstatic.com/s/googlesans/v67/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5llpyk.woff2",
+    "status": "saved",
+    "path": "assets/6421a6ce5593fcaf_4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6c.woff2",
+    "content_type": "font/woff2",
+    "size": 23076,
+    "sha256": "c3e646e385b7f7fa06a4ff8d6a1c628b92948b58fec797f37c357257ed61e7c5"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Google%20Sans%3A700",
+    "final_url": "https://fonts.googleapis.com/css?family=Google%20Sans%3A700",
+    "status": "saved",
+    "path": "assets/c5610423517e9cb8_css.css",
+    "content_type": "text/css",
+    "size": 9205,
+    "sha256": "fd278ca7926b2f1c8a1492c6fa75eb6170f95574e27cac4c869507c2a4b0a24b"
+  },
+  {
+    "url": "https://fundingchoicesmessages.google.com/f/AGSKWxX4Sk2xYFBzt6cRuRQoS71cvnwY_bDr6tuOuqk1IJIa743QakMkl9gTc_1z4VkUhiPBsznu8McLHmtMx4wqkjR_71o6G8N7l9pxF9jwhlDCKC6me6OD4m04xjoziiuDC8vBkqDyeg==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzc4NzQ4MTA2LDg2NjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly93d3cua2luZHBuZy5jb20vaW1ndi9paFJtVGlSX2Rpc2MtcmVjb3JkLXJldHJvLXZpbnlsLWF1ZGlvLXNvdW5kLW11c2ljLXJldHJvLyIsbnVsbCxbWzgsIlQwRUQ5ZDNWRUNVIl0sWzksImVuLVVTIl0sWzE4LCJbW1tudWxsLDgwN11dXSJdLFsyMywiMTc3ODc0ODEwNiJdLFszNSwiMTc3ODc0ODEwNiJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+    "final_url": "https://fundingchoicesmessages.google.com/f/AGSKWxX4Sk2xYFBzt6cRuRQoS71cvnwY_bDr6tuOuqk1IJIa743QakMkl9gTc_1z4VkUhiPBsznu8McLHmtMx4wqkjR_71o6G8N7l9pxF9jwhlDCKC6me6OD4m04xjoziiuDC8vBkqDyeg==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzc4NzQ4MTA2LDg2NjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly93d3cua2luZHBuZy5jb20vaW1ndi9paFJtVGlSX2Rpc2MtcmVjb3JkLXJldHJvLXZpbnlsLWF1ZGlvLXNvdW5kLW11c2ljLXJldHJvLyIsbnVsbCxbWzgsIlQwRUQ5ZDNWRUNVIl0sWzksImVuLVVTIl0sWzE4LCJbW1tudWxsLDgwN11dXSJdLFsyMywiMTc3ODc0ODEwNiJdLFszNSwiMTc3ODc0ODEwNiJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+    "status": "saved",
+    "path": "assets/3f978e947882fc2a_AGSKWxX4Sk2xYFBzt6cRuRQoS71cvnwY_bDr6tuOuqk1IJIa74",
+    "content_type": "application/javascript",
+    "size": 1966,
+    "sha256": "9332ce52b8ee482e8c3a32d1c67bfb7a1a0d48e5b47af9e66a36743d5c7d9304"
+  },
+  {
+    "url": "https://fundingchoicesmessages.google.com/f/AGSKWxUY3Vz-nDzswteG12QMPvZraZa0ayrWmAWgPnu6sLL3WchbWd1lMphuhYAY8vFAK99cSRTFlW3Het2HEc094ZJft1qqnFaqMKdbbfIPEJWi7x-CaShs3q4-cZnyeAMTJr3S0WdI2Q==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzc4NzQ4MTA2LDk4MjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOV0sbnVsbCwyLG51bGwsImVuIl0sImh0dHBzOi8vd3d3LmtpbmRwbmcuY29tL2ltZ3YvaWhSbVRpUl9kaXNjLXJlY29yZC1yZXRyby12aW55bC1hdWRpby1zb3VuZC1tdXNpYy1yZXRyby8iLG51bGwsW1s4LCJUMEVEOWQzVkVDVSJdLFs5LCJlbi1VUyJdLFsxOCwiW1tbbnVsbCw4MDddXV0iXSxbMjMsIjE3Nzg3NDgxMDYiXSxbMzUsIjE3Nzg3NDgxMDYiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI5LCJmYWxzZSJdXV0",
+    "final_url": "https://fundingchoicesmessages.google.com/f/AGSKWxUY3Vz-nDzswteG12QMPvZraZa0ayrWmAWgPnu6sLL3WchbWd1lMphuhYAY8vFAK99cSRTFlW3Het2HEc094ZJft1qqnFaqMKdbbfIPEJWi7x-CaShs3q4-cZnyeAMTJr3S0WdI2Q==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzc4NzQ4MTA2LDk4MjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOV0sbnVsbCwyLG51bGwsImVuIl0sImh0dHBzOi8vd3d3LmtpbmRwbmcuY29tL2ltZ3YvaWhSbVRpUl9kaXNjLXJlY29yZC1yZXRyby12aW55bC1hdWRpby1zb3VuZC1tdXNpYy1yZXRyby8iLG51bGwsW1s4LCJUMEVEOWQzVkVDVSJdLFs5LCJlbi1VUyJdLFsxOCwiW1tbbnVsbCw4MDddXV0iXSxbMjMsIjE3Nzg3NDgxMDYiXSxbMzUsIjE3Nzg3NDgxMDYiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI5LCJmYWxzZSJdXV0",
+    "status": "saved",
+    "path": "assets/2542eb085216d800_AGSKWxUY3Vz-nDzswteG12QMPvZraZa0ayrWmAWgPnu6sLL3Wc",
+    "content_type": "application/javascript",
+    "size": 9188,
+    "sha256": "24bf510d88516403fd834fd0549b1a755aa320cf45ae9ffe7da3117b3e0c65c6"
+  },
+  {
+    "url": "https://fundingchoicesmessages.google.com/f/AGSKWxUqE7d1d5Dze4G7HPjnUVS4B3TVpxCwZ11a_wvy6b60iTpWkUnzZo7pNEA1ru2-VzhqPeKjVxSHD25bCtCzWvSfWX3N1dWq0GqqK060DgBoQz5mirm5LekhMYMuyGAFakly9Txd1A==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzc4NzQ4MTA3LDY2NzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly93d3cua2luZHBuZy5jb20vaW1ndi9paFJtVGlSX2Rpc2MtcmVjb3JkLXJldHJvLXZpbnlsLWF1ZGlvLXNvdW5kLW11c2ljLXJldHJvLyIsbnVsbCxbWzgsIlQwRUQ5ZDNWRUNVIl0sWzksImVuLVVTIl0sWzE4LCJbW1tudWxsLDgwN11dXSJdLFsyMywiMTc3ODc0ODEwNiJdLFszNSwiMTc3ODc0ODEwNiJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+    "final_url": "https://fundingchoicesmessages.google.com/f/AGSKWxUqE7d1d5Dze4G7HPjnUVS4B3TVpxCwZ11a_wvy6b60iTpWkUnzZo7pNEA1ru2-VzhqPeKjVxSHD25bCtCzWvSfWX3N1dWq0GqqK060DgBoQz5mirm5LekhMYMuyGAFakly9Txd1A==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzc4NzQ4MTA3LDY2NzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly93d3cua2luZHBuZy5jb20vaW1ndi9paFJtVGlSX2Rpc2MtcmVjb3JkLXJldHJvLXZpbnlsLWF1ZGlvLXNvdW5kLW11c2ljLXJldHJvLyIsbnVsbCxbWzgsIlQwRUQ5ZDNWRUNVIl0sWzksImVuLVVTIl0sWzE4LCJbW1tudWxsLDgwN11dXSJdLFsyMywiMTc3ODc0ODEwNiJdLFszNSwiMTc3ODc0ODEwNiJdLFsxOSwiMiJdLFsxNywiWzBdIl0sWzI0LCIiXSxbMjksImZhbHNlIl1dXQ",
+    "status": "saved",
+    "path": "assets/a08975bef2fb1430_AGSKWxUqE7d1d5Dze4G7HPjnUVS4B3TVpxCwZ11a_wvy6b60iT",
+    "content_type": "application/javascript",
+    "size": 3241,
+    "sha256": "6f5e09fb9a2f7755ee43a89fd54e837f8fd43b8cbddf3124d0b8e5063605f1c5"
+  },
+  {
+    "url": "https://www.kindpng.com/images/logo.png",
+    "final_url": "https://www.kindpng.com/images/logo.png",
+    "status": "saved",
+    "path": "assets/3b13f9094d161f9b_logo.png",
+    "content_type": "image/png",
+    "size": 41981,
+    "sha256": "5a1aa018f24b0bd3458363effbc00cbbec0274d645fbd90336097c993de452c6"
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7597197106102937&output=html&adk=1812271804&adf=3025194257&lmt=1778748106&plat=9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32&format=0x0&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro%2F&pra=5&asro=0&aiactd=0&aicctd=0&ailctd=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTAuMCIsIng4NiIsIiIsIjE0Ny4wLjc3MjcuMTUiLG51bGwsMCxudWxsLCI2NCIsW1siSGVhZGxlc3NDaHJvbWUiLCIxNDcuMC43NzI3LjE1Il0sWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTQ3LjAuNzcyNy4xNSJdXSwwXQ..&abgtt=9&dt=1778748106228&bpp=14&bdt=120&idt=61&shv=r20260511&mjsv=m202605110101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=930324043470&frm=20&pv=2&u_tz=0&u_his=2&u_h=900&u_w=1365&u_ah=900&u_aw=1365&u_cd=24&u_sd=1&dmc=16&adx=-12245933&ady=-12245933&biw=1365&bih=900&scr_x=0&scr_y=0&eid=95386813%2C95386338&oid=2&pvsid=85849238486303&tmod=1197470169&uas=0&nvt=1&fsapi=1&fc=1920&brdim=0%2C0%2C0%2C0%2C1365%2C0%2C1365%2C900%2C1365%2C900&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=430x707_l%7C430x707_r&bz=1&ifi=1&uci=a!1&fsb=1&dtd=90",
+    "final_url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7597197106102937&output=html&adk=1812271804&adf=3025194257&lmt=1778748106&plat=9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32&format=0x0&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro%2F&pra=5&asro=0&aiactd=0&aicctd=0&ailctd=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTAuMCIsIng4NiIsIiIsIjE0Ny4wLjc3MjcuMTUiLG51bGwsMCxudWxsLCI2NCIsW1siSGVhZGxlc3NDaHJvbWUiLCIxNDcuMC43NzI3LjE1Il0sWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTQ3LjAuNzcyNy4xNSJdXSwwXQ..&abgtt=9&dt=1778748106228&bpp=14&bdt=120&idt=61&shv=r20260511&mjsv=m202605110101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=930324043470&frm=20&pv=2&u_tz=0&u_his=2&u_h=900&u_w=1365&u_ah=900&u_aw=1365&u_cd=24&u_sd=1&dmc=16&adx=-12245933&ady=-12245933&biw=1365&bih=900&scr_x=0&scr_y=0&eid=95386813%2C95386338&oid=2&pvsid=85849238486303&tmod=1197470169&uas=0&nvt=1&fsapi=1&fc=1920&brdim=0%2C0%2C0%2C0%2C1365%2C0%2C1365%2C900%2C1365%2C900&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=430x707_l%7C430x707_r&bz=1&ifi=1&uci=a!1&fsb=1&dtd=90",
+    "status": "saved",
+    "path": "assets/23e185c74532e7b1_ads.html",
+    "content_type": "text/html",
+    "size": 144583,
+    "sha256": "bc5c96442470e814389323d4cbcda6eb15e676e0eeefdeb6e9cdc9ea3a508a59"
+  },
+  {
+    "url": "https://www.kindpng.com/picc/m/186-1868279_disc-record-retro-vinyl-audio-sound-music-retro.png",
+    "final_url": "https://www.kindpng.com/picc/m/186-1868279_disc-record-retro-vinyl-audio-sound-music-retro.png",
+    "status": "saved",
+    "path": "assets/b2fcfae2c61c44db_186-1868279_disc-record-retro-vinyl-audio-sound-mu.png",
+    "content_type": "image/png",
+    "size": 392571,
+    "sha256": "423730ee1900b8d6c482868db7c425f2ad2f258c8865c8f64cd8d4cfb7411304"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/12129.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/12129.jpg",
+    "status": "saved",
+    "path": "assets/bd3e1d81ef05e29f_12129.jpg",
+    "content_type": "image/jpeg",
+    "size": 6086,
+    "sha256": "4ebeac668a0739c655cc94a638b5907583858e10e02d2cfe49d971655841baa8"
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7597197106102937&output=html&h=280&slotname=3672163616&adk=1306780016&adf=3217472279&pi=t.ma~as.3672163616&w=350&fwrn=4&fwrnh=100&lmt=1778748106&rafmt=1&format=350x280&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro%2F&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&asro=0&aiactd=0&aicctd=0&ailctd=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTAuMCIsIng4NiIsIiIsIjE0Ny4wLjc3MjcuMTUiLG51bGwsMCxudWxsLCI2NCIsW1siSGVhZGxlc3NDaHJvbWUiLCIxNDcuMC43NzI3LjE1Il0sWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTQ3LjAuNzcyNy4xNSJdXSwwXQ..&abgtt=9&dt=1778748106373&bpp=6&bdt=265&idt=6&shv=r20260511&mjsv=m202605110101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0%2C785x280&nras=1&correlator=930324043470&frm=20&pv=1&u_tz=0&u_his=2&u_h=900&u_w=1365&u_ah=900&u_aw=1365&u_cd=24&u_sd=1&dmc=16&adx=878&ady=1579&biw=1365&bih=900&scr_x=0&scr_y=0&eid=95386813%2C95386338&oid=2&pvsid=85849238486303&tmod=1197470169&uas=0&nvt=1&fc=1920&brdim=0%2C0%2C0%2C0%2C1365%2C0%2C1365%2C900%2C1365%2C900&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=128&bc=31&plas=430x707_l%7C430x707_r&bz=1&ifi=3&uci=a!3&btvi=1&fsb=1&dtd=9",
+    "final_url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7597197106102937&output=html&h=280&slotname=3672163616&adk=1306780016&adf=3217472279&pi=t.ma~as.3672163616&w=350&fwrn=4&fwrnh=100&lmt=1778748106&rafmt=1&format=350x280&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro%2F&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&asro=0&aiactd=0&aicctd=0&ailctd=0&aimartd=4&aieuf=1&aicrs=1&uach=WyJXaW5kb3dzIiwiMTAuMCIsIng4NiIsIiIsIjE0Ny4wLjc3MjcuMTUiLG51bGwsMCxudWxsLCI2NCIsW1siSGVhZGxlc3NDaHJvbWUiLCIxNDcuMC43NzI3LjE1Il0sWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTQ3LjAuNzcyNy4xNSJdXSwwXQ..&abgtt=9&dt=1778748106373&bpp=6&bdt=265&idt=6&shv=r20260511&mjsv=m202605110101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0%2C785x280&nras=1&correlator=930324043470&frm=20&pv=1&u_tz=0&u_his=2&u_h=900&u_w=1365&u_ah=900&u_aw=1365&u_cd=24&u_sd=1&dmc=16&adx=878&ady=1579&biw=1365&bih=900&scr_x=0&scr_y=0&eid=95386813%2C95386338&oid=2&pvsid=85849238486303&tmod=1197470169&uas=0&nvt=1&fc=1920&brdim=0%2C0%2C0%2C0%2C1365%2C0%2C1365%2C900%2C1365%2C900&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=128&bc=31&plas=430x707_l%7C430x707_r&bz=1&ifi=3&uci=a!3&btvi=1&fsb=1&dtd=9",
+    "status": "saved",
+    "path": "assets/e345de38eaa3594e_ads.html",
+    "content_type": "text/html",
+    "size": 4925,
+    "sha256": "1652f7d9743c9fad4e5cc85edd371c79d4db464947154f9cbf98e20d3df8a11b"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/186-1868279_disc-record-retro-vinyl-audio-sound-music-retro.png",
+    "final_url": "https://p.kindpng.com/picc/s/186-1868279_disc-record-retro-vinyl-audio-sound-music-retro.png",
+    "status": "saved",
+    "path": "assets/8ab3e0a5a9e7289b_186-1868279_disc-record-retro-vinyl-audio-sound-mu.png",
+    "content_type": "image/png",
+    "size": 43974,
+    "sha256": "fcb7fdd920a4ed6054925fb23b7be07fe3970de36cc70d86dabb3018d2cd3cfc"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/238-2387056_vinyl-record-music-sound-audio-disc-retro-vinyl.png",
+    "final_url": "https://p.kindpng.com/picc/s/238-2387056_vinyl-record-music-sound-audio-disc-retro-vinyl.png",
+    "status": "saved",
+    "path": "assets/1fc2a8caea7ce29c_238-2387056_vinyl-record-music-sound-audio-disc-re.png",
+    "content_type": "image/png",
+    "size": 41940,
+    "sha256": "eec904463e4ffdb0bc503ce1291b8ed66e71772e95f5f1ff1985d961b63aed17"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/130-1306458_retro-vinyl-record-music-disc-icon-hd-png.png",
+    "final_url": "https://p.kindpng.com/picc/s/130-1306458_retro-vinyl-record-music-disc-icon-hd-png.png",
+    "status": "saved",
+    "path": "assets/4e0c02f708d9c040_130-1306458_retro-vinyl-record-music-disc-icon-hd-.png",
+    "content_type": "image/png",
+    "size": 24029,
+    "sha256": "2fb3bc2a21e3698fb24f012d6b54a7a6f5eaec9390ef8e69f3fdf7bcc6298879"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/138-1383123_record-lp-vinyl-music-audio-vintage-album-retro.png",
+    "final_url": "https://p.kindpng.com/picc/s/138-1383123_record-lp-vinyl-music-audio-vintage-album-retro.png",
+    "status": "saved",
+    "path": "assets/597ff391c7a37053_138-1383123_record-lp-vinyl-music-audio-vintage-al.png",
+    "content_type": "image/png",
+    "size": 25975,
+    "sha256": "dd7503fb3585ba07d882ebaf9c2b386cc3acaa1973f1388ec2284c219fce2298"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/130-1306956_vinyl-music-bob-marley-sound-record-audio-music.png",
+    "final_url": "https://p.kindpng.com/picc/s/130-1306956_vinyl-music-bob-marley-sound-record-audio-music.png",
+    "status": "saved",
+    "path": "assets/45f624d28e0a020a_130-1306956_vinyl-music-bob-marley-sound-record-au.png",
+    "content_type": "image/png",
+    "size": 80387,
+    "sha256": "5ccfcb32be97a53ef4f5454a8442de23dbc1c204f602d5863c3fbdd00a71e502"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/427-4275118_gramophone-png-gallery-yopriceville-vinyl-record-clipart-transparent.png",
+    "final_url": "https://p.kindpng.com/picc/s/427-4275118_gramophone-png-gallery-yopriceville-vinyl-record-clipart-transparent.png",
+    "status": "saved",
+    "path": "assets/a5119a9963a5dddb_427-4275118_gramophone-png-gallery-yopriceville-vi.png",
+    "content_type": "image/png",
+    "size": 33472,
+    "sha256": "f6657f67eaf20b44a8e56806c9deaf650d7c03a30f31681da5ec4a0e547ca7d8"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/427-4275683_masterdisk-gold-record-transparent-transparent-png-gold-vinyl.png",
+    "final_url": "https://p.kindpng.com/picc/s/427-4275683_masterdisk-gold-record-transparent-transparent-png-gold-vinyl.png",
+    "status": "saved",
+    "path": "assets/011e2813cad50f89_427-4275683_masterdisk-gold-record-transparent-tra.png",
+    "content_type": "image/png",
+    "size": 42122,
+    "sha256": "1754f92c7dae6673619c494e60c3fdbad2b661f4c5ca21727c5bd004f5f67fb9"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/427-4275462_colored-vinyl-record-hd-png-download.png",
+    "final_url": "https://p.kindpng.com/picc/s/427-4275462_colored-vinyl-record-hd-png-download.png",
+    "status": "saved",
+    "path": "assets/2bbac87e8d964702_427-4275462_colored-vinyl-record-hd-png-download.png",
+    "content_type": "image/png",
+    "size": 40644,
+    "sha256": "e6a4b60ee0d807f5462c7c100eddf78d6b00db0dd46b6978f34fa61e69490b26"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/427-4275959_orbit-custom-top-view-record-player-top-view.png",
+    "final_url": "https://p.kindpng.com/picc/s/427-4275959_orbit-custom-top-view-record-player-top-view.png",
+    "status": "saved",
+    "path": "assets/ba2d9ed021f697b8_427-4275959_orbit-custom-top-view-record-player-to.png",
+    "content_type": "image/png",
+    "size": 61783,
+    "sha256": "8cf854356fddd7f1eb9b81a2c3ef673b768fdeeaeb4715018956dd63e8c117a6"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/112-1128696_gold-vinyl-record-psd-mockup-vinyl-mockup-disc.png",
+    "final_url": "https://p.kindpng.com/picc/s/112-1128696_gold-vinyl-record-psd-mockup-vinyl-mockup-disc.png",
+    "status": "saved",
+    "path": "assets/c1715d5a4e5e80a4_112-1128696_gold-vinyl-record-psd-mockup-vinyl-moc.png",
+    "content_type": "image/png",
+    "size": 47485,
+    "sha256": "2f7719e889d7fac78d4c46d7c76566651268cee8728f2aa85072c0e724f31c1d"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/112-1128495_vinyl-disc-silhouette-hd-png-download.png",
+    "final_url": "https://p.kindpng.com/picc/s/112-1128495_vinyl-disc-silhouette-hd-png-download.png",
+    "status": "saved",
+    "path": "assets/0d284526c35a37d2_112-1128495_vinyl-disc-silhouette-hd-png-download.png",
+    "content_type": "image/png",
+    "size": 43824,
+    "sha256": "f125b793e837ed4f950c862cb975b1fd3621898d3ca52958c79b55a350d30e96"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/21-215217_transparent-compact-disk-clipart-player-disc-png-png.png",
+    "final_url": "https://p.kindpng.com/picc/s/21-215217_transparent-compact-disk-clipart-player-disc-png-png.png",
+    "status": "saved",
+    "path": "assets/738d13d39dac1f8b_21-215217_transparent-compact-disk-clipart-player-.png",
+    "content_type": "image/png",
+    "size": 27737,
+    "sha256": "a50225ef7f44ed35d30750fd5e77834c2357e45063cec1bec46300330bffc576"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/101-1019846_record-vinyl-jukebox-disc-music-disco-album-gramophone.png",
+    "final_url": "https://p.kindpng.com/picc/s/101-1019846_record-vinyl-jukebox-disc-music-disco-album-gramophone.png",
+    "status": "saved",
+    "path": "assets/a440a82c19d977f1_101-1019846_record-vinyl-jukebox-disc-music-disco-.png",
+    "content_type": "image/png",
+    "size": 41941,
+    "sha256": "33a5d62b5bcc85a7b3a7c02f759652c29ad78ecb3cb20f6df995f0f1359d7ecd"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/236-2360713_vector-graphics-free-pictures-free-photos-free-images.png",
+    "final_url": "https://p.kindpng.com/picc/s/236-2360713_vector-graphics-free-pictures-free-photos-free-images.png",
+    "status": "saved",
+    "path": "assets/45a6cb91f9c7110c_236-2360713_vector-graphics-free-pictures-free-pho.png",
+    "content_type": "image/png",
+    "size": 21839,
+    "sha256": "fd6c573acc282293706e988b65354969745a27f251d1bc3d482e474f728704fc"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/791-7916971_music-meal-audio-player-black-vinyl-record-png.png",
+    "final_url": "https://p.kindpng.com/picc/s/791-7916971_music-meal-audio-player-black-vinyl-record-png.png",
+    "status": "saved",
+    "path": "assets/1c616e0ed50c1256_791-7916971_music-meal-audio-player-black-vinyl-re.png",
+    "content_type": "image/png",
+    "size": 40252,
+    "sha256": "b030ff52963a46733982fca0fe091d6585768491089ad50b917096202779e958"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/272-2721794_the-sound-of-vinyl-sound-of-vinyl-logo.png",
+    "final_url": "https://p.kindpng.com/picc/s/272-2721794_the-sound-of-vinyl-sound-of-vinyl-logo.png",
+    "status": "saved",
+    "path": "assets/43c5f8cec7c5f1bb_272-2721794_the-sound-of-vinyl-sound-of-vinyl-logo.png",
+    "content_type": "image/png",
+    "size": 42378,
+    "sha256": "1b21b7d5befb8481ae330902f27c7ca7a7636d34d879926f293d152ab70ab545"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/200-2008271_audio-loud-music-sound-speaker-volume-icon-free.png",
+    "final_url": "https://p.kindpng.com/picc/s/200-2008271_audio-loud-music-sound-speaker-volume-icon-free.png",
+    "status": "saved",
+    "path": "assets/5bd9e3d7d06d25fd_200-2008271_audio-loud-music-sound-speaker-volume-.png",
+    "content_type": "image/png",
+    "size": 19423,
+    "sha256": "52e0a87f1e63a69ec28d7268f82886628c83c8e97ff020c25af044b89a89a3eb"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/75-757661_record-player-clipart-google-vinyl-record-player-clipart.png",
+    "final_url": "https://p.kindpng.com/picc/s/75-757661_record-player-clipart-google-vinyl-record-player-clipart.png",
+    "status": "saved",
+    "path": "assets/cec9e633cb640070_75-757661_record-player-clipart-google-vinyl-recor.png",
+    "content_type": "image/png",
+    "size": 29967,
+    "sha256": "04ae8b6c3ac0a4ef198d6dfbcb62c6eac5c9bd459bfe1f9026f98ebfea1cb0c7"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/370-3703746_cd-transparent-plain-cd-hd-png-download.png",
+    "final_url": "https://p.kindpng.com/picc/s/370-3703746_cd-transparent-plain-cd-hd-png-download.png",
+    "status": "saved",
+    "path": "assets/b72b7b5c3e2cc1e4_370-3703746_cd-transparent-plain-cd-hd-png-downloa.png",
+    "content_type": "image/png",
+    "size": 63046,
+    "sha256": "fe5e8d40e4dc0752709a94e9e794743d197aaab4b7295d6cc17b6d7976389858"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/427-4277944_phonograph-record-png-download-transparent-png.png",
+    "final_url": "https://p.kindpng.com/picc/s/427-4277944_phonograph-record-png-download-transparent-png.png",
+    "status": "saved",
+    "path": "assets/e27667cc98b00c01_427-4277944_phonograph-record-png-download-transpa.png",
+    "content_type": "image/png",
+    "size": 20610,
+    "sha256": "2e1c0ce993535d8554829c8fabb10269c26f846100f96ad1e6f5a51df3cb7957"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/637-6372598_dj-record-png-clipart-png-download-circle-transparent.png",
+    "final_url": "https://p.kindpng.com/picc/s/637-6372598_dj-record-png-clipart-png-download-circle-transparent.png",
+    "status": "saved",
+    "path": "assets/ab03097f26ee6954_637-6372598_dj-record-png-clipart-png-download-cir.png",
+    "content_type": "image/png",
+    "size": 34859,
+    "sha256": "7d0027d9de6124586c1b72eb430ffeb5df0fcabf38e07a5a4f258380227d6ed0"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/572-5725967_example-image-of-two-flexi-discs-circle-hd.png",
+    "final_url": "https://p.kindpng.com/picc/s/572-5725967_example-image-of-two-flexi-discs-circle-hd.png",
+    "status": "saved",
+    "path": "assets/a0f8215fab017017_572-5725967_example-image-of-two-flexi-discs-circl.png",
+    "content_type": "image/png",
+    "size": 78193,
+    "sha256": "425f46a63b921e6ac5d0cae97b6d78e16e924b1db74ea2291c0d87595e7e1d77"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/572-5726008_transparent-vinyl-disc-png-wall-clock-png-download.png",
+    "final_url": "https://p.kindpng.com/picc/s/572-5726008_transparent-vinyl-disc-png-wall-clock-png-download.png",
+    "status": "saved",
+    "path": "assets/cbd56db503740238_572-5726008_transparent-vinyl-disc-png-wall-clock-.png",
+    "content_type": "image/png",
+    "size": 57696,
+    "sha256": "dec4fbfc1a7f4b7ac049a6c10d48f4a23651b8b58fb4efae06ddf0b2a0c38e98"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/24-244870_disc-makers-offers-personalized-cd-design-services-album.png",
+    "final_url": "https://p.kindpng.com/picc/s/24-244870_disc-makers-offers-personalized-cd-design-services-album.png",
+    "status": "saved",
+    "path": "assets/9b48c0d8fed25628_24-244870_disc-makers-offers-personalized-cd-desig.png",
+    "content_type": "image/png",
+    "size": 88673,
+    "sha256": "549b19b98a7be94e5f7cf9f6fcf7106f6776b8e20c25d48476564b25ccf0a72e"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/25-259516_grunge-music-tumblr-aesthetic-album-record-niche-photography.png",
+    "final_url": "https://p.kindpng.com/picc/s/25-259516_grunge-music-tumblr-aesthetic-album-record-niche-photography.png",
+    "status": "saved",
+    "path": "assets/84a94725898b15df_25-259516_grunge-music-tumblr-aesthetic-album-reco.png",
+    "content_type": "image/png",
+    "size": 57317,
+    "sha256": "02f1a4efab9c9c33c861345dbd91381c54a52e104108e60c8a483198d411933b"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/383-3839800_microphone-sound-record-radio-equipment-retro-.png",
+    "final_url": "https://p.kindpng.com/picc/s/383-3839800_microphone-sound-record-radio-equipment-retro-.png",
+    "status": "saved",
+    "path": "assets/741e7215802d802c_383-3839800_microphone-sound-record-radio-equipmen.png",
+    "content_type": "image/png",
+    "size": 77765,
+    "sha256": "308dae2a1960105352c4db3a5f87ba3e19b05952df7a4ec4bc29498f73080fa3"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/9-94415_vinyl-disc-record-svg-clip-arts-record-label.png",
+    "final_url": "https://p.kindpng.com/picc/s/9-94415_vinyl-disc-record-svg-clip-arts-record-label.png",
+    "status": "saved",
+    "path": "assets/efb2607c73aa62ce_9-94415_vinyl-disc-record-svg-clip-arts-record-lab.png",
+    "content_type": "image/png",
+    "size": 21374,
+    "sha256": "62f5d02aa4e330e686461858be2a8c6dbaf8a2dce1b060b58f0087713d557c2d"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/60-609831_vinyl-music-retro-jazz-jazz-vinyl-png-transparent.png",
+    "final_url": "https://p.kindpng.com/picc/s/60-609831_vinyl-music-retro-jazz-jazz-vinyl-png-transparent.png",
+    "status": "saved",
+    "path": "assets/e50cdc9f1e6d3505_60-609831_vinyl-music-retro-jazz-jazz-vinyl-png-tr.png",
+    "content_type": "image/png",
+    "size": 47475,
+    "sha256": "0f054394862e0a011ada247673a6dcf71f42456385b836596b59789d4a2254dd"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/112-1128545_transparent-vinyl-disc-png-circle-png-download.png",
+    "final_url": "https://p.kindpng.com/picc/s/112-1128545_transparent-vinyl-disc-png-circle-png-download.png",
+    "status": "saved",
+    "path": "assets/00cea5d644a121f4_112-1128545_transparent-vinyl-disc-png-circle-png-.png",
+    "content_type": "image/png",
+    "size": 25562,
+    "sha256": "2f2c69a0e52f1bf6b0e73e567ef7497af59c814e11918a468208f901172b15b8"
+  },
+  {
+    "url": "https://p.kindpng.com/picc/s/102-1020118_retro-pillow-cover-16-vinyl-record-albums-british.png",
+    "final_url": "https://p.kindpng.com/picc/s/102-1020118_retro-pillow-cover-16-vinyl-record-albums-british.png",
+    "status": "saved",
+    "path": "assets/19e1e129812bb22b_102-1020118_retro-pillow-cover-16-vinyl-record-alb.png",
+    "content_type": "image/png",
+    "size": 69623,
+    "sha256": "62c65c8601b0c8609ff80514281f970600d4754b44af15663c9b32eed8cbfb08"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/11546.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/11546.jpg",
+    "status": "saved",
+    "path": "assets/2984a7de888c7f53_11546.jpg",
+    "content_type": "image/jpeg",
+    "size": 7118,
+    "sha256": "20da05b961c1705593cfd957f7f29cfa786512a3e08dc812671a35c62734c17b"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/2725.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/2725.jpg",
+    "status": "saved",
+    "path": "assets/b1a9e60848873f3c_2725.jpg",
+    "content_type": "image/jpeg",
+    "size": 6804,
+    "sha256": "d07beec5ffa69e4321c61e17a64c1bfc5c65e66c01385ee241fd875e26597997"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/7802.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/7802.jpg",
+    "status": "saved",
+    "path": "assets/5a5c6944f6cb27f6_7802.jpg",
+    "content_type": "image/jpeg",
+    "size": 4479,
+    "sha256": "8928bb5e19ab22a057f90ac8ad74105e1bdf9740d5832c55a3e363146486ffef"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/2877.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/2877.jpg",
+    "status": "saved",
+    "path": "assets/c7b408d89499c8f4_2877.jpg",
+    "content_type": "image/jpeg",
+    "size": 5829,
+    "sha256": "8a71bbd7f0652119edbdfbe482e32ef2bf450955cc2ca8924b9dc5f01a97a6b4"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/4943.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/4943.jpg",
+    "status": "saved",
+    "path": "assets/fd5ee20d4be9acff_4943.jpg",
+    "content_type": "image/jpeg",
+    "size": 7258,
+    "sha256": "1e0af44492e5ee413cc08b2e8e22d8074bc95ab9569f44c9055d7ff2815d340e"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/5075.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/5075.jpg",
+    "status": "saved",
+    "path": "assets/ef6bac46781b85db_5075.jpg",
+    "content_type": "image/jpeg",
+    "size": 6476,
+    "sha256": "1e271dceb0d782a6d5ffde881faa8873f11cf43a137a842cc03de8d18bb83fdc"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/5030.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/5030.jpg",
+    "status": "saved",
+    "path": "assets/8a3eb5497aa1904a_5030.jpg",
+    "content_type": "image/jpeg",
+    "size": 8621,
+    "sha256": "ae99e191b5392d7a7a5bb38ad88ebd519414e84529c5006d3c0bab269dbf6fa4"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/5156.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/5156.jpg",
+    "status": "saved",
+    "path": "assets/c8c616d2854150c2_5156.jpg",
+    "content_type": "image/jpeg",
+    "size": 3855,
+    "sha256": "9530cf51c84fe8753c56f12a194c8224154cb22dea852678433ee193bd266fa8"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/2923.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/2923.jpg",
+    "status": "saved",
+    "path": "assets/e20213b576316363_2923.jpg",
+    "content_type": "image/jpeg",
+    "size": 6940,
+    "sha256": "c336c90aac91744c9394ffef43658e8feffd3a86fcc838ae0da9ca604be65e71"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/2848.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/2848.jpg",
+    "status": "saved",
+    "path": "assets/4160e167de3168ea_2848.jpg",
+    "content_type": "image/jpeg",
+    "size": 4314,
+    "sha256": "dfc8cb906eaaef1c488eae31016390215f74795552d63448302278effc8c12f5"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/6677.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/6677.jpg",
+    "status": "saved",
+    "path": "assets/f7141205fdab0d96_6677.jpg",
+    "content_type": "image/jpeg",
+    "size": 4146,
+    "sha256": "30402b74d81ab6ad1789a3556092b879f4e82e93dcce917c9bc8d25c600d9e8e"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/15815.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/15815.jpg",
+    "status": "saved",
+    "path": "assets/cdadbb6b542d960c_15815.jpg",
+    "content_type": "image/jpeg",
+    "size": 8315,
+    "sha256": "7372a485f1426013b73d09c1d5d3f23f8c00f0a624d5f0e859eb62f849153241"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/4185.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/4185.jpg",
+    "status": "saved",
+    "path": "assets/635c789ce4ca7d16_4185.jpg",
+    "content_type": "image/jpeg",
+    "size": 5558,
+    "sha256": "63617f62cefeb231a779879d5b8fedf6b2f21f782bb6a05f176b28a462843c20"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/10659.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/10659.jpg",
+    "status": "saved",
+    "path": "assets/a205ad3abfd48c25_10659.jpg",
+    "content_type": "image/jpeg",
+    "size": 7556,
+    "sha256": "6198871e98d8e198d6eebe600e6f11623e43ff0a6e3040a28a3f6553a6c5ed76"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/15413.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/15413.jpg",
+    "status": "saved",
+    "path": "assets/fd8659c0d5722f47_15413.jpg",
+    "content_type": "image/jpeg",
+    "size": 7011,
+    "sha256": "dae725ef17c719a226229eda6bfeb65eee71aabc76a023bf65dc31862ad93e64"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/2085.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/2085.jpg",
+    "status": "saved",
+    "path": "assets/df2af2b4ef0f378f_2085.jpg",
+    "content_type": "image/jpeg",
+    "size": 6076,
+    "sha256": "a37d2b681f693329a1b048ce4b99a994c52c4c062e97c065360ade7cc3d95839"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/9944.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/9944.jpg",
+    "status": "saved",
+    "path": "assets/977b2471ca5d8e6d_9944.jpg",
+    "content_type": "image/jpeg",
+    "size": 4314,
+    "sha256": "dfc8cb906eaaef1c488eae31016390215f74795552d63448302278effc8c12f5"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/5652.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/5652.jpg",
+    "status": "saved",
+    "path": "assets/e70a3c9d9bf58891_5652.jpg",
+    "content_type": "image/jpeg",
+    "size": 8786,
+    "sha256": "7aabf10cd1cf196712d8867cf9480aa6aea12aa64e739d672ad1fd6f06306def"
+  },
+  {
+    "url": "https://www.kindpng.com/userimgs/17371.jpg",
+    "final_url": "https://www.kindpng.com/userimgs/17371.jpg",
+    "status": "saved",
+    "path": "assets/cfd093f903fd649a_17371.jpg",
+    "content_type": "image/jpeg",
+    "size": 7786,
+    "sha256": "43115f5a10e50ece5fac38339d400b8df1bc04a68df3c211aab3682ec159ce12"
+  },
+  {
+    "url": "https://www.kindpng.com/adopen/adstyle.css",
+    "final_url": "https://www.kindpng.com/adopen/adstyle.css",
+    "status": "saved",
+    "path": "assets/58a5a4a0eb0edccf_adstyle.css",
+    "content_type": "text/css",
+    "size": 2028,
+    "sha256": "d42740939f2360fe909bc75196b8301e687536756041c4b03a4977e579c3e300"
+  },
+  {
+    "url": "https://www.kindpng.com/adopen/close-2.png",
+    "final_url": "https://www.kindpng.com/adopen/close-2.png",
+    "status": "saved",
+    "path": "assets/ce8beec91b5313ae_close-2.png",
+    "content_type": "image/png",
+    "size": 5520,
+    "sha256": "2d1ea06a216b203ab87aa80a5f45a4db960fb05d29a92ef56e3f2735cc77a0f8"
+  },
+  {
+    "url": "https://www.kindpng.com/js/jquery-1.11.0.js",
+    "final_url": "https://www.kindpng.com/js/jquery-1.11.0.js",
+    "status": "saved",
+    "path": "assets/03ab646076a2bc3d_jquery-1.11.0.js",
+    "content_type": "application/javascript",
+    "size": 93637,
+    "sha256": "4324b38b9ec698fc427b815572e3aab9751db1df02d4dbe0a682e753aeeda897"
+  },
+  {
+    "url": "https://www.kindpng.com/js/lazyload.js",
+    "final_url": "https://www.kindpng.com/js/lazyload.js",
+    "status": "saved",
+    "path": "assets/c7379f2fa0446160_lazyload.js",
+    "content_type": "application/javascript",
+    "size": 4227,
+    "sha256": "d375b81cfccd24a85a39a3de8f2bf580868fcc77dae0416505eb37c1a1b23afe"
+  },
+  {
+    "url": "https://www.kindpng.com/js/jquery.flex-images.js",
+    "final_url": "https://www.kindpng.com/js/jquery.flex-images.js",
+    "status": "saved",
+    "path": "assets/bb067fa1e9e515b8_jquery.flex-images.js",
+    "content_type": "application/javascript",
+    "size": 2914,
+    "sha256": "efed367a0efbef72e8727f462110b00000d55db1bb5b275b9963278deb9b8aaa"
+  },
+  {
+    "url": "https://www.kindpng.com/js/feture.js",
+    "final_url": "https://www.kindpng.com/js/feture.js",
+    "status": "saved",
+    "path": "assets/bc27d2867dbbb1bf_feture.js",
+    "content_type": "application/javascript",
+    "size": 1580,
+    "sha256": "d7253c393a7b30152a43246ae103826021cc935cab8c427184e19c4b1e9edad7"
+  },
+  {
+    "url": "https://www.kindpng.com/js/common.js?v=1.2",
+    "final_url": "https://www.kindpng.com/js/common.js?v=1.2",
+    "status": "saved",
+    "path": "assets/1b7c97ea1b139ecb_common.js",
+    "content_type": "application/javascript",
+    "size": 1515,
+    "sha256": "49e24d7a292df23d736cca257e4e8765cafcb60e149af537c543aa42a46ac093"
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/html/r20260511/r20190131/zrt_lookup_fy2021.html",
+    "final_url": "https://googleads.g.doubleclick.net/pagead/html/r20260511/r20190131/zrt_lookup_fy2021.html",
+    "status": "saved",
+    "path": "assets/3110863b84908d60_zrt_lookup_fy2021.html",
+    "content_type": "text/html",
+    "size": 8479,
+    "sha256": "c92e82828cdd0d552fe0f769a91427c6f0df8b06f7252abea603ab53d8f4e2ef"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api2/aframe",
+    "final_url": "https://www.google.com/recaptcha/api2/aframe",
+    "status": "saved",
+    "path": "assets/4312f1f2b7586835_aframe.html",
+    "content_type": "text/html",
+    "size": 829,
+    "sha256": "808adb5a77ac4430da309ed0404d683269955e574e2d6d06c5c1dd7874f57861"
+  },
+  {
+    "url": "https://www.kindpng.com/images/icon-down.png",
+    "status": "failed",
+    "reason": "HTTP 404"
+  }
+]

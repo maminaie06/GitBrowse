@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://www.kindpng.com/imgv/ihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro/",
+  "captured_at_utc": "2026-05-14T08:41:44.743811+00:00",
+  "domain": "kindpng.com",
+  "slug": "www.kindpng.com_imgv_ihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro",
+  "timestamp": "20260514_084144",
+  "session_key": "kindpng_com",
+  "persist_session": true,
+  "used_existing_session": false,
+  "save_response_bodies": true,
+  "max_response_body_mb": 2.0,
+  "max_asset_size_mb": 25.0,
+  "auto_scroll": true,
+  "include_videos": false,
+  "proxy": {
+    "enabled": false,
+    "mode": "none"
+  },
+  "final_url": "https://www.kindpng.com/imgv/ihRmTiR_disc-record-retro-vinyl-audio-sound-music-retro/",
+  "offline_assets_saved": 156,
+  "offline_assets_skipped": 0,
+  "offline_assets_failed": 14,
+  "dom_link_count": 180,
+  "media_link_count": 53,
+  "session_path": "sessions/kindpng_com.json",
+  "network_request_count": 139
+}
